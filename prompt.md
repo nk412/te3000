@@ -71,6 +71,7 @@ Cite existing scholars with the exact work, date, and edition below. Invent only
 - Halvorsen, E. (2733). "Acid mine drainage and the taphonomy of silver-gelatin media." *J. Anthropogenic Stratigraphy* 12: 331–402.
 - Okonkwo, D. (2977). *The Corridor Deposit.*
 - Okonkwo, D. & Halvorsen, E. (2981). "Timezone offsets as a labour census: the L-III commit metadata." *J. Anthropogenic Stratigraphy* 61: 402–466.
+- Adeyemi, F. (2969). *A Reconstructed Grammar of Late Combustion English.* — The standard reconstruction of period English and its descent to Standard Terran. Aphorism, quote verbatim: *"a language did not survive because it was spoken; it survived because it was copied, and it was copied because it was already loud."*
 
 ### Reusable facts and coinages — hook new articles into these
 Real, load-bearing quantities and established coinages already in the corpus. Reach for these before deriving new ones; they are what let an article cross-reference rather than free-float.
@@ -85,7 +86,9 @@ Real, load-bearing quantities and established coinages already in the corpus. Re
 - **The two Uluburun wrecks**: sealed, dated container ships (Strait of Malacca; the northern mouth of the Suez canal) carrying every artefact class of the age in the proportions it moved them.
 - **Sea level** at 3000 CE stands several metres above the Middle Combustion datum and is still rising on a millennial ice-response.
 
-Other established coinages, free to reference: **Gallus Horizon** · **Crawford populations** · **Portal Leader** · **the Instruction** · **the Corridor Deposit** · **thin-attestation regions** · **the Svalbard bias**.
+- **Languages**: on the order of 7,000 at the Late-Combustion maximum; ≈40% projected to lose their last first-language speaker within the century, and fewer than 5% with any substantial machine-readable presence — both figures published by the period. Survival into 3000 CE follows the **attestation gradient** (Adeyemi): speaker-count × durable-medium footprint, the two compounding. Interdental fricatives (in <5% of languages) already drifting to stops/labiodentals in period vernaculars; Standard Terran completes the loss, and inherits the perfective particle *don* (< completive *done*) and the inclusive plural *yumi* (< a Melanesian contact vernacular). The finest deliberate salvage is a **nickel language-disk** (~76 mm, ~13,000 pages, ~1,500 languages, rated 2,000 yr); for several hundred of those languages it is the sole attestation. **Reconstructed Late Combustion English** = the encyclopaedia's scholarly register; **Standard Terran** = the living descendant.
+
+Other established coinages, free to reference: **Gallus Horizon** · **Crawford populations** · **Portal Leader** · **the Instruction** · **the Corridor Deposit** · **thin-attestation regions** · **the Svalbard bias** · **the attestation gradient**.
 
 ---
 
