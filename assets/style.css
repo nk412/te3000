@@ -1,0 +1,103 @@
+/* Terran Encyclopaedia -- Wikipedia-style clone */
+*{box-sizing:border-box}
+body{margin:0;background:#f8f9fa;color:#202122;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size:15px;line-height:1.62}
+a{color:#3366cc;text-decoration:none}
+a:hover{text-decoration:underline}
+a:visited{color:#795cb2}
+
+/* ---- header ---- */
+.mw-header{display:flex;align-items:center;gap:1rem;background:#fff;
+  border-bottom:1px solid #a2a9b1;padding:.5rem 1rem;position:sticky;top:0;z-index:20}
+.mw-wordmark{display:flex;align-items:center;gap:.6rem;color:inherit}
+.mw-wordmark:hover{text-decoration:none}
+.mw-globe{width:42px;height:42px;border-radius:50%;flex:0 0 42px;
+  background:radial-gradient(circle at 32% 30%,#ffffff,#e6e8eb);border:1px solid #c8ccd1;
+  display:flex;align-items:center;justify-content:center;color:#54595d;
+  font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1.05rem}
+.mw-name{font-family:Georgia,"Linux Libertine","Times New Roman",serif;font-size:1.3rem;line-height:1.1}
+.mw-tag{display:block;font-size:.7rem;color:#72777d;letter-spacing:.02em}
+.mw-search{margin-left:auto;display:flex}
+.mw-search input{border:1px solid #a2a9b1;border-right:0;border-radius:2px 0 0 2px;
+  padding:.4rem .6rem;font-size:.9rem;width:min(46vw,320px)}
+.mw-search button{border:1px solid #a2a9b1;background:#f8f9fa;border-radius:0 2px 2px 0;
+  padding:.4rem .8rem;cursor:pointer;font-size:.9rem}
+.mw-search button:hover{background:#eaecf0}
+
+/* ---- layout ---- */
+.mw-main{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+.mw-sidebar{width:11.8em;flex:0 0 11.8em;padding:1rem .7rem 2rem;font-size:.8rem;color:#202122}
+.mw-sidebar h3{font-size:.72rem;color:#54595d;font-weight:400;
+  border-bottom:1px solid #eaecf0;margin:1rem 0 .3rem;padding-bottom:.2rem}
+.mw-sidebar ul{list-style:none;margin:0;padding:0}
+.mw-sidebar li{padding:.16rem 0 .16rem .4rem;line-height:1.3}
+.mw-sidebar li.active a{font-weight:700;color:#202122}
+
+.mw-content{flex:1 1 auto;min-width:0;background:#fff;padding:1.1rem 1.7rem 2.4rem}
+@media (min-width:1000px){.mw-content{border-left:1px solid #eaecf0;min-height:80vh}}
+.mw-content-inner{max-width:60rem}
+
+/* ---- headings & text ---- */
+.firstHeading{font-family:Georgia,"Linux Libertine","Times New Roman",serif;font-weight:400;
+  font-size:1.95rem;line-height:1.3;border-bottom:1px solid #a2a9b1;padding-bottom:.2rem;margin:0 0 .25rem}
+.mw-subtitle{color:#54595d;font-size:.85rem;font-style:italic;margin:0 0 1rem}
+.mw-body-content h2{font-family:Georgia,"Linux Libertine","Times New Roman",serif;font-weight:400;
+  font-size:1.5rem;border-bottom:1px solid #a2a9b1;padding-bottom:.2rem;margin:1.5rem 0 .6rem}
+.mw-body-content h3{font-size:1.15rem;font-weight:700;margin:1.15rem 0 .35rem}
+.mw-body-content h4{font-size:1rem;font-weight:700;margin:1rem 0 .3rem}
+.mw-body-content p{margin:.62rem 0}
+.mw-body-content ul,.mw-body-content ol{margin:.5rem 0 .5rem 1.7rem;padding:0}
+.mw-body-content li{margin:.26rem 0}
+.mw-body-content hr{border:0;border-top:1px solid #eaecf0;margin:1.3rem 0}
+
+blockquote{margin:.4rem 0 .9rem 1.6rem;color:#54595d;font-style:italic;font-size:.95rem;padding:.1rem 0}
+blockquote p{margin:.3rem 0}
+blockquote strong{color:#202122}
+
+/* ---- tables ---- */
+.table-wrap{overflow-x:auto;max-width:100%;margin:.9rem 0}
+table.wikitable{border-collapse:collapse;background:#f8f9fa;font-size:.9rem;border:1px solid #a2a9b1}
+table.wikitable th,table.wikitable td{border:1px solid #a2a9b1;padding:.35rem .6rem;
+  text-align:left;vertical-align:top}
+table.wikitable th{background:#eaecf0;font-weight:700}
+
+/* ---- toc ---- */
+.toc{display:table;background:#f8f9fa;border:1px solid #a2a9b1;border-radius:2px;
+  padding:.55rem 1.3rem .6rem .6rem;margin:1rem 0;font-size:.9rem}
+.toc .toctitle{text-align:center;margin-bottom:.25rem}
+.toc .toctitle h2{border:0;font-family:inherit;font-size:1rem;font-weight:700;margin:0;padding:0}
+.toc ul{list-style:none;margin:0;padding-left:1.3rem}
+.toc>ul{padding-left:.3rem}
+.toc li{margin:.16rem 0;line-height:1.35}
+
+/* ---- footer ---- */
+.mw-footer{max-width:1400px;margin:.5rem auto 3rem;padding:1rem 1.7rem;
+  border-top:1px solid #eaecf0;color:#72777d;font-size:.8rem}
+
+/* ---- portal / index ---- */
+.portal-hero{text-align:center;border:1px solid #c8ccd1;background:#f8f9fa;border-radius:3px;
+  padding:1.7rem 1.2rem;margin-bottom:1.3rem}
+.portal-hero h1{font-family:Georgia,serif;font-weight:400;font-size:2rem;margin:.1rem 0 .4rem}
+.portal-hero p{color:#54595d;margin:.3rem auto;max-width:46rem}
+.portal-two{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.box{border:1px solid #c8ccd1;border-radius:3px;padding:1rem 1.1rem;background:#fff;margin:1rem 0}
+.box h2{border:0;font-family:Georgia,serif;font-weight:400;font-size:1.25rem;margin:0 0 .5rem;color:#000}
+.box.featured{border-left:4px solid #3366cc}
+.box.dyk ul{margin:0;padding-left:1.2rem}
+.box.dyk li{margin:.45rem 0}
+.portal-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin:1.2rem 0}
+.portal-card{border:1px solid #c8ccd1;border-radius:3px;padding:1rem 1.1rem;background:#fff}
+.portal-card h3{margin:.1rem 0 .45rem;font-family:Georgia,serif;font-weight:400;font-size:1.2rem}
+.portal-card p{margin:0;color:#333;font-size:.92rem}
+
+/* ---- responsive ---- */
+@media (max-width:999px){
+  .mw-main{flex-direction:column}
+  .mw-sidebar{width:100%;flex:none;display:flex;flex-wrap:wrap;gap:.2rem 1.4rem;
+    padding:.6rem 1rem;border-bottom:1px solid #eaecf0}
+  .mw-sidebar .sb-block{min-width:8rem}
+  .mw-content{width:100%;padding:1rem}
+  .portal-two{grid-template-columns:1fr}
+  .mw-search input{width:40vw}
+}
