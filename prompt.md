@@ -108,7 +108,7 @@ Other established coinages, free to reference: **Gallus Horizon** · **Crawford 
 
 Everything below is a toolkit, not a checklist. The failure mode of this brief is that every article comes out the *same shape*: `Name and terminology → Sources and the attestation problem → Chronology → substance → the Contraction → an Assessment table`, running the *same play* — a survival bias, one flat indicting fact, two lettered schools, a measured object at the end. Executed once, it is superb. Executed every time, it is wallpaper, and a reader who has read three articles can write the fourth. That is the disease this section exists to cure.
 
-So, before craft: **no two articles may share a skeleton, a spine, or an ending shape.** Read the two or three most recent articles in the corpus. Whatever structural and rhetorical moves they made, make *different* ones. The canon is fixed and shared; the *architecture* of each article must not be.
+So, before craft: **no two articles may share a skeleton, a spine, a weight, or an ending shape.** Read the two or three most recent articles in the corpus. Whatever structural and rhetorical moves they made, make *different* ones. The canon is fixed and shared; the *architecture* of each article must not be.
 
 ### Choose a spine
 The spine is the engine that pulls the reader through — the reason this is *an article* and not a stub. Taphonomy is one spine. It is not the only one, and because it is the default it should be reached for *least*, not most. Pick the spine the topic actually wants, and a different one than the last article used:
@@ -124,6 +124,22 @@ The spine is the engine that pulls the reader through — the reason this is *an
 - **The convergence.** Two unrelated subjects turn out bound by one physical fact. The article is the discovery of the link.
 
 Compose or invent others. The only rule is that the spine is *chosen*, *named to yourself before you write*, and *different from recent articles*.
+
+### Choose a weight
+Not every entry is a feature article, and the corpus goes dead when every entry is the same *size* just as surely as when it is the same *shape*. This is a reference work, not a thesis collection. A real one carries entries of wildly uneven weight — a few sprawling hub articles, many ordinary ones, and a long tail of stubs, fragments, and catalogue cards someone never came back to finish. A 3000 CE encyclopaedia would be *more* uneven, not less, because its coverage is hostage to what survived. **Let the length of an entry be evidence in itself.** A three-sentence stub tells the reader, truthfully, that the attestation is thin; padding that thinness into four thousand words is its own kind of falsification.
+
+Pick a weight to match the topic and the evidence, and vary it from recent entries:
+
+- **Hub / feature** — 2,500–4,000+ words, the full apparatus. For subjects that genuinely carry it: the overview, the great deposit, the flagship. *Most topics are not this*, and defaulting every entry to feature length is a main cause of the sameness.
+- **Standard** — roughly 800–2,000 words, a handful of sections, one table or none. The workhorse.
+- **Stub** — a few sentences to a couple hundred words. What little is known, stated plainly, often with a flat note that the entry is short because the record is. No numbered sections, no assessment table, one reference or none. These should be *common*.
+- **Fragment / single-witness** — built around one recovered object, one surviving line, one intercepted packet: reproduce it, gloss it, stop. Sometimes little more than a catalogue card and a two-line note on what it can and cannot bear.
+- **Catalogue / list** — "known X of the Combustion Age": a short framing paragraph, then a terse annotated list or table. Here a list is the correct form, not a failure of prose (see FORBIDDEN).
+- **Cross-reference / disambiguation** — a near-empty entry whose whole job is a hatnote pointing several ways; a line or two of body, if any.
+
+The spirit to borrow is that of a large, patchily-catalogued archive — entries of every register and length shelved side by side, some exhaustive, some a single index card. Terseness, redaction, and "almost nothing survives" are legitimate *content*, delivered in the same flat voice, not gaps to apologise for or fill.
+
+**What a short entry still owes:** it is still true, still in voice, still de-branded, names no real figure or brand, invents no physics. The freedom is in *scale and form*, never in truth or safety. And it still opens with the fixed byline and one clean bold hatnote sentence — that sentence is the home-page card blurb, so every entry, however small, needs a standalone line that reads well alone.
 
 ---
 
@@ -211,7 +227,9 @@ Late Combustion English by convention of the Historical Faculty.*
                           ("Combative; correct in method; less persuasive on…")
 ```
 
-**The lead is two to four paragraphs** stating what the thing is, its dates and hard physical facts, and the tension the article will pursue. It may open on a definition, on a single object, on a live dispute, on the mechanism, on a date, on a paradox — **not** always on the same three-paragraph `definition → Bronze Age comparison → evidentiary twist` move. Vary the door you come in through; a reader who meets the identical opening five times has stopped reading it.
+The apparatus shown in the block above — a multi-paragraph lead, numbered sections, an 8–10 item *See also*, 6–9 references — is the *full* dress, for hub and standard articles. It scales down with weight (see *Choose a weight*): a stub may have a one-line lead, no sections, a short *See also* or none, and a single reference or none; a cross-reference entry may be little more than the hatnote. Carry only as much apparatus as the topic has evidence for. Empty scaffolding — a chronology table with three padded rows, a *See also* stretched to ten, a lone "school" with no opponent — is exactly what makes a corpus read as machine-made.
+
+**For a full article, the lead is two to four paragraphs** stating what the thing is, its dates and hard physical facts, and the tension the article will pursue. It may open on a definition, on a single object, on a live dispute, on the mechanism, on a date, on a paradox — **not** always on the same three-paragraph `definition → Bronze Age comparison → evidentiary twist` move. Vary the door you come in through; a reader who meets the identical opening five times has stopped reading it.
 
 **Build the body around the spine you chose.** Section headers are *topic-specific* and follow the argument. They are **never** the boilerplate sequence `Name and terminology → Sources and the attestation problem → … → Assessment` reproduced wholesale — if a reader could predict your headers from the previous article, you have shipped the machine, not an article. Below are skeletons matched to spines. They are departure points, not forms to fill:
 
@@ -225,10 +243,10 @@ Invent your own headers within these; better still, invent a shape none of them 
 
 **Tables are optional and easily overused.** A **chronology table** earns its place only when dates carry the argument — not by reflex. An **assessment table** of survival-by-evidence-class has become the single most tired tic in the corpus; reach for it rarely, never on autopilot, and never as a way to end an article you didn't know how to end. At most two or three tables; an article with none is not only allowed but often better. **The *Note on language* section, with its Standard Terran sample, is a flagship-only device — omit it in ordinary articles.**
 
-**Length:** 2,500–4,000 words; an overview or hub article may run longer.
+**Length** is set by *Choose a weight*, not by a single target: a hub runs 2,500–4,000+ words, a standard article 800–2,000, a stub a paragraph, a cross-reference entry a line. Match the weight to the evidence.
 
 ### The ending
-Land somewhere concrete and specific — but **not the same concrete place every time.** A small measured object, described precisely, is one strong landing, and it has hardened into a reflex; rotate it with others:
+A stub or fragment simply stops on its last concrete fact; it needs no engineered landing, and reaching for one is padding. For a full article, land somewhere concrete and specific — but **not the same concrete place every time.** A small measured object, described precisely, is one strong landing, and it has hardened into a reflex; rotate it with others:
 
 - the last line of a scholarly argument, left hanging;
 - a reconstructed fragment of period speech;
@@ -247,7 +265,7 @@ Long sentence, then a short one, is a fine closing rhythm — use it, don't wear
 - Explaining the year 3000; visible worldbuilding exposition; any sentence beginning *In the future,*
 - Ruins, ash, silence, the last human, *civilisation collapsed*
 - Smugness. Moralising. Any implication that the period was ignorant of its own condition
-- Bullet lists where prose will do. Sub-sub-headers. Bold for emphasis in body prose
+- Bullet lists where prose will do — *except* in a genuine catalogue or list entry, where the list is the correct form. Sub-sub-headers. Bold for emphasis in body prose
 - Ending on a vague abstraction or a moral (a short, attributed aphorism is allowed)
 - Reproducing the boilerplate section sequence (`Name and terminology / Sources and the attestation problem / … / Assessment`) as the article's skeleton, or any set of headers a reader could predict from the previous article
 - Running every device in the kit in one article — a survival table *and* a lettered pair of schools *and* a measured-object ending *and* an aphorism, every time. Choose, rotate, and leave tools in the bag
@@ -259,14 +277,16 @@ Long sentence, then a short one, is a fine closing rhythm — use it, don't wear
 
 Do this in order. Do not start writing until step 6.
 
-0. **Read the room.** Before anything, skim the two or three most recent articles in the corpus. Note their spines, their skeletons, their endings, and their mood. You are going to differ from them on every one of those axes. Write down, in a sentence, the spine you will use (VARIETY) — and confirm it is not the spine they used.
-1. **Research the topic's real facts.** Get twenty to thirty, with numbers and dates. Real papers, real chemistry, real quantities.
+0. **Read the room.** Before anything, skim the two or three most recent articles in the corpus. Note their spines, their weights, their skeletons, their endings, and their mood. You are going to differ from them on every one of those axes. Write down, in a sentence, the spine *and* the weight you will use (VARIETY) — and confirm neither merely repeats the last entries.
+1. **Research the topic's real facts.** For a full article, get twenty to thirty, with numbers and dates — real papers, real chemistry, real quantities. A stub or fragment needs only the few facts it actually turns on; research enough to be *right*, not enough to justify a length the topic does not deserve.
 2. **Run the taphonomy filter.** For each fact: does its evidence survive a millennium? Sort into *survives perfectly* / *survives in a biased sample* / *gone*. Attend especially to the boring substrates: what is anoxic, what is vacuum, what is inert, what is worth melting down. (You always do this, even when survival is not the spine — it tells you what a 3000 CE writer could say at all.)
 3. **Find the mechanism at the centre of your spine.** One causal process — survival, or reaction, or dependency, or inference, or the argument itself. Shelf height. Cremation. Pyrite. A relativistic clock offset. A single manifest. It must be *causal*, not thematic.
 4. **Find the fact that indicts** (Method §3) and the **Bronze Age analogy** (§5).
 5. **Decide whether any question here is genuinely contested.** If it is, give it its schools (§6); if it is not, do *not* manufacture a dispute to fill the slot.
 6. **Write.** Lead first, ending second, middle last.
 7. **Cut.** Every sentence that explains rather than states. Every adjective doing emotional work. Every place you told the reader how to feel. Then re-read against the last article and cut anything that merely repeats its architecture.
+
+For a **stub, fragment, catalogue, or cross-reference entry**, this whole sequence collapses to: know the real facts, know what survives, write the few true sentences in voice, and stop. Do not run the full method on a topic that cannot bear it.
 
 ---
 
@@ -308,26 +328,35 @@ Same universe, same rigour, entirely different architecture, and a mood of admir
 
 ## QUALITY GATE
 
-Before returning the article, confirm:
+Before returning the entry, confirm. The **Truth and canon** checks apply to *every* entry, stub to hub. The **Craft** and **Variety** checks apply to full articles (hub and standard); a stub, fragment, catalogue, or cross-reference entry answers the **short gate** at the end instead.
 
-**Truth and canon — never relax these:**
+**Truth and canon — every entry, never relax:**
 - [ ] Every physical claim is real or explicitly derived from a real one
 - [ ] Every pT/CE pair is arithmetically correct (CE = pT + 1945; e.g. +3 pT = 1948 CE)
 - [ ] No real public figure, corporation, product, or brand is named or judged — all are described by function
 - [ ] The year 3000 is never explained, only implied
-- [ ] At least one Bronze Age structural correspondence
-- [ ] Cross-references to the canon: at least three; any new scholar, work, or coinage is appended to the ledger
+- [ ] Any new scholar, work, or coinage is appended to the ledger
 
-**Craft:**
+**Craft — full articles:**
 - [ ] The article runs on a *causal* engine, not a thematic one
 - [ ] At least one fact the period published about itself and ignored, delivered flat
+- [ ] At least one Bronze Age structural correspondence
+- [ ] Cross-references to the canon: at least three
 - [ ] The ending is a concrete particular — a number, an object, an argument, a fragment, a date — not a generalisation or a moral
 - [ ] Where a question is genuinely contested, its readings are given fairly and left unadjudicated; no dispute has been manufactured where none exists
 
 **Variety — the anti-sameness gate; check against the last two or three articles:**
 - [ ] The spine is *named* and *differs* from the recent articles' spines
+- [ ] The weight (hub / standard / stub / fragment / catalogue / cross-reference) is chosen to fit the evidence and differs from the recent entries' weights
 - [ ] The section headers are topic-specific — not the boilerplate sequence, not predictable from the last article
 - [ ] Not every device is present. This article does *not* mechanically carry a survival table *and* lettered schools *and* a measured-object close *and* an aphorism just because it could. Some are deliberately absent
 - [ ] The emotional register is not the same quiet-loss landing as the previous articles
 - [ ] The opening does not reuse the same three-paragraph door
 - [ ] Devices used because the topic wants them (the aphorism, the future's error and its correction, the Assessment table) — not because a checklist demanded them
+
+**Short gate — stubs, fragments, catalogues, cross-reference entries:**
+- [ ] Clears every **Truth and canon** check above
+- [ ] Opens with the byline and one clean bold hatnote sentence (the home-page card blurb reads well alone)
+- [ ] Does not pad: no manufactured sections, tables, schools, or apparatus the evidence cannot support
+- [ ] Cross-references the canon where natural (even a single link earns its place)
+- [ ] Its brevity is *content* — it reads as a true short entry in the flat voice, not as an unfinished draft of a long one
