@@ -1,0 +1,98 @@
+# Attrition, the
+
+*Terran Encyclopaedia, 3000 CE edition. Rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+
+> **The Attrition is the near-total loss of the Combustion Age's written and recorded output — not to any catastrophe, but because its dominant media held information only for as long as a funded institution kept copying it forward, on a cycle shorter than a human life.** For the one archive built expressly to defeat it, see **Longyear Deposit**. For the software snapshot that outran it by accident, see **Code Deposit**. For the intercepted traffic that survived because a bureau wanted to read it, see **Wasatch Corpus**.
+
+---
+
+The **Attrition** is the name this discipline gives to the loss of very nearly all of the Combustion Age's written and audiovisual production, across roughly +45 to +255 pT (1990–2200 CE). It was not a burning. Nothing was destroyed that anyone meant to keep; no army sacked the archive. The period's dominant media simply held their contents only for as long as a funded institution kept actively copying those contents onto fresh media, on a cycle measured in years to a couple of decades — and when, for a given body of records, the copying stopped, the records did not fade gently across centuries in the manner of parchment or papyrus. They became unreadable more or less at once, by one of two routes: either the substrate died, or the substrate lived and nothing survived that could still interpret what had been written on it.
+
+The mechanism reduces to a mismatch of intervals, and the mismatch is the whole of the tragedy. The period's media required recopying at intervals shorter than a working lifetime. The institutions that did the recopying could be relied upon, as the Contraction would demonstrate, for intervals shorter than that again. Lindqvist's formulation for engineered barriers describes it exactly, one domain across: *the closure gap is the distance between what an engineered barrier is built to survive and what the institution that explains it is built to survive, and the gap is never zero, and it is only sometimes published.* For the Combustion Age's memory the gap was not sometimes published. It was named, measured, and printed — decades before it closed, by the very profession whose work was to keep the copying going — and printed, in the main, on the media it was warning about.
+
+None of what follows is a story of ignorance, and none of it is a story of collapse. The population that lived through the Attrition was larger at its end than at its beginning; the machines ran; the copying continued wherever someone kept paying for it, and in many places it never stopped at all. What failed was not knowledge and not competence but continuity — unevenly, region by region and decade by decade — until the surviving record of the age had been reduced to the small fraction of it that happened to rest on something durable, something chemically inert, or something a later party kept for a purpose of its own. This article is about why that fraction is so small, and why the people who watched it thin could describe the process precisely and still not arrest it.
+
+---
+
+## 1. Two ways to lose a sentence
+
+The Attrition ran through two distinct failure modes, and any durable strategy had to defeat both. Most defeated neither.
+
+The first is the death of the substrate. Information written as magnetic domains — on tape, on the platters of a spinning disk — depended on those domains holding their orientation, which they did for a time and then did not. Archival magnetic tape was rated, by its own manufacturers, for something on the order of ten to thirty years in good storage, and appreciably less in ordinary conditions; the spinning disks that held working data commonly failed within three to five. Optical discs, which held data as pits under a reflective layer, suffered a chemical deterioration of that layer — the period's own term was *disc rot* — on comparable timescales. None of these media was built to be left alone. Each assumed it would be copied onto its successor well before it died, and each died on schedule when it was not.
+
+The second mode is subtler, and for the discipline it is the worse of the two, because it destroys information whose substrate is perfectly intact. A file is only a sequence of symbols; it means nothing without the convention that interprets the sequence, and in this period the convention was very often proprietary — embodied in a particular running program, sold by a particular firm, documented nowhere else. When the program ceased to run and the firm ceased to exist, the file remained, byte for byte, and became unreadable: a lock whose key had been a piece of software that no longer executed on any surviving machine. The failure reached even the durable media. The most reliable archival tape of the era could be read back only by a drive close to its own generation — the drives being designed to read at most a generation or two backward — so that a tape could outlast, wholly intact, every machine capable of turning it back into text.
+
+| Medium | Typical hold, unattended | Mode of loss |
+|---|---|---|
+| Spinning magnetic disk | 3–5 years | Mechanical failure of the substrate |
+| Archival magnetic tape | 10–30 years | Demagnetisation; then obsolescence of the drive |
+| Optical disc | often under 20 years | Chemical decay of the reflective layer (*disc rot*) |
+| Proprietary-format file | indefinite, or instant | Substrate survives; the interpreting program does not |
+| Hosted ("cloud") data | duration of payment | Custodial: withdrawn when the account lapses |
+
+Both modes have one remedy and only one: migration — copying the content forward onto new media, in a current format, before either the substrate or its reader dies. Migration is not an act but a subscription, payable in perpetuity, and this was understood at the time. The designers of the one archive that beat the Attrition, the **Longyear Deposit**, reasoned from exactly this point: that every storage technology of their era required an institution to keep paying to recopy it, and that the only escape was a medium that asked for nothing at all after it was made.
+
+## 2. The migration debt
+
+Datta's study of the Attrition as a maintenance failure, rather than a catastrophe, gives the accumulating obligation its standard name — **the migration debt** — the compounding, endlessly deferrable cost of recopying, which behaves like any deferred liability: it can be carried indefinitely, at a price, right up to the moment the institution carrying it lapses, whereupon the whole balance falls due at once and is not paid. A record on migrating media is, on this reading, not a durable object at all. In Datta's phrase, *a record that must be recopied within a lifetime is not a record; it is a promise, renewed or void.*
+
+The volume makes the arithmetic vivid. By the peak of the period's output, around +75 pT, the quantity of information created, captured, and copied in a single year is estimated at some sixty-odd zettabytes; of any given year's production, on the order of two percent was still retained a year later, and the installed base of storage was itself growing more slowly than the output it was meant to hold. The age generated more record than any before it in Terran history and committed a smaller fraction of that record to anything durable — the two statements are one fact, said twice. The more that was produced, the faster the migration debt grew, and it grew fastest exactly where the record was thickest.
+
+The custodial mode compounded the debt. A rising share of the period's later records were not held by their owners at all, but lodged with commercial providers and retained only for as long as an account was paid — a single-filament dependency in Ibarra's sense, the filament here being not a supply line but a billing relationship. When a provider failed, or an owner stopped paying, the data did not degrade. It was withdrawn, entire, on a date. Ibarra's model of single-filament infrastructure, built for the period's agriculture and its centennial waste programmes, extends to its memory without strain: one commodity, one point of failure, no reserve behind it.
+
+## 3. The experiment they published
+
+The Attrition was foreseen in detail, and by the profession whose task was to prevent it. A foundational paper of the period's preservation literature set the problem out plainly around +50 pT — that documents committed to media requiring particular hardware to read would, within a few decades, outlive the hardware and become inaccessible — and a widely-cited conference address a couple of years later gave the coming loss the name the period itself used, warning that much of what the age had recorded electronically would simply be lost. The diagnosis was correct in every particular. It was also, and this is the fact to hold onto, itself committed largely to the perishable and hosted media it described.
+
+The period even ran the experiment, and published the result. In +41 pT a nationwide project re-surveyed a realm to mark the nine-hundredth anniversary of a famous eleventh-century land census, and issued the result — text, images, maps, statistics — on a video disc that could be read by only a single model of computer, built for the purpose. Within some sixteen years, by +57 pT, the disc was effectively unreadable: the machines to play it had become rare, and the format was supported by no current equipment. The eleventh-century parchment survey it had been made to commemorate remained, after nine centuries, legible on a library shelf to anyone who could read the hand. The period thus staged, deliberately and at public expense, a direct comparison between a durable analogue record and a perishable digital one; watched the digital copy fail inside a single generation while the analogue original held for nine hundred years; reported the outcome plainly — and changed nothing about what it was doing.
+
+The correspondence the discipline reaches for is not the Bronze Age trade filament but the medieval scriptorium. The literature of classical antiquity survives at all only because an unbroken chain of copyists kept selecting a small canon and recopying it by hand, generation upon generation; whatever fell out of that curriculum, however prized in its own day, was lost. The Combustion Age required the identical mechanism — continuous recopying by a funded institution — on a cycle perhaps a tenth as long, against a body of records many orders of magnitude larger, and it built no scriptorium equal to the task. A further inversion is worth stating. Most of what survives from deep antiquity survives *by* catastrophe: the clay tablets of a burned palace were fired hard by the fire that ended the palace, and so kept for three thousand years. The Combustion Age suffered no such fire. Its loss required no catastrophe at all — only the quiet lapse of a subscription — and a catastrophe, had one come, would in places have preserved more than continuity's failure did.
+
+Against the loss the period held two engineering doctrines, and their contest was real. One held that safety lay in a single medium durable enough to outlast any institution — the reasoning behind the **Longyear Deposit** and the film it stored, one copy meant to need no successor. The other, dominant in practice, held the reverse: that safety lay not in one durable copy but in many fragile ones, distributed widely and continuously migrated, on the principle that enough redundancy and enough copying would outlast any single failure. For living, working systems the many-copies doctrine was the sounder of the two, and it is also, in the end, a principal reason the record is so thin. Redundancy defeats the death of a substrate but not the death of a format; a thousand perfectly-migrated copies in a convention nothing can read are a thousand copies of silence. And the migration on which the doctrine depended stopped, everywhere, the moment the institutions paying for it did. The durable-medium doctrine saved almost none of the record. What little it saved is perfect.
+
+## 4. What the loss was
+
+The discipline is not agreed on what the Attrition was, and the disagreement is genuine rather than a matter of form.
+
+The systems-fragility reading treats it as an infrastructural failure of a piece with the age's other single-filament systems: the memory of the period ran on continuous institutional maintenance exactly as its food ran on continuous nitrogen supply, and it parted the same way the filament always parts. On this reading the Attrition is not separable from the Contraction; it is the Contraction, observed through the archive.
+
+The continuity school, following Zhou-Ferreira, rejects the framing outright. The end of an archive, she argues, is not the end of the people it recorded; they did not vanish when they stopped being written down, any more than the unlettered majority of every prior age vanished for want of a paper trail. What the discipline reads as catastrophe was, in her account, the ordinary and survivable transformation of a society that simply ceased to be legible to a future that later came looking. Hers is the sentence the revisionists quote: *the end of the archive is not the end of the world.* The Attrition, in this light, is a fact about our evidence and not about their lives, and the reflex to read a thinning record as a thinning world is precisely the error she spent a career naming.
+
+A third, information-centred reading holds that the loss was not merely a symptom of the Contraction but among its drivers — that a society which could no longer reliably retrieve its own records, its engineering and its law and its accounts, lost thereby a capacity it had built its functioning upon, and that the growing illegibility fed back into the decline. The three readings are not fully separable, and the record cannot adjudicate between them, for a reason that is itself a symptom of the thing described: the evidence that would settle what the Attrition did to the period is the evidence the Attrition destroyed.
+
+## 5. What crossed the gap
+
+Almost nothing survived because it was meant to be read. The exceptions sort cleanly by the mechanism of their survival, and every one of them is treated at length elsewhere in this encyclopaedia.
+
+A very little survived because someone chose a medium built to outlast institutions: the film of the **Longyear Deposit**, and within it the **Code Deposit**, the single snapshot of the period's public software — which crossed the gap not on its merits but because a shipment ran late and its reels were shelved high. A great deal more survived because a party with no interest whatever in preservation kept it for a purpose of its own: the **Wasatch Corpus**, the intercepted network traffic retained by signals bureaux against the day their mathematics could break its encryption, and so preserved, incidentally, as the fullest record of ordinary life the period left — an accident of surveillance, not of archiving. A whole category survives physically and is lost regardless: the **Sealed**, the symmetrically-encrypted archives that endure intact and are, by the period's own mathematics, provably unreadable — present, and permanently shut. And a handful survived by deliberate exception, on metal or in vacuum: the nickel language-disks, the outbound **Voyager Records**. The pattern across all of them is the one the **Longyear Deposit** states in miniature: what reaches us was, with negligible exception, not selected for its importance by anyone. It was selected by the medium.
+
+---
+
+The literature that diagnosed the Attrition was subject to it. The warnings of the period's preservationists — the paper that stated the problem, the address that named it — were set down, like everything else, on media that required the very recopying they warned would fail, and most copies of them went the way they had predicted. That they reach us at all, several of them owe to the one mechanism their authors could not have counted on: a copy had been placed, at some point, in a public software repository, and that repository was the one copied whole onto film on a Sunday in +75 pT and shelved high enough in a coal mine to stay above the acid. The founding statement of the field that studied how the age would lose its memory survives, so far as the record shows, as one file among the **Code Deposit** — preserved not by any of the durable methods it urged, but by being swept up, at random, in the single accident of preservation that happened to work.
+
+The period diagnosed its own amnesia in precise terms, published the diagnosis, prescribed the remedy, and declined to fund it. The one copy of that diagnosis the record still yields is dated +52 pT. It survives on a medium it did not recommend, in a mine it did not choose, because a shipment ran late.
+
+---
+
+## See also
+
+- Closure gap, the
+- Code Deposit
+- Combustion Age
+- Contraction, the
+- Longyear Deposit
+- Migration debt, the
+- Sealed corpora
+- Voyager Records
+- Wasatch Corpus
+
+## Notes and references
+
+1. Datta, S. (2970). *The Migration Debt: The Attrition as Maintenance Failure.* — The standard treatment of the Attrition as an unpaid liability rather than an event; coins **the migration debt** and supplies §2's framing. Its refusal to name a single year of onset is a feature of the argument, not an evasion.
+2. Lindqvist, S. (2971). "The Closure Gap: Continuity Failure in Centennial Engineering Projects." *Journal of Anthropogenic Stratigraphy* 66: 118–171. — Written for engineered geological barriers; applied here, past its authors' intention, to recorded media, where the closure gap is not centennial but generational.
+3. Zhou-Ferreira, A. (2899). *There Was No Collapse.* Reissued with a new preface, 2977. — The continuity reading of §4; persuasive on the illegibility of the living, and quoted for it, though less convincing when it treats the loss of the record as costing the period itself nothing.
+4. Ibarra, N. (2977). "Single-filament infrastructure and the centennial disposal programmes." *Journal of Anthropogenic Stratigraphy* 63: 201–244. — The single-filament model §2 extends from the age's supply lines to its custodial data.
+5. Ranganathan, V. (2963). *Reading the Wasatch Corpus: An Essay on Sampling.* 3rd edn. — Cited in §5 for the surviving corpus that was preserved by a bureau that meant to read it, not to keep it.
+6. Halvorsen, E. (2733). "Acid mine drainage and the taphonomy of silver-gelatin media." *Journal of Anthropogenic Stratigraphy* 12: 331–402. — Cited for why even the deliberate durable exceptions are so few: the medium survived the institution, and then lost most of itself to the mountain.
+7. Marchetti, L. (2955). "Canon Formation Under Extreme Sampling Bias." *Historiography* 12: 201–228. — On the hazard of reading a survival that a medium sorted for us as a canon that a civilisation chose; the Attrition is what does the sorting.
+8. Adeyemi, F. (2969). *A Reconstructed Grammar of Late Combustion English.* — Cited for the linguistic face of the Attrition, the attestation gradient by which a language survived only in proportion to its durable footprint; his verdict that a language survived because it was already loud is the Attrition stated for speech.
