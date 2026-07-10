@@ -1,0 +1,70 @@
+# Svalbard Seed Vault
+
+*Terran Encyclopaedia, 3000 CE edition. Rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+
+> **This article is about the Combustion-Age reserve repository of crop seed on the Arctic archipelago of Svalbard, the backup collection of last resort for the period's plant genetic resources.** For the adjacent data and film archive, with which it is persistently confused, see **Longyear Deposit**. For a comparable deep-time container reasoned from the opposite theory of institutional survival, see **Onkalo**.
+
+---
+
+Most engineered containers treated in this encyclopaedia are known by how they failed. The **Svalbard Seed Vault** is unusual in this discipline's literature for having been tested, in earnest, exactly once — not by the catastrophe it was built against, but by an ordinary war — and for having passed.
+
+The vault was cut into a sandstone ridge on the Svalbard archipelago and opened at +63 pT (2008 CE): a storage chamber more than a hundred metres inside the rock, under forty to sixty metres of overburden, holding duplicate crop seed contributed by depositing institutions in well over a hundred jurisdictions and sealed inside laminate foil packets that neither the vault's operators nor anyone else has any standing to open. Design capacity is 4.5 million samples; at the last full published count some 1.35 million had been lodged, drawn, by the depositors' own reckoning, from thirteen thousand years of plant domestication. The chamber sits 130 m above sea level — placed there against a rise in the ocean that had, by the time of construction, already been modelled and published — and its mechanical plant holds the seed at −18 °C. Beneath the mechanical plant, doing nothing and asking for nothing, the mountain itself sits at a natural −3 to −4 °C, the ordinary temperature of the surrounding permafrost, which was expected in +63 pT to persist for as long as the vault would need it to.
+
+It did not. That failure, and what the vault's custodians did about it, is closer to the centre of this article than the seeds themselves.
+
+---
+
+## 1. A neighbour, not a twin
+
+Nine hundred metres away, in a disused coal working under the same ridge, a commercial firm operates the **Longyear Deposit**, a photographic archive of the period's text and software. The two sites are routinely confused in the popular literature, and the confusion is not baseless: both were reasoned from the same premise — that a Combustion-Age institution could not be trusted to outlive its own contents, and that the fix was a physical medium requiring no institution at all — and both chose the same mountain range to prove it in. There the resemblance ends. The Deposit was a business, financed by what its clients paid to store film. The Seed Vault was a state facility, built and maintained at public and philanthropic expense, its operating costs never once recovered from the genebanks whose backups it holds free of charge, under an explicit rule — the discipline's shorthand is the **black-box principle** — that ownership of every sample remains with the depositing institution and that the vault's own staff have neither the right nor, in practice, the means to open a box.
+
+The distinction matters because it explains a divergence in outcome that the shared engineering premise does not. Both facilities, this article will show, had that premise falsified by the same event, in the same year. Only one of them was in a position to do anything about it.
+
+The seed itself is held in what the depositing genebanks call a **base collection**: material set aside expressly not to be drawn on, tested, or regenerated, as distinct from the **active collection** each institution keeps at home for exactly those purposes. A base collection is not meant to answer questions. It is meant to still exist when the active collection cannot. This distinction, ordinary and administrative in the period's own agronomy, turns out to be load-bearing for everything that follows.
+
+## 2. The wager
+
+An orthodox seed — the overwhelming majority of the world's staple cereals and legumes among them — survives desiccation and enters a dormancy in which its own metabolism runs, if not to zero, then to a rate low enough that the ordinary chemistry of ageing slows to match. Two variables govern the rate directly: moisture and temperature. A rule of thumb published at +27 pT (1972 CE) — still cited, still taught, still argued with — held that a seed lot's storage life roughly doubles for every one-percentage-point reduction in moisture content, within a working range of about five to fourteen percent, and roughly doubles again for about every six degrees Celsius of cooling. Dry the seed, then chill it, and each step compounds the other. The Seed Vault's design does both, to specifications well inside the useful range, and its foil packet excludes the humid Arctic air the ridge otherwise breathes.
+
+What the rule of thumb does not straightforwardly give is a number of years. The models built on it — refined repeatedly over the following decades into a small set of equations relating moisture, temperature, and a seed lot's own initial vigour to a predicted storage life — were derived chiefly from short trials, weeks to a few decades, and then extrapolated forward by orders of magnitude to produce the figures that circulated in the period's own popular science: a common grain projected to remain viable for centuries, an unusually hardy sorghum for millennia. The extrapolation was never secret. The period's own specialist literature said plainly, well before the vault opened, that the equations carried wide and largely untested confidence intervals once pushed past the range they were fitted to, and that no monitoring schedule derived from them could be trusted without a real seed lot, kept a real century, to check it against. In +75 pT the vault's operators began exactly that check — a monitoring programme structured to run a full hundred years, sampling a reserved cohort of the vault's own holdings at intervals to see whether the equations' predictions held. Whatever it has found by this discipline's own present, that finding covers one deliberately sacrificed cohort. It says nothing, and was never designed to say anything, about the millions of packets nobody has opened.
+
+The nearest calibration point this discipline has for what a seed's outer limit of viability actually looks like comes not from a genebank at all, but from a scorched storeroom in a fortress on the shore of the Dead Sea, excavated at +18 pT (1963 CE). Among the desiccated plant remains recovered there was a single date-palm seed, some two thousand years old by the time it was tested, which a hospital research unit germinated at +60 pT (2005 CE) — three years, as it happens, before this vault's first chamber was sealed. No genebank protocol produced that seed's survival; a dry storeroom in an arid climate did, by accident, what the Seed Vault does by design, and what it achieved was two millennia, for one seed, of one species, under conditions nobody controlled or measured at the time. It is the only data point in the deep past this discipline can set beside the vault's own projected centuries, and it is a sample size of one.
+
+## 3. The one test
+
+In +70 pT (2015 CE), an agricultural research institute whose principal genebank stood in a city then under siege made the vault's first withdrawal in its short institutional history. Some 38,000 samples — cereals, legumes, forage species, wild relatives of both — were released to duplicate research stations the institute had stood up elsewhere, so that its collection could be grown out, its stock regenerated, and its work continued without the original genebank, from which the withdrawn material had itself been backed up years before the siege began. A second withdrawal followed in +72 pT, a third in +74 pT, some 116,000 samples in total; by the third, the institute was not merely drawing down the reserve but replenishing it, redepositing regenerated stock grown from the very seed it had withdrawn. By +74 pT the cycle had closed: an institution had lost its home collection entirely to war, rebuilt it from a mountain on the other side of the planet, and put a new backup of the rebuilt collection back into the mountain.
+
+Nothing about the episode matched the vault's own founding rhetoric, which had been pitched, in the period's press, against asteroid strikes and general collapse. What actually happened was slower, smaller, and entirely mundane: a bureaucratic institution, dispossessed by a conventional war, filed a request, received sealed boxes it had never opened, and used them exactly as the black-box principle intended. It is the only full-cycle test of the vault's stated purpose that the surviving record documents, and by the low, unglamorous standard the black-box principle actually sets — can an institution get its own material back and use it — the vault met its specification.
+
+## 4. What the mountain did instead
+
+In +72 pT — the same year the Longyear Deposit down the slope opened for business, and the second of the three withdrawals above — unusually high autumn temperatures and rain rather than snow fell on ground whose active layer had already been recorded thinning for decades. Meltwater ran into the vault's own access tunnel and froze there, fifteen metres in, arrested only by the tunnel's grade rather than by anything in its design. The seed chambers themselves, sealed and further in, were never reached and no sample was lost. But the premise that had let the vault's engineers treat cold as a fact of the rock rather than a service they had to supply had, at the vault's own front door, just failed a live test, publicly, within nine years of opening.
+
+The response is the point of comparison with its neighbour. The vault's operators waterproofed the tunnel in concrete, moved every heat-generating fixture out of it, cut drainage channels to route meltwater around the workings, and threaded coolant pipe through the surrounding ground to hold the near-surface rock frozen by mechanical means rather than by the mountain's own word — completed by roughly +74 pT, at a cost reckoned afterward in the tens of millions. The Deposit received no comparable intervention. It was, in Combustion-Age terms, a small firm selling storage by the reel, and firms of that size do not commission coolant infrastructure against a risk their own promotional literature had, in any case, spent years citing as a selling point rather than a hazard. The mountain gave both institutions the identical warning in the identical year. Only one of them had a public treasury behind it, and only one of them acted.
+
+Whether the coolant pipes, or the deeper permafrost beneath them, still function is not recoverable from any record so far excavated. Continuous ground-frozen conditions elsewhere under this same ridge are estimated, on the Deposit's own better-documented case, to have failed sometime between +180 and +260 pT. Nothing compels the Seed Vault's rock to have failed on the same schedule, and nothing confirms that it did not.
+
+---
+
+The vault's holdings have not, to date, been opened by this discipline's excavators, and the reason is not access — the chamber has been surveyed, its shelving mapped, its box count checked twice against the surviving depositor register — but the same rule the vault was built to keep. A seed's viability cannot be measured without ending it, and a base collection exists precisely so that the question never has to be asked of any given sample until an institution has an active, working reason to ask it. No institution has yet had that reason for the great majority of what is shelved here. Whether the reserve still lives is therefore not an unsolved problem so much as a question this discipline has, so far, declined to put — in which it is, without knowing it, still following the one instruction the vault's builders actually left.
+
+---
+
+## See also
+
+- Attrition, the
+- Code Deposit
+- Combustion Age
+- Contraction, the
+- Gallus Horizon
+- Longyear Deposit
+- Onkalo
+
+## Notes and references
+
+1. Institute for Deep Record Studies (2989). *The Svalbard Reserve: A Condition Survey.* — The primary field report; box counts, shelving plan, and tunnel-condition survey cited throughout. Declines, on stated methodological grounds, to recommend opening any sealed sample.
+2. Kagiso, N. (2978). *The Vault's Arithmetic: Why a Longevity Table Is Not a Measurement.* — The standard treatment of the gap between short-trial viability equations and the sparse long-duration record; the source for §2's account of the hundred-year monitoring cohort. Sharp on the epistemics; declines to guess at a number of its own, which is rather the point.
+3. Fennimore, R. (2966). *The Masada Fruit: A Recalibration of Extreme Seed Longevity.* — Ties the Dead Sea germination record into genebank viability science; argues, not quite persuasively, that the single data point licenses more optimism about the reserve than the sample size supports.
+4. Okonkwo, D. (2986). *The Boxes Nobody Opened: Custody Without Access in the Svalbard Reserve.* — On the black-box principle as an institutional artefact that has outlived the institution; extends her established interest in deposits and their metadata to a deposit with almost none.
+5. Ibarra, N. (2977). "Single-filament infrastructure and the centennial disposal programmes." *Journal of Anthropogenic Stratigraphy* 63: 201–244. — Cited here as the standard model of institutional dependency the vault's passive cooling was, distinctively, engineered to not require. Her own comparison is to Onkalo, not to this site, but the contrast holds.
+6. Zhou-Ferreira, A. (2899). *There Was No Collapse.* Reissued with a new preface, 2977. — Cited for the general argument that this discipline over-reads catastrophe into institutions that, examined closely, mostly just changed hands. The vault's one recorded test was a siege, filed as paperwork, not an asteroid.
