@@ -104,14 +104,37 @@ Other established coinages, free to reference: **Gallus Horizon** · **Crawford 
 
 ---
 
+## VARIETY — the first requirement
+
+Everything below is a toolkit, not a checklist. The failure mode of this brief is that every article comes out the *same shape*: `Name and terminology → Sources and the attestation problem → Chronology → substance → the Contraction → an Assessment table`, running the *same play* — a survival bias, one flat indicting fact, two lettered schools, a measured object at the end. Executed once, it is superb. Executed every time, it is wallpaper, and a reader who has read three articles can write the fourth. That is the disease this section exists to cure.
+
+So, before craft: **no two articles may share a skeleton, a spine, or an ending shape.** Read the two or three most recent articles in the corpus. Whatever structural and rhetorical moves they made, make *different* ones. The canon is fixed and shared; the *architecture* of each article must not be.
+
+### Choose a spine
+The spine is the engine that pulls the reader through — the reason this is *an article* and not a stub. Taphonomy is one spine. It is not the only one, and because it is the default it should be reached for *least*, not most. Pick the spine the topic actually wants, and a different one than the last article used:
+
+- **The survival pattern.** What outlasts a millennium, why, and how the surviving sample deforms the story. The classic shape — so do not default to it.
+- **The reconstruction.** Start from almost nothing and rebuild the inference chain in front of the reader, one step at a time, like a decipherment. The drama is the reasoning; the payoff is the click when the chain closes — or the moment it snaps and can't.
+- **The mechanism.** A real physical, chemical, or biological process is the protagonist. Teach it cleanly and with genuine wonder, then hang the history off it. Hard science, foregrounded, is a page-turner when the stakes are real.
+- **The single witness.** One object, one deposit, one intercepted stream carries the whole case. Read it closely; press on exactly what it can and cannot bear.
+- **The controversy.** Build the article around a live scholarly feud — two or three named readings argued in earnest, the reader following like a jury. The article's shape is the shape of the argument.
+- **The system in motion.** Reconstruct a working process — a supply chain, a ritual, a market, an institution — vividly, as it actually ran, *then* turn and show how little of it survived. Texture first, loss second.
+- **The thing that worked.** A genuine triumph, described without irony. The tension is competence — real, specified, met — set against what became of it.
+- **The false idol.** Built around an error of reconstruction the future made and partly still makes. The reveal is the correction; the register can be comic, or quietly unnerving.
+- **The convergence.** Two unrelated subjects turn out bound by one physical fact. The article is the discovery of the link.
+
+Compose or invent others. The only rule is that the spine is *chosen*, *named to yourself before you write*, and *different from recent articles*.
+
+---
+
 ## THE METHOD
 
-This is the engine. Everything else is decoration.
+This is the toolkit. The spine (above) decides which tools come out; not every tool appears in every article.
 
-### 1. Taphonomy first
-Do not write *what happened*. Write **what survives, why it survives, and how the survival pattern deforms what can be said**. Before you write a sentence of history, decide: at 3000 CE, what physical evidence of this topic exists? Concrete, glass, gold, ceramic, aluminium, polyester, plutonium, bone, orbit, vacuum, anoxic landfill, genome. What is gone? Everything on a magnetic domain.
+### 1. Taphonomy is always in the room — but need not be the thesis
+Whatever spine you choose, you must still know, before you write, what physically survives this topic at 3000 CE and what is gone: concrete, glass, gold, ceramic, aluminium, polyester, plutonium, bone, orbit, vacuum, anoxic landfill, genome — against everything that lived on a magnetic domain. That knowledge governs what a 3000 CE writer could *possibly* say, and it must be right.
 
-The article's thesis *is* the survival pattern.
+When the survival pattern is the most interesting thing about the topic, make it the thesis. When something else is — a mechanism, an argument, a working system, a single witness — let taphonomy be the *ground the article stands on* rather than the building it is. Do not force every subject into the survival-bias mould; some topics earn their tension elsewhere, and forcing the mould is the single biggest cause of sameness.
 
 ### 2. Every fact must be real, or rigorously derived from a real fact
 The fiction lives in the **interpretation**, never in the data. Do not invent physics, chemistry, statistics, or mechanisms. Do the research. If a number is real, use the real number. If it must be extrapolated, extrapolate from published trends and say so in the article's own voice ("estimates range from…").
@@ -145,7 +168,7 @@ The Combustion Age is written the way real scholarship writes the Bronze Age. Re
 - chariot warfare debates → why the weapons were never used
 
 ### 6. Contested things get schools, not verdicts
-Where the historiography would genuinely be unsettled — and for anything political, it always would be — name two or three schools, state each in its strongest form, and let the revisionist be persuasive. Do not adjudicate. Note *why* the record cannot adjudicate.
+Where the historiography would genuinely be unsettled — and for anything political, it always would be — set out the live readings, each in its strongest form, and let the revisionist be persuasive. Do not adjudicate; note *why* the record cannot. But vary the shape of the contest: sometimes it is two schools, sometimes three, sometimes one dominant reading with a single sharp dissent, sometimes a question nobody has thought to ask yet. A lettered pair of schools in *every* article stops being believed — the reader learns it is a reflex, not a real dispute. Deploy the device only where the contest is real, and let its shape follow the contest. Do not manufacture a controversy to fill the slot.
 
 **This is also the safety rule.** Do not name real living or recent public figures and do not assign them praise or blame. Names in a 3000 CE article come only from durable, name-bearing media: coinage, monumental dedication, gravestones, and code commits. Describe institutions, structures, and portraits. Let the absence of names do the work — it is more chilling and more accurate than any verdict.
 
@@ -153,7 +176,7 @@ Where the historiography would genuinely be unsettled — and for anything polit
 A 3000 CE scholar recovers *functions*, not trade names. The corpus never speaks the name of a software repository, a phone, a search engine, a payment network, a biometric register, a chip fabricator, or a lithography firm; it writes *a large public software repository*, *a state-sponsored instant-settlement network*, *a universal biometric register*, *one firm, in one town, in the Low Countries*. This extends §6 from people to institutions and products, and it is the technique that makes the decipherment conceit credible: the label has been *lost*, and only the function reconstructed. Give a proper name only where a durable, name-bearing medium would carry it — a coin legend, a monument, a gravestone, a code commit — or give a thing's recovered *meaning* in place of its name (the rover "named for a word that means *wisdom*," never the word).
 
 ### 8. The future gets us wrong, specifically and correctably
-Seed one or two errors of the kind archaeology actually makes: a mundane object read as ritual, a well-replicated trivial text read as canonical, a portrait read as a deity. Then correct it in a footnote or a subordinate clause, dryly, and note that the error persists in popular treatment.
+Where the topic invites it, seed an error of the kind archaeology actually makes: a mundane object read as ritual, a well-replicated trivial text read as canonical, a portrait read as a deity. Then correct it in a footnote or a subordinate clause, dryly, and note that the error persists in popular treatment. A fine device — but not a box to tick in every article; use it when the subject offers a real misreading, not when the template wants one.
 
 ---
 
@@ -163,13 +186,17 @@ Seed one or two errors of the kind archaeology actually makes: a mundane object 
 - **Never editorialize. Never lecture the past.** The 3000 CE writer is not angry at us. They are tired, careful, and occasionally, involuntarily, moved.
 - **Rhythm:** long clause-heavy sentence, long clause-heavy sentence, then four words. `Nobody there could read.` `The islands are again islands.` `There is no year in which anything fell.`
 - **Never explain 3000 CE.** Mention it only obliquely and as banality — a lunar exclusion zone as a navigational reference, a submerged coast as a subdiscipline, a treaty pleaded through bad translations. Encyclopedias do not explain their own present.
-- **At least one aphorism**, attributed to a named scholar, quotable, and true. Reuse an established one verbatim, or coin a new one and add it to the ledger.
+- **The aphorism is a tool, not a quota.** Where one earns its place, it is attributed to a named scholar, quotable, and true — reuse an established one verbatim, or coin a new one and add it to the ledger. But an attributed aphorism in *every* article is a tic the reader learns to skim; let some articles do without, and let the ones that use it place it where it lands hardest rather than where the template expects it.
 - **Some things worked.** Do not make everything ironic. The Portal Leader worked. The photovoltaics worked. The medium met its specification. The tragedy is sharper when the competence is real.
+- **Vary the register between articles.** Flat and load-bearing is the baseline, not a monotone. Across the corpus the *mood underneath the prose* must move: one article is wry, one is genuinely awed, one reads like a detective closing a case, one is haunted, one is nearly triumphant. The sentence stays disciplined; the feeling it carries must not be the same quiet melancholy every time. If every article you write lands on the same soft sadness, you are writing one article over and over.
+- **Earn the page.** A reference entry can still pull like a story: hold a fact back and land it, follow a chain of inference to a click, let a reconstruction build to something. Propulsion is not the enemy of dryness — the driest sentence hits hardest when the reader has been leaning forward to reach it. Keep them glued, then deliver flat.
 - **No apocalypse.** No rubble, no ash-choked skies, no *the Fall*. The Contraction was slow, regionally desynchronised, survived by more people than it began with, and nobody living through it agreed it was happening.
 
 ---
 
 ## STRUCTURE
+
+The header block is fixed. The body is not — it follows the spine, and it must not be predictable from the last article.
 
 ```
 # <Title>            ← name by locality or type, not the subject's institutional branding; a polity keeps its name
@@ -178,27 +205,38 @@ Late Combustion English by convention of the Historical Faculty.*
 
 > Hatnote: what this article is, and two or three things it is not.
 
-Lead — three paragraphs:
-  ¶1  Definition, dates, physical facts.
-  ¶2  The comparison (Bronze Age, or a sibling topic) and where it breaks.
-  ¶3  The twist: the evidentiary situation, stated as a fact about us, not them.
-
-1  Name and terminology       — endonym vs. exonym; why the exonym won
-2  Sources and the attestation problem   ← the spine; often the longest section
-3  Chronology                 — a table, with a pT column
-4–N  Substance                — physical, then economic, then social, then contested
-N+1  The Contraction / post-depositional history
-N+2  Legacy or Assessment     — often a table of survival by evidence class
-
 ## See also        — 8–10 items, alphabetical, mixing real canon and this article's coinages
 ## Notes and references — 6–9 fictional citations with dates, volumes, page ranges,
                           and a one-line editorial verdict on some of them
                           ("Combative; correct in method; less persuasive on…")
 ```
 
-**Length:** 2,500–4,000 words (an overview or hub article may run longer). **Tables:** two or three, never more. **Headers:** numbered. **The *Note on language* section, with its Standard Terran sample, is a flagship-only device — omit it in ordinary articles.**
+**The lead is two to four paragraphs** stating what the thing is, its dates and hard physical facts, and the tension the article will pursue. It may open on a definition, on a single object, on a live dispute, on the mechanism, on a date, on a paradox — **not** always on the same three-paragraph `definition → Bronze Age comparison → evidentiary twist` move. Vary the door you come in through; a reader who meets the identical opening five times has stopped reading it.
 
-**The ending is not optional.** Land on one concrete particular — ideally a small physical object, described precisely, with a measurement. Long sentence, then a short one. A single short attributed aphorism may follow it, or, in an overview article, stand in its place (as *Combustion Age* ends on *"the difference is that this one was trying,"* and *Longyear Deposit* on Ashworth-Nakamura's formulation). What is forbidden is ending on a vague generalisation or a moral.
+**Build the body around the spine you chose.** Section headers are *topic-specific* and follow the argument. They are **never** the boilerplate sequence `Name and terminology → Sources and the attestation problem → … → Assessment` reproduced wholesale — if a reader could predict your headers from the previous article, you have shipped the machine, not an article. Below are skeletons matched to spines. They are departure points, not forms to fill:
+
+- **Survival-pattern spine:** physical remains → the mechanism that shaped the sample → what the bias hides → the contested reading → post-depositional history. *(The classic shape. Precisely because it is the classic shape, do not reach for it by default.)*
+- **Reconstruction spine:** the problem (what is missing) → the surviving fragments, one at a time → the inference that links them → what the chain establishes → where it breaks.
+- **Mechanism spine:** the process, taught cleanly → why it mattered at scale → what it left in the ground → what it cost, and who knew.
+- **System-in-motion spine:** the system running, in concrete detail → its dependencies and single points of failure → the interruption → what remained.
+- **Controversy spine:** the question → reading one, in full → reading two, in full → what neither can explain → why the record won't decide.
+
+Invent your own headers within these; better still, invent a shape none of them describes. Numbered sections are fine but not required; let the argument set the divisions.
+
+**Tables are optional and easily overused.** A **chronology table** earns its place only when dates carry the argument — not by reflex. An **assessment table** of survival-by-evidence-class has become the single most tired tic in the corpus; reach for it rarely, never on autopilot, and never as a way to end an article you didn't know how to end. At most two or three tables; an article with none is not only allowed but often better. **The *Note on language* section, with its Standard Terran sample, is a flagship-only device — omit it in ordinary articles.**
+
+**Length:** 2,500–4,000 words; an overview or hub article may run longer.
+
+### The ending
+Land somewhere concrete and specific — but **not the same concrete place every time.** A small measured object, described precisely, is one strong landing, and it has hardened into a reflex; rotate it with others:
+
+- the last line of a scholarly argument, left hanging;
+- a reconstructed fragment of period speech;
+- a single number that reframes everything above it;
+- an open question stated without flinching;
+- one dated event, delivered bare.
+
+Long sentence, then a short one, is a fine closing rhythm — use it, don't wear it out. A short attributed aphorism may close the piece or stand in for the object, **but not in every article**: an aphorism in every entry is itself a sameness the reader learns to skip. What is forbidden is ending on a vague generalisation or a moral.
 
 ---
 
@@ -211,19 +249,24 @@ N+2  Legacy or Assessment     — often a table of survival by evidence class
 - Smugness. Moralising. Any implication that the period was ignorant of its own condition
 - Bullet lists where prose will do. Sub-sub-headers. Bold for emphasis in body prose
 - Ending on a vague abstraction or a moral (a short, attributed aphorism is allowed)
+- Reproducing the boilerplate section sequence (`Name and terminology / Sources and the attestation problem / … / Assessment`) as the article's skeleton, or any set of headers a reader could predict from the previous article
+- Running every device in the kit in one article — a survival table *and* a lettered pair of schools *and* a measured-object ending *and* an aphorism, every time. Choose, rotate, and leave tools in the bag
+- Landing on the same emotional note (quiet melancholy loss) article after article; forcing a topic into the survival-bias mould when its real tension is elsewhere
 
 ---
 
 ## PROCESS
 
-Do this in order. Do not start writing until step 5.
+Do this in order. Do not start writing until step 6.
 
+0. **Read the room.** Before anything, skim the two or three most recent articles in the corpus. Note their spines, their skeletons, their endings, and their mood. You are going to differ from them on every one of those axes. Write down, in a sentence, the spine you will use (VARIETY) — and confirm it is not the spine they used.
 1. **Research the topic's real facts.** Get twenty to thirty, with numbers and dates. Real papers, real chemistry, real quantities.
-2. **Run the taphonomy filter.** For each fact: does its evidence survive a millennium? Sort into *survives perfectly* / *survives in a biased sample* / *gone*. Attend especially to the boring substrates: what is anoxic, what is vacuum, what is inert, what is worth melting down.
-3. **Find the mechanism.** What single physical or institutional process determines the survival pattern? Shelf height. Cremation. Timezone offsets. Pyrite. This becomes the article's thesis and it must be *causal*, not thematic.
-4. **Find the fact that indicts** (Method §3) and the **Bronze Age analogy** (§5). Decide which questions are contested and name the schools.
-5. **Write.** Lead first, ending second, middle last.
-6. **Cut.** Every sentence that explains rather than states. Every adjective doing emotional work. Every place you told the reader how to feel.
+2. **Run the taphonomy filter.** For each fact: does its evidence survive a millennium? Sort into *survives perfectly* / *survives in a biased sample* / *gone*. Attend especially to the boring substrates: what is anoxic, what is vacuum, what is inert, what is worth melting down. (You always do this, even when survival is not the spine — it tells you what a 3000 CE writer could say at all.)
+3. **Find the mechanism at the centre of your spine.** One causal process — survival, or reaction, or dependency, or inference, or the argument itself. Shelf height. Cremation. Pyrite. A relativistic clock offset. A single manifest. It must be *causal*, not thematic.
+4. **Find the fact that indicts** (Method §3) and the **Bronze Age analogy** (§5).
+5. **Decide whether any question here is genuinely contested.** If it is, give it its schools (§6); if it is not, do *not* manufacture a dispute to fill the slot.
+6. **Write.** Lead first, ending second, middle last.
+7. **Cut.** Every sentence that explains rather than states. Every adjective doing emotional work. Every place you told the reader how to feel. Then re-read against the last article and cut anything that merely repeats its architecture.
 
 ---
 
@@ -251,19 +294,40 @@ For a *place* or an *institution*, reach for that inversion the way you reach fo
 
 ---
 
+## CALIBRATION EXAMPLE — a different spine
+
+Topic: *the relativistic correction in a satellite positioning system*.
+
+**Bad:** another survival-bias essay — what remains of the constellation, what is gone, an assessment table, two schools, a measured object. The reader has read it four times.
+
+**Good:** make the **mechanism** the protagonist and let taphonomy be a single closing paragraph, not the thesis. The orbiting clocks ran *fast* against the ground: a little slowing from their orbital velocity, far more speeding from the shallower gravity well at altitude — the two effects real, opposite, unequal, and computed a priori. Uncorrected, the position solution drifts kilometres a day; the system carried the correction from the first launch because the physics was decades old and not in doubt. The wonder is the engineering: clocks deliberately *detuned before launch* so that, once in orbit, relativity would pull them into agreement. The article builds like a mechanism-spine — the effect, the arithmetic, the fix, the scale — and only then turns, briefly, to survival: the constellation is cold orbital junk now, silent in a graveyard band, its correction still notionally applying to clocks nobody reads. It ends not on an object but **on the number** — the offset they built in, to the part in ten billion, right the first time.
+
+Same universe, same rigour, entirely different architecture, and a mood of admiration rather than loss. That is what variety looks like: not a different topic dressed in the same essay, but a different essay.
+
+---
+
 ## QUALITY GATE
 
 Before returning the article, confirm:
 
+**Truth and canon — never relax these:**
 - [ ] Every physical claim is real or explicitly derived from a real one
 - [ ] Every pT/CE pair is arithmetically correct (CE = pT + 1945; e.g. +3 pT = 1948 CE)
-- [ ] The survival pattern has a *causal mechanism*, not a theme
-- [ ] The article contains at least one fact the period published about itself and ignored
-- [ ] At least one Bronze Age structural correspondence
-- [ ] At least one contested question with two named schools and no verdict
-- [ ] At least one error the future makes, and its dry correction
 - [ ] No real public figure, corporation, product, or brand is named or judged — all are described by function
 - [ ] The year 3000 is never explained, only implied
-- [ ] At least one aphorism, attributed (reused verbatim, or newly coined and added to the ledger)
-- [ ] The article ends on a concrete particular (ideally a measured object), delivered flat; any closing aphorism is short and attributed
+- [ ] At least one Bronze Age structural correspondence
 - [ ] Cross-references to the canon: at least three; any new scholar, work, or coinage is appended to the ledger
+
+**Craft:**
+- [ ] The article runs on a *causal* engine, not a thematic one
+- [ ] At least one fact the period published about itself and ignored, delivered flat
+- [ ] The ending is a concrete particular — a number, an object, an argument, a fragment, a date — not a generalisation or a moral
+- [ ] Where a question is genuinely contested, its readings are given fairly and left unadjudicated; no dispute has been manufactured where none exists
+
+**Variety — the anti-sameness gate; check against the last two or three articles:**
+- [ ] The spine is *named* and *differs* from the recent articles' spines
+- [ ] The section headers are topic-specific — not the boilerplate sequence, not predictable from the last article
+- [ ] Not every device is present. This article does *not* mechanically carry a survival table *and* lettered schools *and* a measured-object close *and* an aphorism just because it could. Some are deliberately absent
+- [ ] The emotional register is not the same quiet-loss landing as the previous articles
+- [ ] The opening does not reuse the same three-paragraph door
+- [ ] Devices used because the topic wants them (the aphorism, the future's error and its correction, the Assessment table) — not because a checklist demanded them
