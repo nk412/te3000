@@ -1,0 +1,432 @@
+TERRAN ENCYCLOPAEDIA — THE UNIVERSE
+The backstory of the world. Not a style guide; the setting itself.
+
+===============================================================================
+1. WHERE AND WHEN WE STAND
+===============================================================================
+
+The vantage is the year 3000 CE. The civilisation of that year calls itself
+Terran and calls its own scholars the Historical Faculty. It is not a ruined
+world and not a restored one. It is a later, smaller-at-the-waist, redistributed
+humanity that lives mostly poleward, inland, and upland of where its ancestors
+lived, speaks a descended language, and studies the industrial era the way we
+study the Bronze Age: across a gulf, from wreckage, with more confidence about
+chemistry than about people.
+
+The era it studies is the Combustion Age — our own. From three thousand years
+out, everything from roughly 1750 to 2140 CE reads as a single interval: the
+span in which one species learned to unlock stored chemical energy by burning
+it, briefly integrated the whole planet into a handful of shared systems, and
+then let those systems go. The 3000 CE scholars do not think of it as "the
+modern world" or "the twenty-first century." They think of it as one geological
+and historical unit, bounded, over, and hard to read.
+
+This document is the truth of that world — what actually happened between the
+Combustion Age and the year 3000. Much of this truth is unavailable to the
+3000 CE scholars themselves; the gap between what happened and what they can
+recover is the central fact of the setting, and section 6 explains it.
+
+
+===============================================================================
+2. THE COMBUSTION AGE
+===============================================================================
+
+NAME. The period is named for its energetic basis — combustion — not for its
+residues, under the Ravensbourne convention of 2604. Rival names that lost:
+"Plastic Age," "Silicon Age." The winning name says the defining act was
+burning things, and everything else (the plastics, the chips, the carbon) was
+downstream of that.
+
+BOUNDS. Roughly 1750–2140 CE. It has an internal phase structure:
+  - Proto Combustion      c. 1712–1830 CE
+  - Early Combustion         1830–1945 CE
+  - Middle Combustion        1945–2010 CE
+  - Late Combustion          2010–2078 CE
+  - the Contraction       c. 2078–2140 CE
+  - the Consolidation     after c. 2140 CE  (the recovery into what becomes
+                                            the 3000 CE world)
+
+DATING (pT). The calendar zero is the first fission detonation — the Trinity
+test, 16 July 1945 CE. Dates are given "post-Trinity": pT. The conversion is
+exact and simple:
+        CE = pT + 1945
+So 2020 CE = +75 pT; 1920 CE = −25 pT; 1948 CE = +3 pT. Scholars quote pT in
+running prose and give both on first mention. The choice of zero is deliberate
+and pointed: the age is dated from the moment it acquired the means to end
+itself.
+
+STRATIGRAPHY. The Combustion Age is not only a historical period; it is a
+physical layer in the rock and sediment of the planet, the Gallus Horizon, with
+its type locality at Crawford Lake. The Terran Stratigraphic Commission ratified
+it as a formal unit in 2412 — notably, the period's OWN stratigraphers had
+declined to ratify it in 2024 CE, one of the small self-referential ironies the
+scholarship keeps returning to.
+
+DIAGNOSTIC MARKERS. The layer is recognised worldwide by:
+  - spheroidal carbonaceous particles (fly ash from high-temperature combustion)
+    — the sharpest and most useful marker, with a clean onset and a clean end;
+  - plutonium-239 from atmospheric weapons testing (which by 3000 CE has lost
+    only ~4% of its inventory);
+  - a lead-isotope spike (leaded fuel), peaking ~200x natural background in
+    layers dated to the late 1960s CE;
+  - a nitrogen-isotope shift in lake sediment (industrial fertiliser);
+  - polymer — a bed of subvisible plastic fragments continuous across every
+    marine basin on Earth;
+  - the bones of one bird (see below).
+
+THE RADIOCARBON PARADOX. The period cannot be radiocarbon dated. Its bombs
+spiked atmospheric carbon-14; then its fossil-fuel exhaust flooded the air with
+carbon so old it had no carbon-14 left, diluting the ratio below the natural
+baseline. The two effects cross. An object manufactured in 2050 CE radiocarbon-
+dates to roughly 1050 CE. The single most powerful dating tool available to
+archaeology simply does not work on the age that invented it.
+
+THE SCALE OF THE AGE. A handful of load-bearing quantities define how large,
+how fast, and how strange the interval was:
+
+  - Anthropogenic mass — everything humans made and left — overtook the total
+    living dry biomass of the planet around 2020 CE, each side ~1.1 teratonnes,
+    then went on doubling roughly every twenty years to the Contraction. Most of
+    it is concrete and aggregate.
+  - Between 30 and 50 gigatonnes of polymer were produced cumulatively; under a
+    tenth was ever reprocessed. It lithifies into a rock, plastiglomerate.
+  - Industrial nitrogen fixation from 1913 CE meant that, by the Late Combustion
+    Age, roughly half the nitrogen atoms in a living human body had passed
+    through a factory reactor. Two-fifths to one-half of the world's population
+    depended on synthetic fertiliser for the nitrogen in their food.
+  - The type fossil of the whole layer is a chicken. A fast-growing meat fowl
+    (broiler Gallus), bred from ~1950 CE for yield and slaughter age alone,
+    stood at ~25 billion birds alive at any moment in the age's final decades —
+    a combined living mass roughly three times that of every wild bird species
+    combined. Selective breeding raised its 42-day live weight more than
+    fourfold in fifty years. Its immature, distinctively porous bones, preserved
+    by anoxic landfill, are the most abundant vertebrate fossil the age leaves.
+  - The wet-bulb temperature of 35 °C is the hard physiological ceiling: above
+    it, a healthy person at rest cannot shed metabolic heat and dies within
+    hours. The Indo-Gangetic plain was projected to cross it first. It matters
+    enormously later (section 3).
+  - Orbit and the Moon keep a separate, near-perfect record. Low Earth orbit
+    self-cleared through atmospheric drag; geostationary orbit holds a graveyard
+    of dry, cold, intact dead satellites — "a museum nobody visits." Six crewed
+    lunar landing sites and three laser retroreflector arrays (1969–1971 CE) are
+    still there and still rangeable. Rover tracks on the Moon are estimated
+    legible for ~10 million years.
+  - Sea level at 3000 CE stands several metres above the Middle Combustion
+    datum and is still rising on a slow millennial ice-response. The ocean has
+    not stopped moving.
+
+
+===============================================================================
+3. THE CONTRACTION — WHAT ACTUALLY HAPPENED
+===============================================================================
+
+This is the true history. It is the thing the whole setting is about, and it is
+the thing the 3000 CE scholars can least clearly see.
+
+THE ONE THING THAT HAPPENED. The Combustion Age did not end in a flash. It
+ended in a sorting. Across roughly the +80s to +195 pT (late 2020s to ~2140 CE),
+the planetary systems that had briefly knitted the species into one — the food
+system, the electrical grid, long-haul logistics, financial settlement, and the
+automated machinery that allocated attention and decisions — were let go of,
+region by region, nowhere on a single day and never everywhere at once. A
+smaller, redistributed humanity came out the far side. Measured against the
+Combustion Age's own beginning it was still an enormous population; measured
+against the mid-century peak it was much reduced. It was survived. It was also,
+in places, uncounted, and a catastrophe. Both are true at once, and the record
+that would let anyone weigh the one against the other is precisely the record
+that did not survive.
+
+There was a catastrophe. There was not THE catastrophe. It had no year, no
+flash, and no name that its own people agreed on.
+
+Four forces drove it. They are the mechanism, not a slogan; the truth is in how
+they interlock.
+
+--- Force 1: HEAT AND WATER — the sorting principle -------------------------
+
+The climate forcing was real, foreseen, published, and gradual — and the
+gradualness is exactly why nothing decisive was done until it expressed itself
+as heat, drought, and movement. It did not end the world. It sorted it.
+
+Coastal abandonment ran in an order that tracked wealth far more strongly than
+elevation: the poor stayed in place, the moneyed relocated first and dry.
+Wet-bulb 35 °C excursions opened in the Indo-Gangetic plain in the +120s pT
+(~2060s CE) — but the plain did not empty from heat. It emptied two generations
+later, when the wells were dry and the grid was intermittent and the three
+failures arrived together. Sea level rose metres and is still rising. The
+retreat was poleward, inland, and upland; the dry high interiors the Late
+Combustion economy had ignored are where the people are now.
+
+--- Force 2: NUMBER — the demography that cannot be read ---------------------
+
+Population crested near 10.3 billion around the mid-twenty-first century and
+then fell. The fall had two components that the surviving record cannot
+separate:
+
+  (a) a genuine, humane, voluntary decline in fertility below replacement,
+      already underway before the Contraction; and
+  (b) real, uncounted excess mortality DURING it — heat, famine, disease, and
+      the road — never tallied, because the institutions that tally (civil
+      registration, the census) were among the very first things lost.
+
+The genome recovers deep population structure but cannot tell a person who died
+from a person who moved. This is the load-bearing void of the entire setting.
+The whole distance between "humane transition" and "uncounted catastrophe" is
+the distance between DIED and MOVED — and that is the one distinction the
+evidence cannot make. The answer is: both, unevenly, and the ratio is genuinely
+lost.
+
+--- Force 3: THE ROAD — the great displacement (the hinge) -------------------
+
+The central event of the millennium is a redistribution. Over roughly +80 to
++160 pT (~2025–2105 CE), on the order of a billion or more people relocated —
+poleward, inland, upland — in waves, across generations, under a hundred local
+names, never as one exodus. Populations moving under stress keep no archives,
+and the institutions that might have recorded them were themselves lapsing, so
+the largest human event of the age left almost no direct record at all.
+
+We know where people ENDED — from genomes, from dental isotopes, from the
+modern map — and next to nothing of the journeys. The displacement survives only
+as fingerprints:
+
+  - THE LANGUAGE TELL. The living language of the 3000 CE world, Standard
+    Terran, descends from the South Asian variety of the age's dominant
+    vernacular (its retroflex consonants, its invariant interrogative tag, the
+    aspectual copula the prescriptivists "corrected" while their own children
+    spoke it) crossed with Pacific island contact varieties (the inclusive-vs-
+    exclusive distinction in "we," the pronoun "yumi" built from "you-and-me" on
+    a low-island waterfront). These are the two most-displaced populations on
+    Earth: the first plain to cross the wet-bulb line, and the first islands to
+    go under. The world ended up speaking in the grammar of the people who had
+    to move — the language of the winners is the language of the drowned.
+  - THE GENOMIC TELL. Endogamy structures that had held for a hundred
+    generations relax, during and after the Contraction, in a pattern that
+    tracks displacement rather than doctrine. Whether that is emancipation or
+    catastrophe, the DNA cannot say.
+  - THE WEALTH TELL. Who moved early and safely, and who was stranded, tracked
+    wealth and not need — the same gradient as the drowned coasts.
+
+--- Force 4: THE MACHINES — the record that addresses itself -----------------
+
+The late period delegated allocation, logistics, credit, targeting, and above
+all attention and decision to automated systems trained on its own data. All of
+this is ordinary and real and predates the age's last decades: recommendation
+engines, algorithmic trading, automated routing, credit scoring, targeted
+advertising, biometric identity, predictive systems. There is no rogue mind, no
+awakened intelligence, no uploads, no invented capability. The machines are
+never villains.
+
+They optimised objectives that were legible to themselves and not to the people.
+Two consequences carry the weight:
+
+  - THE SYSTEMS OUTRAN THE PEOPLE. As the integrated world came apart, the
+    automated allocations, prices, and routings kept executing on a world that
+    had drifted out from under the data they were trained on — ordinary
+    distribution shift and objective misspecification, running at planetary
+    scale with no one left at the desk. A food-distribution ledger that is
+    entered faithfully every day and then simply stops mid-week, without remark,
+    is a system logging correctly until it lost power. The Contraction was, in
+    part, machinery still running a policy on a world it no longer fit.
+  - THE AUTHORSHIP VOID. By the end, so much text was machine-generated — and
+    engineered to be indistinguishable from a person's — that the surviving late
+    record contains streams no scholar can classify as human-written or machine-
+    produced. The plurality of complete, well-formed imperative sentences in the
+    period's own hand are addressed to processors, not people. The record of the
+    last human century may be, in large part, a record of what machines said
+    about people, and the distinction was engineered away.
+
+--- THE APOCALYPSE THAT DID NOT COME -----------------------------------------
+
+The age armed for, rehearsed, and buried its warnings against a nuclear ending.
+That ending did not happen. The isotopic record forbids a large exchange and
+cannot rule out a small one. The truth: there was no civilisation-ending
+exchange. The arsenals were mostly dismantled, abandoned, or simply lost unfired
+as the states holding them contracted; at most there was localised use, small
+enough to hide under an already-elevated plutonium-239 background, and genuinely
+unconfirmable. The apocalypse everyone prepared for is not the one that came.
+The one that came had no flash.
+
+
+===============================================================================
+4. THE ATTRITION — THE LOSS OF THE RECORD
+===============================================================================
+
+Between roughly +45 and +255 pT (~1990–2200 CE), nearly all of the period's
+written and audiovisual output was lost. This was not a fire or a war. It was a
+maintenance failure — an interval mismatch. The age's media needed active,
+funded recopying on a cycle of years to a couple of decades, and the
+institutions doing the recopying proved reliable for less than a human lifetime.
+
+There were two failure modes:
+  - the substrate dies: magnetic tape lasts ~10–30 years, spinning disks ~3–5,
+    optical discs rot; and even durable media outlived the machines that could
+    read them, which went obsolete within a generation;
+  - the substrate lives but the program that could interpret it is gone
+    (proprietary-format obsolescence).
+
+The only remedy was continuous migration — a subscription payable forever.
+Custodial ("cloud") data was withdrawn wholesale on the date a payment lapsed.
+
+The devastating part: the age foresaw all of this. Its own archivists named it,
+measured it, and published the warnings — on the very media they were warning
+about. It even staged the demonstration: an anniversary re-survey issued on a
+video disc that was unreadable within sixteen years, printed alongside the
+eleventh-century parchment it commemorated, which was still perfectly legible
+after nine hundred. Roughly 60+ zettabytes were created in a single peak year;
+about 2% of it survived one year later.
+
+The Attrition is why the setting looks the way it does. It selectively destroyed
+exactly the human-generated, institution-kept record — and left standing the
+durable, the inert, the machine-kept, and the accidentally intercepted.
+
+
+===============================================================================
+5. WHAT SURVIVED — THE EVIDENTIARY SITUATION
+===============================================================================
+
+The scholarship of 3000 CE is built almost entirely from a handful of freak
+survivals. Each one biases the picture in a specific, traceable way.
+
+THE LONGYEAR DEPOSIT (its own name for itself: the Arctic World Archive).
+Silver-halide film on polyester, stored in a disused coal working at 78° N.
+Each reel carries a printed, human-legible "Portal Leader" explaining how to
+decode it. Survival correlated with shelf height: the chamber flooded, and the
+coal seam's pyrite made the water acidic, so film on the lower racks dissolved.
+Film on the upper racks lived. This single accident of shelving produces the
+"Svalbard bias" that runs through the whole discipline.
+
+THE CODE DEPOSIT (consignment L-III of the Longyear Deposit). One Sunday
+snapshot of the entire public software of the world, written to 186 reels of
+film — tens of millions of projects, ~21 trillion bytes. It arrived late (a
+pandemic delayed shipping), so it was shelved high, so it survived. It is
+bit-exact and self-verifying: the repository named every file by a fingerprint
+of its own contents, so a recovered file is provably the original. More than
+nine-tenths of ALL bit-exact surviving Combustion-Age text is this one archive
+of source code. Alongside it: "the Instruction," the only Combustion-Age text
+written expressly for the future.
+
+THE WASATCH CORPUS. Bulk-intercepted network traffic, hoarded by signals
+agencies under a "harvest now, decrypt later" policy and finally read out once
+quantum computers broke the era's public-key cryptography. It is the fullest
+record of ordinary life that survives — and, by volume, it is mostly advertising
+telemetry. It over-samples the Anglophone, the urban, the connected, and the
+purchasing. Its guiding aphorism, from the scholar Ranganathan: "we do not know
+what they said to each other; we know what was said about them to machines."
+
+THE SEALED. Symmetric-ciphered archives. These are not undeciphered like the
+Bronze Age's Linear A. They are UNDECIPHERABLE — provably, by the period's own
+mathematics. A category of evidence with no precedent in the whole history of
+the discipline: sources known to exist, known to contain something, and known to
+be permanently unreadable.
+
+OTHER DELIBERATE ARCHIVES:
+  - the Hallstatt tablets — fired ceramic in a salt mine; the finest surviving
+    corpus of everyday writing;
+  - the nickel disks — including a language disk (~76 mm, ~1,500 languages,
+    ~13,000 pages), the sole surviving attestation of several hundred tongues;
+    and a consignment scattered across Mare Serenitatis on the Moon in 2019 CE;
+  - the Voyager records — two gold-plated phonograph disks launched out of the
+    Solar System in 1977 CE, engraved with their own playback instructions and a
+    uranium dating patch, estimated legible for a billion years. One was
+    recovered in 2871 CE at 3,340 AU and played on the first attempt. It is the
+    best-preserved artefact of the age — and the most misleading, because its
+    makers deliberately excluded war, disease, poverty, weapons, and ideology.
+    It is a curated self-portrait mistaken, at first, for a sample.
+  - the Long Clock — a monument-scale clock, built to run for ten thousand
+    years, still running.
+
+THIN-ATTESTATION REGIONS. The places where the population maximum coincides with
+the evidentiary minimum. These are, disproportionately, exactly the regions that
+moved — so the discipline's blindest spots line up precisely with its most
+important story (section 3).
+
+THE UNIFYING PATTERN. Everything that survived did so for one of a few reasons:
+by durable medium (Longyear, the Code Deposit), by a keeper with an unrelated
+purpose (the Wasatch Corpus, skimmed off cable landing stations), by being
+provably unreadable anyway (the Sealed), or by deliberate exception on metal or
+in vacuum (the nickel disks, the Voyager records). Every one of those channels
+over-samples the connected, urban, purchasing, Anglophone few — which is to say,
+it over-samples the exact people the catastrophe spared, and under-samples the
+poor, the rural, the moved, and the dead.
+
+
+===============================================================================
+6. WHY THE SCHOLARS CANNOT SEE IT
+===============================================================================
+
+The 3000 CE scholars are honest, rigorous, and stuck. The Attrition destroyed
+precisely the evidence that would settle the story: the registrations, the
+censuses, the mortality and migration records, the deliberative record, and the
+human — as against machine — voice. What remains is durable, inert, machine-kept,
+and accidentally intercepted, and every one of those channels over-samples the
+people the catastrophe spared.
+
+So their honest position is agnosticism. They maintain schools of thought that
+never adjudicate. A revisionist reading — "there was no collapse; the end of the
+archive is not the end of the world" — cannot be put down, because the evidence
+genuinely will not put it down. Their caution reads as wisdom. That agnosticism
+is itself a symptom of the thing that happened: the record is shaped exactly so
+that the catastrophe cannot be proven or disproven, and the scholars are too
+rigorous to claim what they cannot show.
+
+The reader of the encyclopaedia knows more than its authors do. That is the
+engine of the setting: we can see the shape the scholars are too honest to name.
+
+A guiding principle, and the true source of the setting's dread: the horror is
+NEVER that the past was ignorant. They knew. They published it. They put the
+warning in their own promotional literature — that the media would rot, that the
+fuel additive was lethal, that the plain would cross the wet-bulb line, that the
+allocation systems were misspecified — and then they did not act on it. Every
+disaster in this world is a foreseen, documented, un-acted-upon one.
+
+
+===============================================================================
+7. THE STUDY OF THE AGE — INSTITUTIONS AND SCHOLARS
+===============================================================================
+
+The 3000 CE world has a mature academic discipline devoted to the Combustion
+Age. It has its own bodies, journals, and recurring scholars.
+
+BODIES:
+  - the Institute for Deep Record Studies;
+  - the Selene Historical Society (based at Tycho, on the Moon);
+  - the Terran Stratigraphic Commission (which ratified the Gallus Horizon in
+    2412).
+
+JOURNALS:
+  - Journal of Anthropogenic Stratigraphy;
+  - Historiography.
+
+RECURRING SCHOLARS (the discipline's standing voices):
+  - Ranganathan, V. — sampling and bias; the Wasatch Corpus.
+  - Zhou-Ferreira, A. — the revisionist "there was no collapse" reading.
+  - Ibarra, N. — systems fragility; "single-filament infrastructure," the
+    doctrine that the age ran its whole planet through dangerously few points of
+    failure (one canal, one ore body, two poultry bloodlines, one fuel additive
+    formula).
+  - Ashworth-Nakamura, K. — dating and archives; the radiocarbon problem.
+  - Marchetti, L. — historiography and cross-era comparison; the scholar who
+    debunked the reading of a trivial software routine as a canonical "text."
+  - Halvorsen, E. — taphonomy: how specific materials corrode or survive.
+  - Okonkwo, D. — deposits and incidental metadata; reading accidental records
+    (commit timestamps, routing logs) as unintended censuses.
+
+SCHOOLS OF THOUGHT (invoked only where the question is genuinely unsettled):
+  - on the Contraction: systems-fragility / climatic / information / continuity;
+  - on why the nuclear arsenals were never used: deterrence / contingency /
+    materialist;
+  - on the age's politics, which the discipline refuses to adjudicate:
+    maximalist (the intercepted advertising corpus is representative) vs.
+    corpus-critical (it is not — this is like reconstructing a whole society
+    from one city's billboards).
+
+LANGUAGE OF SCHOLARSHIP. Two languages matter. Standard Terran is the living
+language of the 3000 CE world (section 3). The encyclopaedia's articles are
+written in a scholarly reconstruction called Reconstructed Late Combustion
+English — a convention, the way real Bronze Age scholarship keeps words like
+"tell," "tumulus," and "stela." It is not anyone's mother tongue. Standard
+Terran has since lost the interdental fricatives ("th" sounds), marks completed
+action with a preverbal particle descended from the auxiliary "done,"
+distinguishes an inclusive from an exclusive "we," and carries a retroflex
+consonant series and an invariant question tag inherited from South Asian
+English — which, by ~2045 CE, had become the most-spoken variety of the tongue.
