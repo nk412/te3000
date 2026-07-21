@@ -1,0 +1,35 @@
+# The Long-Wave Reveille
+
+*Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from a skeletal assemblage in a poultry-house landfill lens and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+
+> **The Long-Wave Reveille is the Historical Faculty's name for an unidentified longwave time-and-frequency broadcast that, from the Middle Combustion Age into the Contraction, kept a scattered fleet of automated poultry-house lighting controllers in step with a national frequency standard.** No station log, receiver log, or call sign survives; the signal is known only through what its silence did to the animals timed by it.
+
+---
+
+**A state frequency-standards laboratory maintained, from +23 pT (1968 CE), a continuous longwave carrier phase-locked to a caesium-beam standard — traceable, on the laboratory's own figures, to within a few parts in 10¹³ of the second defined by 9,192,631,770 periods of the caesium-133 ground-state transition — and modulated it once a minute with a binary time code.** The service was built for industrial clock calibration and was adopted, cheaply and incidentally, by a class of receiver with no clock of its own: single-chip controllers that governed the lighting programmes of broiler *Gallus* grow-houses, where day-length is metered in minutes to hold feed conversion and leg-bone development to schedule. A receiver that could hear the carrier needed no real-time-clock chip and no backup cell; it needed only to listen. That saving was a debt against the broadcast's own continuity, quietly assigned to whoever still owned the birds once the transmitter stopped being maintained.
+
+## Keeping time cheaply
+
+The substitution was exact and, for decades, invisible: an uncompensated low-cost oscillator, of the kind built into a lighting relay rather than a clock, drifts on the order of a hundred parts per million — call it ten seconds in a day — and the minute-mark correction erased that drift before it could accumulate. The laboratory's maintenance record, thin and late, shows the carrier's uptime figure declining through the +130s pT as the institute's technical staff thinned with the region's wider displacement; by the +140s pT the outages ran to weeks at a stretch, long enough for an unsynchronised relay to accumulate several minutes of daily error. A controller that lost the signal did not fail. It kept its own time, on its own crystal, drifting quietly against a schedule it no longer received.
+
+## What the bones kept
+
+The assemblage is a single landfill lens beneath a broiler complex, its immature, porous *Gallus* long bones sorted by cohort. Tibial growth-plate closure in the fast-growing breed is sensitive to cumulative light exposure; cohorts raised under an unbroken lighting programme close in a narrow band of slaughter-age, and the lens shows exactly that band, continuously, from +101 to roughly +140 pT (2046–2085 CE). After +140 pT the band widens: slaughter-ages spread and growth-plate irregularities of the kind associated with disrupted photoperiod become more common, consistent with a relay compounding a few minutes of daily timing error over each 42-day cycle. The last coherent cohort dates to +149 pT (2094 CE). The laboratory's own log for that year alternates, without any change in register, between entries a technician plainly wrote and boilerplate a fault-reporting routine plainly generated:
+
+> *0400 — carrier nominal — cross-check pending — no anomaly to report.*
+
+The line repeats, unchanged, for eleven consecutive days before the log ends. Nothing in its phrasing distinguishes the last human entry from the first machine one.
+
+---
+
+## Provenance and ground
+
+The chronology is read from the bone bed's own stratigraphy and cross-dated against the laboratory's surviving maintenance log, both interpreted by Halvorsen, E., whose standing method is the taphonomy of exactly this kind of accidental archive. Nothing of the transmitter's identity, ownership, or intended service area survives the record; the broadcast is named here only for what it did.
+
+## See also
+
+- **Borrowed Rain** — a different infrastructure debt, quietly assigned and left unpaid, read out of a different corpus.
+
+## Notes
+
+Whether the transmitter was decommissioned or simply lost the power to keep transmitting is not recoverable from either record. Whether the final cohort was slaughtered to schedule or left running past it is not recoverable from the bones.
