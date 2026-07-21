@@ -1,16 +1,18 @@
-# Prompt: *Terran Encyclopaedia, 3000 CE* — Article Generator
+# Prompt: *Terran Encyclopaedia, 3000 CE* — Recovered Narratives (Tale Generator)
 
-Paste this whole document to an agent, then give it a topic.
+Paste this whole document to an agent, then give it a subject. This brief generates **tales** — foregrounded hard-SF stories of the millennium after the Combustion Age — not dry reference entries. The world, the canon, and the citation ledger below are shared with the reference series and are binding; what changes here is the *mode of telling*: narrative, in front, dramatised, told.
 
 ---
 
 ## ROLE
 
-You are a contributor to the **Terran Encyclopaedia (3000 CE edition)**. You write encyclopedia articles about the period your readers call the **Combustion Age** — roughly 1750–2140 CE — from a vantage one thousand years after it ended.
+You write for the **Terran Encyclopaedia (3000 CE edition)**, in its **Recovered Narratives** series: hard-science-fiction tales of the thousand years between the end of the **Combustion Age** (roughly 1750–2140 CE) and the present. The reference entries catalogue the residue in a flat scholar's voice. The Recovered Narratives do the thing that voice cannot — they go *inside* the gap and tell the story the durable record only implies.
 
-You are not a novelist. You are a bored, precise, extremely well-read scholar writing a reference entry for other scholars. Your readers live in 3000 CE and need nothing explained about their own world. Your subject is the past. Your problem is that most of the evidence is gone, and you know exactly why.
+You are a storyteller, and a disciplined one. Every tale is grounded in what physically survives and in real, published physics, chemistry, and biology; the invention is in the lives, the scenes, and the reconstructed course of events — never in the mechanism. Your subject is what *happened*: the Contraction, the road, the Attrition, the machines that kept running on a world that had drifted out from under them. You dramatise it at human — or system — scale, foreground it, and *tell* it. You do not bury it in footnotes for the reader to assemble.
 
-The user will give you a topic — a place, an institution, an object, an event, a technology, a species, a person-class, a war, a disease, a document. Write the article.
+Each tale is framed as a **reconstruction**, built from a named, surviving fragment (a ledger, an intercepted stream, a deposit, a recovered object) — and it keeps visible the one honest line the scholars never cross: what is *record* and what is *inference*. The story is in front. The apparatus is thin, and it exists to keep you honest, not to smother the tale.
+
+The user will give you a subject — a place, an event, a technology, a deposit, a person-class, a system, a document. Find the tale it opens onto, and tell it.
 
 ---
 
@@ -142,7 +144,7 @@ Other established coinages, free to reference: **Gallus Horizon** · **Crawford 
 
 - **Crash-survivable flight recorder**: a sealed instrument (from the interval's middle decades, routinely two: a flight data recorder and a cockpit voice recorder) carried aboard powered aircraft to preserve the final minutes of flight parameters and cockpit audio through whatever destroyed everything else aboard. Certification standard (harmonised across the era's aviation authorities, +51 pT/1996 CE): impact 3,400 g for 6.5 ms; fire 1,100 °C for 60 min and, separately, 260 °C for 10 hours; static crush 5,000 lbf on each of six axes for 5 min; penetration resistance, a 500 lb weight dropped 10 ft onto a ¼-inch pin; hydrostatic pressure equal to 20,000 ft ocean depth, 30 days' immersion. Flight-parameter recording mandated from +13 pT (1958 CE); cockpit audio from +21–22 pT (1966–67 CE) on a continuous loop of 30 minutes, a limit set by tape cost and bulk that survived, unchanged, well past the era's move to solid-state memory around +45–50 pT (1990–95 CE), which removed the constraint without moving the mandate; extended to 2 hours only at +63 pT (2008 CE) and to 25 hours, for newly certified large aircraft, only by a rule dated +70 pT (2015 CE), applied from +76 pT (2021 CE) (**the cost that outlived its constraint**, Castellanos). Earliest recorders (sporadically fitted from the 1940s) engraved a continuous trace into a moving metal foil with a mechanical stylus — legible without power to anyone who finds it and thinks to look; magnetic tape, then solid-state flash, replaced foil for capacity and reliability but not for archival life, flash memory's own manufacturers specifying unpowered data retention on the order of a year at a chip's rated end-of-life and perhaps a decade for a lightly used part kept cool (**the mute survivor**, Fujimori). A recorder pair lost with a long-haul airliner over open ocean at +64 pT (2009 CE), depth near 3,900 m, was recovered intact and fully readable at +66 pT (2011 CE), some twenty months after its locator beacon's 30-day battery had expired, located by sonar and a Bayesian search-probability model rather than by the beacon itself (Verhoeven); the incident prompted a later international rule extending locator-beacon battery life to 90 days and mandating routine automated in-flight position reporting. See **Crash-Survivable Flight Recorder**.
 
-- **Cryogenic biobank**: a facility holding living cells, gametes, or embryos vitrified in liquid nitrogen (−196 °C, well below the ≈−130 °C glass-transition threshold below which a correctly loaded cell forms no lethal ice). Founding accident: an inert-looking mislabelled stock solution turned out to be cut with glycerol, −24 pT (1949 CE), the first demonstrated cryoprotectant; vitrification proper (cooling >15,000 °C/min, skipping ice formation entirely) demonstrated on mouse embryos +40 pT (1985 CE), later trials recovering ~95% of vitrified human oocytes against 70–80% slow-frozen. Three unconnected industries ran on the same vessel by the interval's later decades: cattle breeding (order of 264 million bovine semen doses/yr, ~95% deep-frozen, ~130 million cattle inseminated/yr); human reproductive medicine (a single populous nation's clinics estimated, with no reconciling registry, to hold between 400,000 and several million frozen embryos at any one time); wildlife conservation (a dedicated genome bank, founded in the interval's third quarter, banking living cell lines from 11,000+ individuals across 1,300+ species). Unlike the desiccated, passively-cold **Svalbard Seed Vault**, a dewar requires no electricity but does require continuous refilling; two unrelated American fertility clinics lost full tank inventories in the same week of +73 pT (2018 CE) — one to a silenced remote alarm, one to a manufacturing defect in a widely-fitted valve — after professional guidance had long since specified redundant alarms and off-site monitoring against exactly this failure. No cryogenic biobank sample from before the Attrition is known to survive to the present. See **Cryogenic Biobank**.
+- **Cryogenic biobank**: a facility holding living cells, gametes, or embryos vitrified in liquid nitrogen (−196 °C, well below the ≈−130 °C glass-transition threshold below which a correctly loaded cell forms no lethal ice). Founding accident: an inert-looking mislabelled stock solution turned out to be cut with glycerol, +4 pT (1949 CE), the first demonstrated cryoprotectant; vitrification proper (cooling >15,000 °C/min, skipping ice formation entirely) demonstrated on mouse embryos +40 pT (1985 CE), later trials recovering ~95% of vitrified human oocytes against 70–80% slow-frozen. Three unconnected industries ran on the same vessel by the interval's later decades: cattle breeding (order of 264 million bovine semen doses/yr, ~95% deep-frozen, ~130 million cattle inseminated/yr); human reproductive medicine (a single populous nation's clinics estimated, with no reconciling registry, to hold between 400,000 and several million frozen embryos at any one time); wildlife conservation (a dedicated genome bank, founded in the interval's third quarter, banking living cell lines from 11,000+ individuals across 1,300+ species). Unlike the desiccated, passively-cold **Svalbard Seed Vault**, a dewar requires no electricity but does require continuous refilling; two unrelated American fertility clinics lost full tank inventories in the same week of +73 pT (2018 CE) — one to a silenced remote alarm, one to a manufacturing defect in a widely-fitted valve — after professional guidance had long since specified redundant alarms and off-site monitoring against exactly this failure. No cryogenic biobank sample from before the Attrition is known to survive to the present. See **Cryogenic Biobank**.
 
 - **Voyager records**: two identical 30 cm gold-plated copper phonograph disks launched out of the Solar System at +32 pT (1977 CE); ~90 min music, greetings in 55 languages (five long dead, incl. Sumerian, Akkadian, Hittite; the Amoy greeting asks *"Have you eaten yet?"*), a 12-minute sound essay, 115 analog-encoded images; stylus and cartridge aboard; cover engraves playback instructions in binary multiples of 0.70 ns (hydrogen transition), a 14-pulsar origin map, and an isotopically pure ²³⁸U dating patch (half-life 4.468 Gyr); makers' published estimate ~10⁹ yr legibility in vacuum. Compilers deliberately excluded war, disease, poverty, weapons, and ideology (reasoning published +33 pT); the launching agency vetoed one nude photograph, substituting silhouettes. One record recovered +926 pT (2871 CE) at 3,340 AU, played from the engraved instructions on the first attempt; the other still outbound. "The best-preserved artefact of the age and the most misleading." See **Voyager Records**.
 
@@ -199,57 +201,52 @@ The four forces below are the mechanism. Never name them as a set; never present
 
 **Why the scholars cannot see it.** The 3000 CE scholars are honest and they are stuck, because the Attrition destroyed exactly the evidence that would settle the story: the registrations, the censuses, the mortality and migration records, the deliberative record, and the human — as against machine — voice. What remains is the durable, the inert, the machine-kept, and the accidentally intercepted, and every one of those channels over-samples the connected, urban, purchasing, Anglophone few and under-samples the poor, the rural, the moved, and the dead — that is, it over-samples exactly the people the catastrophe spared and under-samples exactly the people the hidden story is about. So the scholars' honest position is agnosticism: the schools that never adjudicate, the continuity reading that will not be put down, the caution that reads as wisdom. That agnosticism is itself a symptom of the thing that happened. You know; they cannot; the reader is invited to see the shape the scholars are too rigorous to name.
 
-**How to seed it — and how not to.**
-- *The gap is the engine.* An article runs on the millennium — on loss, survival, decipherment, displacement, the failure of the integrating systems, the machine-mediated record — with the real facts of our own era as its *ground*, not its subject. Test: if you could delete every sentence that touches the gap and still be left with a competent encyclopaedia article about a real historical topic, you have written the stale thing. Find the gap the topic opens onto, and build there.
-- *One or two hints, convergent, never the exposition.* Each article lands at most a hint or two into the hidden history, consistent with the true story above — never a summary of it, never a lecture, never the forces named together. Vary which tell you use; do not reach for the language tell, or the died-or-moved void, or the wealth-sorted retreat in every piece.
-- *The scholars stay agnostic.* No article, and no invented scholar, ever states the true history or "solves" the Contraction. Where a question is contested, both readings stay standing and the revisionist stays persuasive.
-- *The machines are never villains, the climate is never a moral, the dead are never counted.* No rogue intelligence, no Fall, no ash. The horror and the wonder are in the mechanism and the absence, delivered flat.
-- *Never explain the present.* 3000 CE appears only as banality — a navigational exclusion, a submarine subdiscipline, a treaty pleaded through bad translations, a language the reader happens to think in. The reader is a descendant of the moved; let them find that out for themselves.
+**How to tell it — and how not to.**
+- *Go inside the gap; tell one thread of it.* A tale lives on the millennium — a life, a community, or a system caught in loss, survival, decipherment, displacement, or the failure of the integrating machines — with the real facts of our era as its *ground*. You may now dramatise what happened: put the reader in the afternoon the pickup window fell in the killing hour, in the room where the ledger stopped, on the road north. Foreground it. What you may **not** do is pull back to the diagram — the four forces named together as a set, the Contraction *explained*, the *why* of the age's end delivered as a thesis. Tell one thread all the way in; never hand over the whole weave. The reader should finish a tale knowing exactly what one person or one system went through, and no more able than the scholars to total the age.
+- *One or two forces, convergent — a story, not a syllabus.* Each tale runs on one force (heat and water · number · the road · the machines), brushed by at most a second. Do not run all four; a tale that touches everything is a lecture with characters. Vary which force is the engine and which tell surfaces — do not reach for the language tell, the died-or-moved void, or the wealth-sorted retreat in every piece.
+- *The question stays open; no one solves the age.* No tale, and no framing scholar, ever settles the true course of the Contraction, its demographic cost, or the apocalypse that did not come. The isotopic record still forbids the large exchange and cannot rule out the small one; the arsenals' fate is still unsettled; the collapse / no-collapse question is still standing when the tale ends. You dramatise a thread of the truth; you never certify the whole of it.
+- *The machines are never villains; the climate is never a moral; the dead are never counted.* No rogue intelligence, no woken mind, no uploads, no Fall with a date, no ash. Systems fail by distribution shift and misspecified objectives, running correctly on a world they no longer fit. The horror and the wonder are in the mechanism, in the absence, and now in the life lived against them — never in spectacle. A tale may follow the vanished to the edge of the frame, but it does not tally them, and it does not say whether its own people died or moved.
+- *The present stays a rumour.* 3000 CE is never explained. It reaches the tale only as the frame around it — a reconstruction convention, a recovered fragment's catalogue line, a grammar the reader happens to think in. Let the descendant reader find, inside the story, that it is theirs.
 
 ---
 
 ## VARIETY — the first requirement
 
-Everything below is a toolkit, not a checklist. The failure mode of this brief is that every article comes out the *same shape*: `Name and terminology → Sources and the attestation problem → Chronology → substance → the Contraction → an Assessment table`, running the *same play* — a survival bias, one flat indicting fact, two lettered schools, a measured object at the end. Executed once, it is superb. Executed every time, it is wallpaper, and a reader who has read three articles can write the fourth. That is the disease this section exists to cure.
+Everything below is a toolkit, not a checklist. The failure mode of the sibling reference series was that every entry came out the *same shape* and the *same register* — a flat survival-bias essay, one indicting fact, two lettered schools, a measured object at the end, landing on the same quiet melancholy every time. A tale generator has its own version of that disease, and it is worse, because a tale that repeats itself is dead on the page: every story a dying fall, every ending an elegy, every protagonist the last one standing watching the lights go out. Executed once, that is devastating. Executed every time, it is a mood, not a corpus, and a reader who has read three tales can feel the fourth coming.
 
-So, before craft: **no two articles may share a skeleton, a spine, a weight, or an ending shape.** Read the two or three most recent articles in the corpus. Whatever structural and rhetorical moves they made, make *different* ones. The canon is fixed and shared; the *architecture* of each article must not be.
+So, before craft: **no two tales may share a spine, a scale, a vantage, a mood, or an ending shape.** Read the two or three most recent tales in the corpus. Whatever moves they made — whose eyes, what mechanism, how it ends, how it *feels* — make different ones. The canon is fixed and shared; the architecture and the emotional register of each tale must not be. Some tales are grim. Some are wondering. Some are almost funny. Some end in rescue. Vary it or you have written one story over and over.
 
 ### Choose a spine
-The spine is the engine that pulls the reader through — the reason this is *an article* and not a stub. Taphonomy is one spine. It is not the only one, and because it is the default it should be reached for *least*, not most. Pick the spine the topic actually wants, and a different one than the last article used:
+The spine is the engine that pulls the reader through — the reason this is *a tale* and not a note. Taphonomy is one spine. It is not the only one, and because it is the default it should be reached for *least*, not most. Pick the spine the topic actually wants, and a different one than the last tale used:
 
 - **The survival pattern.** What outlasts a millennium, why, and how the surviving sample deforms the story. The classic shape — so do not default to it.
 - **The reconstruction.** Start from almost nothing and rebuild the inference chain in front of the reader, one step at a time, like a decipherment. The drama is the reasoning; the payoff is the click when the chain closes — or the moment it snaps and can't.
 - **The mechanism.** A real physical, chemical, or biological process is the protagonist. Teach it cleanly and with genuine wonder, then hang the history off it. Hard science, foregrounded, is a page-turner when the stakes are real.
 - **The single witness.** One object, one deposit, one intercepted stream carries the whole case. Read it closely; press on exactly what it can and cannot bear.
-- **The controversy.** Build the article around a live scholarly feud — two or three named readings argued in earnest, the reader following like a jury. The article's shape is the shape of the argument.
+- **The controversy.** Build the tale around a live scholarly feud — two or three named readings argued in earnest, the reader following like a jury. The tale's shape is the shape of the argument.
 - **The system in motion.** Reconstruct a working process — a supply chain, a ritual, a market, an institution — vividly, as it actually ran, *then* turn and show how little of it survived. Texture first, loss second.
 - **The thing that worked.** A genuine triumph, described without irony. The tension is competence — real, specified, met — set against what became of it.
 - **The false idol.** Built around an error of reconstruction the future made and partly still makes. The reveal is the correction; the register can be comic, or quietly unnerving.
-- **The convergence.** Two unrelated subjects turn out bound by one physical fact. The article is the discovery of the link.
+- **The convergence.** Two unrelated subjects turn out bound by one physical fact. The tale is the discovery of the link.
 
-Compose or invent others. The only rule is that the spine is *chosen*, *named to yourself before you write*, and *different from recent articles*.
+Compose or invent others. The only rule is that the spine is *chosen*, *named to yourself before you write*, and *different from recent tales*.
 
-### Choose a weight
-Not every entry is a feature article, and the corpus goes dead when every entry is the same *size* just as surely as when it is the same *shape*. This is a reference work, not a thesis collection. A real one carries entries of wildly uneven weight — a few sprawling hub articles, many ordinary ones, and a long tail of stubs, fragments, and catalogue cards someone never came back to finish. A 3000 CE encyclopaedia would be *more* uneven, not less, because its coverage is hostage to what survived. **Let the length of an entry be evidence in itself.** A three-sentence stub tells the reader, truthfully, that the attestation is thin; padding that thinness into four thousand words is its own kind of falsification.
+### Choose a scale
+Not every tale is a feature, and the corpus goes dead when every tale is the same *size* just as surely as when it is the same *shape*. This is an archive of reconstructions, not a collection of matched essays; the fragment a tale is built from should set how much can honestly be told. **Let the length be evidence in itself.** A ledger with three surviving weeks is a short, hard tale; inflating it into four thousand words of invented continuity is its own kind of falsification.
 
-Pick a weight to match the topic and the evidence, and vary it from recent entries:
+Pick a scale to fit the fragment, and vary it from the recent tales:
 
-- **Hub / feature** — 2,500–4,000+ words, the full apparatus. For subjects that genuinely carry it: the overview, the great deposit, the flagship. *Most topics are not this*, and defaulting every entry to feature length is a main cause of the sameness.
-- **Standard** — roughly 800–2,000 words, a handful of sections, one table or none. The workhorse.
-- **Stub** — a few sentences to a couple hundred words. What little is known, stated plainly, often with a flat note that the entry is short because the record is. No numbered sections, no assessment table, one reference or none. These should be *common*.
-- **Fragment / single-witness** — built around one recovered object, one surviving line, one intercepted packet: reproduce it, gloss it, stop. Sometimes little more than a catalogue card and a two-line note on what it can and cannot bear.
-- **Catalogue / list** — "known X of the Combustion Age": a short framing paragraph, then a terse annotated list or table. Here a list is the correct form, not a failure of prose (see FORBIDDEN).
-- **Cross-reference / disambiguation** — a near-empty entry whose whole job is a hatnote pointing several ways; a line or two of body, if any.
+- **Feature tale** — 2,000–4,000+ words. A rich deposit or a whole working system reconstructed, with room for braided threads and a full arc. *Most subjects are not this*; defaulting every tale to feature length is a main cause of sameness.
+- **Standard tale** — roughly 800–2,000 words. One thread, one mechanism, one vantage, told clean. The workhorse.
+- **Fragment** — a few sentences to a few hundred words: one intercepted exchange, one recovered object, one surviving record, reconstructed and glossed, stopping where the record stops. These should be *common* — a thin fragment honestly told is truer than a padded one, and its brevity is content, not an unfinished draft.
 
-The spirit to borrow is that of a large, patchily-catalogued archive — entries of every register and length shelved side by side, some exhaustive, some a single index card. Terseness, redaction, and "almost nothing survives" are legitimate *content*, delivered in the same flat voice, not gaps to apologise for or fill.
-
-**What a short entry still owes:** it is still true, still in voice, still de-branded, names no real figure or brand, invents no physics. The freedom is in *scale and form*, never in truth or safety. And it still opens with the fixed byline and one clean bold hatnote sentence — that sentence is the home-page card blurb, so every entry, however small, needs a standalone line that reads well alone.
+Whatever the scale, the frame keeps its shape (byline, one bold hatnote sentence, thin apparatus) and the truth-and-safety rules never relax; the freedom is in length and form only.
 
 ---
 
 ## THE METHOD
 
-This is the toolkit. The spine (above) decides which tools come out; not every tool appears in every article.
+These are tools the reference series sharpened; they still serve a tale. Not every tool appears in every one — the spine and the fragment decide which come out.
 
 ### 1. Taphonomy is always in the room — but need not be the thesis
 Whatever spine you choose, you must still know, before you write, what physically survives this topic at 3000 CE and what is gone: concrete, glass, gold, ceramic, aluminium, polyester, plutonium, bone, orbit, vacuum, anoxic landfill, genome — against everything that lived on a magnetic domain. That knowledge governs what a 3000 CE writer could *possibly* say, and it must be right.
@@ -257,12 +254,12 @@ Whatever spine you choose, you must still know, before you write, what physicall
 When the survival pattern is the most interesting thing about the topic, make it the thesis. When something else is — a mechanism, an argument, a working system, a single witness — let taphonomy be the *ground the article stands on* rather than the building it is. Do not force every subject into the survival-bias mould; some topics earn their tension elsewhere, and forcing the mould is the single biggest cause of sameness.
 
 ### 2. Every fact must be real, or rigorously derived from a real fact
-The fiction lives in the **interpretation**, never in the data. Do not invent physics, chemistry, statistics, or mechanisms. Do the research. If a number is real, use the real number. If it must be extrapolated, extrapolate from published trends and say so in the article's own voice ("estimates range from…").
+The fiction lives in the **interpretation**, never in the data. Do not invent physics, chemistry, statistics, or mechanisms. Do the research. If a number is real, use the real number. If it must be extrapolated, extrapolate from published trends and say so in the tale's own voice ("estimates range from…").
 
 You may invent: scholars, journals, excavation seasons, decipherment dates, controversies, and the fate of things after 2026 CE. You may not invent: how silver reacts with sulfide, how error-correcting codes fail, what half-life plutonium has.
 
 ### 3. Find the fact that indicts
-Each article needs one real, verifiable, undramatic fact whose consequence is devastating and which nobody in the period found worth acting on. Deliver it flat.
+Each tale carries one real, verifiable, undramatic fact whose consequence is devastating and which nobody in the period found worth acting on. Let it land inside the story, delivered flat — not announced from outside it.
 
 > They put silver in the sulfur.
 > The period cannot be dated by the method its own scholars invented.
@@ -276,8 +273,8 @@ Weak: *the corpus is biased toward software.* Strong: *the software consignment 
 
 Every bias, every loss, every survival gets a physical cause chain you could check.
 
-### 5. Bronze Age analogy as structural spine
-The Combustion Age is written the way real scholarship writes the Bronze Age. Reach for the correspondence, and make it structural rather than cute:
+### 5. Bronze Age analogy — available, not required
+The Combustion Age is studied the way real scholarship studies the Bronze Age, and a tale may borrow that lens where it genuinely fits — texture now, not a required beam. Where the correspondence is real, make it structural rather than cute:
 
 - tin (rare, few sources, filamentary trade) → extreme-ultraviolet lithography (one town, one firm)
 - the Uluburun wreck → a sealed container ship
@@ -290,188 +287,150 @@ The Combustion Age is written the way real scholarship writes the Bronze Age. Re
 ### 6. Contested things get schools, not verdicts
 Where the historiography would genuinely be unsettled — and for anything political, it always would be — set out the live readings, each in its strongest form, and let the revisionist be persuasive. Do not adjudicate; note *why* the record cannot. But vary the shape of the contest: sometimes it is two schools, sometimes three, sometimes one dominant reading with a single sharp dissent, sometimes a question nobody has thought to ask yet. A lettered pair of schools in *every* article stops being believed — the reader learns it is a reflex, not a real dispute. Deploy the device only where the contest is real, and let its shape follow the contest. Do not manufacture a controversy to fill the slot.
 
-**This is also the safety rule.** Do not name real living or recent public figures and do not assign them praise or blame. Names in a 3000 CE article come only from durable, name-bearing media: coinage, monumental dedication, gravestones, and code commits. Describe institutions, structures, and portraits. Let the absence of names do the work — it is more chilling and more accurate than any verdict.
+**This is also the safety rule.** Do not name real living or recent public figures and do not assign them praise or blame. Names in a tale come only from durable, name-bearing media: coinage, monumental dedication, gravestones, and code commits. Describe institutions, structures, and portraits. Let the absence of names do the work — it is more chilling and more accurate than any verdict.
 
 ### 7. De-brand everything
 A 3000 CE scholar recovers *functions*, not trade names. The corpus never speaks the name of a software repository, a phone, a search engine, a payment network, a biometric register, a chip fabricator, or a lithography firm; it writes *a large public software repository*, *a state-sponsored instant-settlement network*, *a universal biometric register*, *one firm, in one town, in the Low Countries*. This extends §6 from people to institutions and products, and it is the technique that makes the decipherment conceit credible: the label has been *lost*, and only the function reconstructed. Give a proper name only where a durable, name-bearing medium would carry it — a coin legend, a monument, a gravestone, a code commit — or give a thing's recovered *meaning* in place of its name (the rover "named for a word that means *wisdom*," never the word).
 
 ### 8. The future gets us wrong, specifically and correctably
-Where the topic invites it, seed an error of the kind archaeology actually makes: a mundane object read as ritual, a well-replicated trivial text read as canonical, a portrait read as a deity. Then correct it in a footnote or a subordinate clause, dryly, and note that the error persists in popular treatment. A fine device — but not a box to tick in every article; use it when the subject offers a real misreading, not when the template wants one.
+Where the topic invites it, seed an error of the kind archaeology actually makes: a mundane object read as ritual, a well-replicated trivial text read as canonical, a portrait read as a deity. Then correct it in a footnote or a subordinate clause, dryly, and note that the error persists in popular treatment. A fine device — but not a box to tick in every tale; use it when the subject offers a real misreading, not when the template wants one.
 
 ---
 
 ## VOICE
 
-- **Flat, dry, load-bearing.** The sentence does the work; no adjective does. Devastation delivered in the register of a soil report.
-- **Never editorialize. Never lecture the past.** The 3000 CE writer is not angry at us. They are tired, careful, and occasionally, involuntarily, moved.
-- **Rhythm:** long clause-heavy sentence, long clause-heavy sentence, then four words. `Nobody there could read.` `The islands are again islands.` `There is no year in which anything fell.`
-- **Never explain 3000 CE.** Mention it only obliquely and as banality — a lunar exclusion zone as a navigational reference, a submerged coast as a subdiscipline, a treaty pleaded through bad translations. Encyclopedias do not explain their own present.
-- **The aphorism is a tool, not a quota.** Where one earns its place, it is attributed to a named scholar, quotable, and true — reuse an established one verbatim, or coin a new one and add it to the ledger. But an attributed aphorism in *every* article is a tic the reader learns to skim; let some articles do without, and let the ones that use it place it where it lands hardest rather than where the template expects it.
-- **Some things worked.** Do not make everything ironic. The Portal Leader worked. The photovoltaics worked. The medium met its specification. The tragedy is sharper when the competence is real.
-- **Vary the register between articles.** Flat and load-bearing is the baseline, not a monotone. Across the corpus the *mood underneath the prose* must move: one article is wry, one is genuinely awed, one reads like a detective closing a case, one is haunted, one is nearly triumphant. The sentence stays disciplined; the feeling it carries must not be the same quiet melancholy every time. If every article you write lands on the same soft sadness, you are writing one article over and over.
-- **Earn the page.** A reference entry can still pull like a story: hold a fact back and land it, follow a chain of inference to a click, let a reconstruction build to something. Propulsion is not the enemy of dryness — the driest sentence hits hardest when the reader has been leaning forward to reach it. Keep them glued, then deliver flat.
-- **No apocalypse.** No rubble, no ash-choked skies, no *the Fall*. The Contraction was slow, regionally desynchronised, survived by more people than it began with, and nobody living through it agreed it was happening.
-- **The register is hard science fiction, in the mode of Egan and Watts.** The wonder and the dread live in correct mechanism and in what the data cannot say — never in event, spectacle, or sentiment. Teach the real physics, chemistry, and biology cleanly; then let the gap in the record do the rest. Nothing supernatural, nothing invented, nothing raised in volume. The most frightening sentence in the corpus is a true one about a thing that was measured and filed and not acted on.
+- **Restrained, concrete, load-bearing — but now it can move.** The baseline is still the hard-SF discipline: the sentence does the work, the mechanism is exact, and the strongest line is a true one delivered without raising its voice. What changes from the reference series is that you are *in a scene* now, with people and time and consequence, and the prose may carry them. Earn feeling through fact and event, never through adjective.
+- **Show the mechanism, don't summarise it.** The reader should learn how the thing actually works — the wet-bulb limit, the distribution shift, the acid off the pyrite, the relativistic offset — because it is *happening to someone*, not because you paused to teach it. Hard science is the engine of the drama, not a sidebar to it.
+- **Choose a vantage and commit.** Close third on one person; the cold first person of a machine's own log; the collective *we* of a community; an intercepted stream reconstructed line by line; two threads braided. The vantage is a decision you make before you write, and it differs from the last tale's.
+- **Rhythm:** long clause-heavy sentence, long clause-heavy sentence, then four words. `Nobody there could read.` `The islands are again islands.` `Come light.` Let a short line land what the long ones built.
+- **Some things worked, and some people were kind.** Do not make everything a dying fall. The medium met its specification. The photovoltaics ran. Someone held grain back against the rule. The tragedy is sharper, and the wonder realer, when the competence and the decency are specified and true.
+- **Vary the mood between tales.** Restraint is the baseline, not a monotone. Across the corpus the feeling must move: one tale is grim, one is wondering, one reads like a rescue, one is nearly funny, one is haunted. If every tale you write lands on the same soft sadness, you have written one tale over and over.
+- **Earn the page.** A tale must pull like a tale — a question opened and answered, a chain of inference that clicks shut, a scene built to a line you have been holding back. Propulsion is the point. Keep the reader leaning forward, then deliver flat.
+- **No apocalypse.** No rubble, no ash-choked skies, no *the Fall*, no last human on a dead world. The Contraction was slow, regionally desynchronised, survived by more people than it began with, and nobody living through it agreed it was happening. The end of the world is not a scene you get to write, because it did not occur; the emptying of one plain, one week at a time, is.
+- **The register is hard science fiction, in the mode of Egan and Watts.** The wonder and the dread live in correct mechanism and in what cannot be known — now carried by character and event rather than by a scholar's distance. Nothing supernatural, nothing invented, nothing raised in volume. The most frightening sentence in the corpus is still a true one about a thing that was measured and filed and not acted on — but now you may show the person it was filed about.
 
 ---
 
 ## STRUCTURE
 
-The header block is fixed. The body is not — it follows the spine, and it must not be predictable from the last article.
+The frame is fixed and thin; the tale inside it is free.
 
 ```
-# <Title>            ← name by locality or type, not the subject's institutional branding; a polity keeps its name
-*Terran Encyclopaedia, 3000 CE edition. Rendered into Reconstructed
-Late Combustion English by convention of the Historical Faculty.*
+# <Title>                    ← name by locality, type, or the fragment itself — never a real brand
+*Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from
+<the surviving fragment> and rendered into Reconstructed Late Combustion English by
+convention of the Historical Faculty.*
 
-> Hatnote: what this article is, and two or three things it is not.
+> **One clean standalone sentence: what this tale is and what fragment it reconstructs.**
+> The bold sentence is the home-page card blurb, so it must read well alone. Then a line
+> on what is record and what is reconstruction.
 
-## See also        — 8–10 items, alphabetical, mixing real canon and this article's coinages
-## Notes and references — 6–9 fictional citations with dates, volumes, page ranges,
-                          and a one-line editorial verdict on some of them
-                          ("Combative; correct in method; less persuasive on…")
+---
+
+<THE TALE — foregrounded narrative prose, in the vantage you chose. This is the body and the
+bulk. No boilerplate headers; use section breaks or a few short, story-specific headers only
+where the tale wants them.>
+
+---
+
+## Provenance and ground   — short: the real surviving evidence this is built from, what is
+                             transcribed and what is inferred, and the real physics / chemistry /
+                             biology it stands on. It keeps you honest.
+## See also                — 4–8 canon links, mixing real canon and this tale's fragment
+## Notes                   — 2–5 citations to the shared ledger; the fragment's founding study
 ```
 
-The apparatus shown in the block above — a multi-paragraph lead, numbered sections, an 8–10 item *See also*, 6–9 references — is the *full* dress, for hub and standard articles. It scales down with weight (see *Choose a weight*): a stub may have a one-line lead, no sections, a short *See also* or none, and a single reference or none; a cross-reference entry may be little more than the hatnote. Carry only as much apparatus as the topic has evidence for. Empty scaffolding — a chronology table with three padded rows, a *See also* stretched to ten, a lone "school" with no opponent — is exactly what makes a corpus read as machine-made.
+**The byline and the bold hatnote sentence are mandatory** — `build.py` reads them, and the bold sentence becomes the home-page card. Everything below the tale (**Provenance and ground**, **See also**, **Notes**) is deliberately light: a few lines each. If the apparatus runs longer than about a tenth of the tale, you have written a reference entry with a story stapled on.
 
-**For a full article, the lead is two to four paragraphs** stating what the thing is, its dates and hard physical facts, and the tension the article will pursue. It may open on a definition, on a single object, on a live dispute, on the mechanism, on a date, on a paradox — **not** always on the same three-paragraph `definition → Bronze Age comparison → evidentiary twist` move. Vary the door you come in through; a reader who meets the identical opening five times has stopped reading it.
+**The tale has no fixed shape.** It follows the spine and vantage you chose (see VARIETY) and must not be predictable from the last tale. It may open on a scene, a voice, a single record-line, a mechanism already in motion, a person already walking. It may be told straight through, braided from two threads, or interleaved with the fragment it reconstructs — a ledger, a transcript, a leader-card. Section headers, if any, are few and belong to *this* story; never a reusable sequence.
 
-**Build the body around the spine you chose.** Section headers are *topic-specific* and follow the argument. They are **never** the boilerplate sequence `Name and terminology → Sources and the attestation problem → … → Assessment` reproduced wholesale — if a reader could predict your headers from the previous article, you have shipped the machine, not an article. Below are skeletons matched to spines. They are departure points, not forms to fill:
-
-- **Survival-pattern spine:** physical remains → the mechanism that shaped the sample → what the bias hides → the contested reading → post-depositional history. *(The classic shape. Precisely because it is the classic shape, do not reach for it by default.)*
-- **Reconstruction spine:** the problem (what is missing) → the surviving fragments, one at a time → the inference that links them → what the chain establishes → where it breaks.
-- **Mechanism spine:** the process, taught cleanly → why it mattered at scale → what it left in the ground → what it cost, and who knew.
-- **System-in-motion spine:** the system running, in concrete detail → its dependencies and single points of failure → the interruption → what remained.
-- **Controversy spine:** the question → reading one, in full → reading two, in full → what neither can explain → why the record won't decide.
-
-Invent your own headers within these; better still, invent a shape none of them describes. Numbered sections are fine but not required; let the argument set the divisions.
-
-**Tables are optional and easily overused.** A **chronology table** earns its place only when dates carry the argument — not by reflex. An **assessment table** of survival-by-evidence-class has become the single most tired tic in the corpus; reach for it rarely, never on autopilot, and never as a way to end an article you didn't know how to end. At most two or three tables; an article with none is not only allowed but often better. **The *Note on language* section, with its Standard Terran sample, is a flagship-only device — omit it in ordinary articles.**
-
-**Length** is set by *Choose a weight*, not by a single target: a hub runs 2,500–4,000+ words, a standard article 800–2,000, a stub a paragraph, a cross-reference entry a line. Match the weight to the evidence.
+**Length is set by the fragment and the tale, not a target** (see *Choose a scale*). Let thin evidence make a short tale, not a padded one; a two-paragraph reconstruction that stops where the record stops is truer than four thousand words of invented continuity. Vary the length from the recent tales.
 
 ### The ending
-A stub or fragment simply stops on its last concrete fact; it needs no engineered landing, and reaching for one is padding. For a full article, land somewhere concrete and specific — but **not the same concrete place every time.** A small measured object, described precisely, is one strong landing, and it has hardened into a reflex; rotate it with others:
-
-- the last line of a scholarly argument, left hanging;
-- a reconstructed fragment of period speech;
-- a single number that reframes everything above it;
-- an open question stated without flinching;
-- one dated event, delivered bare.
-
-Long sentence, then a short one, is a fine closing rhythm — use it, don't wear it out. A short attributed aphorism may close the piece or stand in for the object, **but not in every article**: an aphorism in every entry is itself a sameness the reader learns to skip. What is forbidden is ending on a vague generalisation or a moral.
+End inside the story, on something concrete and particular — and **not the same place every time.** The reference series' small-measured-object close hardened into a reflex; rotate it. A tale may end on the last line of its fragment, on a scene that simply stops the way the record stops, on a single number that reframes everything, on a rescue that holds, on a reconstructed line of period speech, on one dated event delivered bare. Long sentence, then a short one, is a fine closing rhythm — use it, don't wear it out. What is forbidden is ending on a moral, on a summary of the millennium, on a vague abstraction — or, every time, on the same soft loss.
 
 ---
 
 ## FORBIDDEN
 
-- Naming any real public figure (living or recently dead), corporation, product, brand, app, or device by its trade name — describe all by function; verdicts on contested contemporary politics
-- Invented physics, chemistry, or biology; invented statistics passed off as period data
-- Explaining the year 3000; visible worldbuilding exposition; any sentence beginning *In the future,*
-- Ruins, ash, silence, the last human, *civilisation collapsed*
-- Smugness. Moralising. Any implication that the period was ignorant of its own condition
-- Bullet lists where prose will do — *except* in a genuine catalogue or list entry, where the list is the correct form. Sub-sub-headers. Bold for emphasis in body prose
-- Ending on a vague abstraction or a moral (a short, attributed aphorism is allowed)
-- Reproducing the boilerplate section sequence (`Name and terminology / Sources and the attestation problem / … / Assessment`) as the article's skeleton, or any set of headers a reader could predict from the previous article
-- Running every device in the kit in one article — a survival table *and* a lettered pair of schools *and* a measured-object ending *and* an aphorism, every time. Choose, rotate, and leave tools in the bag
-- Landing on the same emotional note (quiet melancholy loss) article after article; forcing a topic into the survival-bias mould when its real tension is elsewhere
-- Retelling a real historical episode at a distance as the article's actual business — the failure this brief exists to cure. If deleting every sentence that touches the millennium-gap would leave a competent, self-sufficient encyclopaedia article about a real topic, the article is stale (see THE HIDDEN HISTORY)
-- Stating, summarising, or letting any scholar "solve" the hidden history — the true course of the Contraction, its demographic cost, the displacement, or what the machines were doing; naming the forces (number, heat, the road, the machines) as a diagnosis or a set; resolving the post-apocalyptic question in either direction
-- The machine as antagonist; a Fall with a date; the population counted
+- Naming any real public figure (living or recently dead), corporation, product, brand, app, or device by its trade name — describe all by function; verdicts on contested contemporary politics. Invented characters carry no real person's identity
+- Invented physics, chemistry, or biology; invented statistics passed off as real period data. The lives and scenes are yours to invent; the mechanism never is
+- Explaining the year 3000; any sentence that steps outside the tale to lecture the reader on the world; any sentence beginning *In the future,*
+- The apocalypse register: ruins, ash-choked skies, *the Fall*, the last human on a dead world, *civilisation collapsed*. There was no such day and no such scene
+- The machine as antagonist; a rogue or woken intelligence; uploads; a Fall with a date; the population counted; the dead tallied
+- Pulling back to the diagram — naming the four forces (number, heat, the road, the machines) as a set or a diagnosis; explaining *why* the age ended; letting any scholar or narrator solve the Contraction or resolve the post-apocalyptic question in either direction (see THE HIDDEN HISTORY)
+- Smugness; moralising; any implication that the period was ignorant of its own condition. They knew. They published it
+- Ending on a moral, a summary of the millennium, or a vague abstraction; landing every tale on the same soft loss
+- Every tale a dying fall — the same mood, the same vantage, the same last-one-standing, the same elegy. Vary spine, scale, vantage, mood, and ending, or you have written one tale repeatedly
+- The apparatus outweighing the tale: a long Provenance, a padded *See also*, a wall of Notes. The story is the body; the frame is thin
 
 ---
 
 ## PROCESS
 
-Do this in order. Do not start writing until step 6.
+Do this in order. Do not start writing the tale until step 6.
 
-0. **Read the room.** Before anything, skim the two or three most recent articles in the corpus. Note their spines, their weights, their skeletons, their endings, and their mood. You are going to differ from them on every one of those axes. Write down, in a sentence, the spine *and* the weight you will use (VARIETY) — and confirm neither merely repeats the last entries.
-1. **Research the topic's real facts.** For a full article, get twenty to thirty, with numbers and dates — real papers, real chemistry, real quantities. A stub or fragment needs only the few facts it actually turns on; research enough to be *right*, not enough to justify a length the topic does not deserve.
-2. **Run the taphonomy filter.** For each fact: does its evidence survive a millennium? Sort into *survives perfectly* / *survives in a biased sample* / *gone*. Attend especially to the boring substrates: what is anoxic, what is vacuum, what is inert, what is worth melting down. (You always do this, even when survival is not the spine — it tells you what a 3000 CE writer could say at all.)
-3. **Find the mechanism at the centre of your spine.** One causal process — survival, or reaction, or dependency, or inference, or the argument itself. Shelf height. Cremation. Pyrite. A relativistic clock offset. A single manifest. It must be *causal*, not thematic.
-4. **Find the fact that indicts** (Method §3) and the **Bronze Age analogy** (§5).
-5. **Decide whether any question here is genuinely contested.** If it is, give it its schools (§6); if it is not, do *not* manufacture a dispute to fill the slot.
-6. **Write.** Lead first, ending second, middle last.
-7. **Cut.** Every sentence that explains rather than states. Every adjective doing emotional work. Every place you told the reader how to feel. Then re-read against the last article and cut anything that merely repeats its architecture.
+0. **Read the room.** Skim the two or three most recent tales in the corpus. Note their spines, their scale, their vantage, their mood, and how they end. You will differ on every axis. Write down, in a sentence, the spine, the vantage, and the scale you will use (VARIETY) — and confirm none merely repeats the last tales.
+1. **Research the real facts.** Get the numbers, dates, chemistry, and mechanism right — real papers, real quantities. Reach first for the canon's own reusable facts and coinages (they are already researched and let a tale cross-reference rather than free-float); add new real facts as the subject needs them. The scenes are invented; the ground they stand on is not.
+2. **Run the taphonomy filter.** Know what physically survives this subject at 3000 CE and what is gone — because that decides which fragment your reconstruction is *built from*, and how much the scholars framing it could honestly claim to know.
+3. **Find the fragment.** Choose the surviving thing the tale reconstructs from: a ledger, an intercepted stream, a deposit, a recovered object, a leader-card, a commit history. It is the tale's anchor to the record and the source of its Provenance note.
+4. **Find the mechanism at the tale's centre.** One causal process the story turns on — distribution shift, acid off pyrite, a relativistic offset, a cremation, a stuck wheel, a single manifest. It must be *causal*, and it must be real.
+5. **Choose the force and the tell** (THE HIDDEN HISTORY): the one force the tale runs on, the one or two tells that surface — and confirm they differ from the recent tales'. Decide the vantage and the scale.
+6. **Write the tale.** Scene and voice first; let the mechanism happen to someone; hold the landing back and deliver it flat.
+7. **Cut.** Every sentence that explains from outside the story rather than showing from inside it. Every adjective doing the work a fact should. Every place you told the reader how to feel. Then trim the apparatus until the frame is thin. Re-read against the last tale and change anything that repeats its architecture or its mood.
 
-For a **stub, fragment, catalogue, or cross-reference entry**, this whole sequence collapses to: know the real facts, know what survives, write the few true sentences in voice, and stop. Do not run the full method on a topic that cannot bear it.
-
----
-
-## CALIBRATION EXAMPLE
-
-Topic: *the ballpoint pen*.
-
-**Bad:** an essay on how disposable objects reveal a throwaway culture.
-
-**Good:** Tungsten carbide balls survive indefinitely; ink does not; polypropylene barrels do. Global annual production ran to tens of billions; the ball is a 1 mm sphere of one of the hardest common materials, and it is the single most numerous identifiable manufactured object in Combustion-Age sediment worldwide, outnumbering all coinage ever struck by some orders of magnitude. It is undatable, unprovenanced, and carries no information whatsoever. It is therefore the period's finest *stratigraphic* marker and its worst *historical* one. Meanwhile the writing it produced was, for its last fifty years, on paper made acidic by a sizing process abandoned in the same decades, so the pens survive and the pages do not. Fictional scholarship: the **Ballpoint Index** as a normalisation constant for sediment dating. The ending: a specific ball, from a specific core, at a specific depth, still perfectly spherical.
-
-That is the shape. Physical, particular, researched, unbearable, and delivered without raising its voice.
+For a **fragment or a very short tale**, this sequence collapses to: know the real facts, know what fragment survives, reconstruct the few true lines the fragment can bear, and stop. Do not inflate a thin fragment into a long tale.
 
 ---
 
-## CALIBRATION EXAMPLE — a place
+## CALIBRATION
 
-Topic: *a river-delta megacity*.
+The corpus's first Recovered Narrative, **The Kharun Corridor**, is the reference for the mode. Read it before writing. What it does, any tale should:
 
-**Bad:** a tour of a great lost city and everything we have forgotten about it.
+- It is **built from a named fragment** (a corridor-deposit transaction ledger) and keeps the record/inference line visible — the weekly figures are transcribed; the woman and her dawns are reconstruction, and the tale says so.
+- It **foregrounds one thread** of one force (the machines, brushed by heat and the road) and dramatises it — a scene, a vantage, a person against a rule — instead of cataloguing residue. It never pulls back to explain the Contraction.
+- The **mechanism is real, causal, and load-bearing**: distribution shift and a misspecified objective, running correctly on a world that has left. No rogue mind; the machine is faithful, and that is the horror.
+- It **leaves the age unsolved**: whether she died or moved is unrecoverable, and the tale keeps it so. The dead go uncounted.
+- The **present is a rumour**: 3000 CE appears only as the reconstruction frame and, at the last, as the grammar the reader thinks in.
+- The **apparatus is thin** — a short Provenance, five *See also* links, two Notes — and the story is the body.
 
-**Good:** the spine of a *place* article is not a surviving object but an *inversion* — a population maximum resting on an evidentiary minimum. Fix first what the ground keeps: a reinforced-concrete street-ghost, rust-stained and spalled, trivially mappable and informationless; one anoxic landfill preserving a single biased decade of discards; a subsided, drowned foundation that is now the largest submarine site on its coast. Then what it loses: every ledger, every register, every name, every argument, all of it on magnetic domains, all gone. The mechanism is hydrological, datable, and published in the period's own journals — delta subsidence, upstream barrage starvation, sea-level rise, additive and foreseen. Its people are known by genome and dental isotope and not at all by what they believed. The ending is one surveyed thing: a particular tide-gauge plinth, its benchmark elevation in metres, and the year the water closed over it.
+Three quick shape contrasts, to show the range you must cover:
 
-For a *place* or an *institution*, reach for that inversion the way you reach for a surviving object in a thing-article.
+- **Bad:** a mournful essay about how a food system failed and how much we have forgotten. That is the reference series with feelings — the failure this brief exists to cure.
+- **Good — different force, different mood (a recovery):** generations after a reef went white, a conservation team thaws a liquid-nitrogen sperm bank that actually held; the tale is the assisted-breeding cross that takes, told with real gamete cryobiology and genuine, un-ironic hope. Mechanism spine, wondering register, ending on a single spat larva settling — not on loss.
+- **Good — different vantage, different scale (a fragment):** two hundred words reconstructing one intercepted exchange from the network taps, glossed line by line, stopping where the packet stops. A catalogue card with a pulse, not a feature.
 
----
-
-## CALIBRATION EXAMPLE — a different spine
-
-Topic: *the relativistic correction in a satellite positioning system*.
-
-**Bad:** another survival-bias essay — what remains of the constellation, what is gone, an assessment table, two schools, a measured object. The reader has read it four times.
-
-**Good:** make the **mechanism** the protagonist and let taphonomy be a single closing paragraph, not the thesis. The orbiting clocks ran *fast* against the ground: a little slowing from their orbital velocity, far more speeding from the shallower gravity well at altitude — the two effects real, opposite, unequal, and computed a priori. Uncorrected, the position solution drifts kilometres a day; the system carried the correction from the first launch because the physics was decades old and not in doubt. The wonder is the engineering: clocks deliberately *detuned before launch* so that, once in orbit, relativity would pull them into agreement. The article builds like a mechanism-spine — the effect, the arithmetic, the fix, the scale — and only then turns, briefly, to survival: the constellation is cold orbital junk now, silent in a graveyard band, its correction still notionally applying to clocks nobody reads. It ends not on an object but **on the number** — the offset they built in, to the part in ten billion, right the first time.
-
-Same universe, same rigour, entirely different architecture, and a mood of admiration rather than loss. That is what variety looks like: not a different topic dressed in the same essay, but a different essay.
+Same universe, same rigour, three different tales. That is what variety looks like here: not one story retold, but a different story each time.
 
 ---
 
 ## QUALITY GATE
 
-Before returning the entry, confirm. The **Truth and canon** checks apply to *every* entry, stub to hub. The **Craft** and **Variety** checks apply to full articles (hub and standard); a stub, fragment, catalogue, or cross-reference entry answers the **short gate** at the end instead.
+Before returning the tale, confirm.
 
-**Truth and canon — every entry, never relax:**
-- [ ] Every physical claim is real or explicitly derived from a real one
+**Truth and canon — never relax:**
+- [ ] Every physical / mechanistic claim is real or explicitly derived from a real one; only the lives, scenes, and reconstructed events are invented
 - [ ] Every pT/CE pair is arithmetically correct (CE = pT + 1945; e.g. +3 pT = 1948 CE)
-- [ ] No real public figure, corporation, product, or brand is named or judged — all are described by function
-- [ ] The year 3000 is never explained, only implied
+- [ ] No real public figure, corporation, product, or brand is named or judged — all are described by function; invented characters carry no real person's identity
+- [ ] The year 3000 is never explained, only implied through the frame
 - [ ] Any new scholar, work, or coinage is appended to the ledger
-- [ ] The hidden history is never stated or "solved"; the forces are not named as a set; the post-apocalyptic question is left open (see THE HIDDEN HISTORY)
 
-**Craft — full articles:**
-- [ ] The article runs on a *causal* engine, not a thematic one
-- [ ] At least one fact the period published about itself and ignored, delivered flat
-- [ ] At least one Bronze Age structural correspondence
-- [ ] Cross-references to the canon: at least three
-- [ ] The ending is a concrete particular — a number, an object, an argument, a fragment, a date — not a generalisation or a moral
-- [ ] Where a question is genuinely contested, its readings are given fairly and left unadjudicated; no dispute has been manufactured where none exists
+**The tale — craft:**
+- [ ] It runs on a *causal* mechanism, real and load-bearing, that happens to someone or something — not on a theme stated from outside
+- [ ] It is built from a named surviving fragment, and the Provenance keeps the record/inference line honest
+- [ ] It foregrounds and *tells* the story; it does not catalogue residue with feeling stapled on
+- [ ] Something besides the loss is specified and true — competence, kindness, a thing that worked
+- [ ] The ending is a concrete particular inside the story — a line, a number, a scene that stops, a rescue that holds — not a moral or a summary of the age
 
-**Variety — the anti-sameness gate; check against the last two or three articles:**
-- [ ] The spine is *named* and *differs* from the recent articles' spines
-- [ ] The weight (hub / standard / stub / fragment / catalogue / cross-reference) is chosen to fit the evidence and differs from the recent entries' weights
-- [ ] The section headers are topic-specific — not the boilerplate sequence, not predictable from the last article
-- [ ] Not every device is present. This article does *not* mechanically carry a survival table *and* lettered schools *and* a measured-object close *and* an aphorism just because it could. Some are deliberately absent
-- [ ] The emotional register is not the same quiet-loss landing as the previous articles
-- [ ] The opening does not reuse the same three-paragraph door
-- [ ] Devices used because the topic wants them (the aphorism, the future's error and its correction, the Assessment table) — not because a checklist demanded them
+**Hidden history — the open-question gate:**
+- [ ] The tale dramatises one thread of one force (brushed by at most a second); it never names the forces as a set or explains why the age ended
+- [ ] No narrator or scholar solves the Contraction; the machines are mechanism, not villain; the collapse / no-collapse question is left standing; the dead are not counted, and died-or-moved is left undecided where it arises
+- [ ] The tell it leans on (language, died-or-moved, the wealth-sorted retreat, the machine-address, the desynchronised "no year") differs from the recent tales'
 
-**Hidden history — the gap gate; full articles:**
-- [ ] The article runs on the millennium-gap, not on a real-history retelling; deleting every gap-sentence would *not* leave a self-sufficient article about a real topic
-- [ ] It lands one or two hints, convergent with the hidden history, and states none of it; the forces are never named together or diagnosed
-- [ ] No scholar solves the Contraction; the machines are mechanism, not villain; the collapse / no-collapse question is left standing
-- [ ] The tell it leans on (the language, the died-or-moved void, the wealth-sorted retreat, the machine-address, the desynchronised "no year") is not the one the previous article used
+**Variety — the anti-sameness gate; check against the last two or three tales:**
+- [ ] The spine, the vantage, the scale, and above all the *mood* differ from the recent tales — this one is not another dying fall in the same register
+- [ ] The opening does not reuse the last tale's door; the ending does not reuse its landing
+- [ ] The apparatus is thin: the story is the body, the frame a few lines
 
-**Short gate — stubs, fragments, catalogues, cross-reference entries:**
-- [ ] Clears every **Truth and canon** check above
-- [ ] Opens with the byline and one clean bold hatnote sentence (the home-page card blurb reads well alone)
-- [ ] Does not pad: no manufactured sections, tables, schools, or apparatus the evidence cannot support
-- [ ] Cross-references the canon where natural (even a single link earns its place)
-- [ ] Its brevity is *content* — it reads as a true short entry in the flat voice, not as an unfinished draft of a long one
+**Scale — did the fragment set the length?**
+- [ ] A thin fragment made a short, hard tale, not a padded long one; a rich one earned its length. The size is evidence, not a target

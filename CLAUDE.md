@@ -24,39 +24,39 @@ autonomously** — do not stop to ask for confirmation between steps.
 2. **Research the real facts** with WebSearch / WebFetch (prompt PROCESS step 1: ~20–30 real
    numbers and dates). The fiction is only in the interpretation — never invent physics,
    chemistry, biology, or statistics.
-3. **Write the article** to a new file `<slug>.md` at repo root. `<slug>` = the topic, lowercased,
+3. **Write the tale** to a new file `<slug>.md` at repo root. `<slug>` = the topic, lowercased,
    ASCII, words joined by underscores (e.g. *The Ballpoint Pen* → `ballpoint_pen.md`). It **must**
-   begin with the exact header block `build.py` expects — copy the byline verbatim from an
-   existing spoke article such as `longyear_deposit.md`:
+   begin with the header block `build.py` expects — copy the byline verbatim from an existing
+   tale such as `the_kharun_corridor.md`:
 
    ```
    # <Title>
 
-   *Terran Encyclopaedia, 3000 CE edition. Rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+   *Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from <the surviving fragment> and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
 
-   > **<one clean standalone sentence: what this article is.>** For <X>, see **<Y>**. ...
-
-   ---
-
-   <lead: three paragraphs>
+   > **<one clean standalone sentence: what this tale is and what fragment it reconstructs.>** <a line on what is record and what is reconstruction.>
 
    ---
 
-   ## 1. <section>
-   ...
+   <THE TALE — foregrounded narrative prose, in the vantage you chose; this is the body and the bulk.>
+
+   ---
+
+   ## Provenance and ground
    ## See also
-   ## Notes and references
+   ## Notes
    ```
 
-   The hatnote's first **bold** sentence becomes the article's card blurb on the home page, so
-   write it to read well on its own. Title by locality/type, not brand (see prompt §7).
+   The hatnote's first **bold** sentence becomes the tale's card blurb on the home page, so write
+   it to read well on its own. Title by locality/type or the fragment itself, never a brand. The
+   tale is the body; the apparatus below it stays thin, and `prompt.md` is the source of truth for craft.
 4. **Run the QUALITY GATE** at the end of `prompt.md` against your draft and fix every miss.
    In particular: check each pT/CE pair (CE = pT + 1945), and confirm no real public figure,
    corporation, product, or brand is named — describe by function.
 5. **Update the ledger.** If you introduced any new scholar, work, or coinage, append it to the
    "Established citations" and/or "Reusable facts and coinages" blocks in `prompt.md`, so later
    articles inherit it. This is the one step the prompt cannot self-enforce — do it every time.
-6. **Rebuild:** `uv run build.py`. Confirm it lists your new article in the discovered set and
+6. **Rebuild:** `uv run build.py`. Confirm it lists your new tale in the discovered set and
    exits cleanly.
 7. **Verify** the output: grep `<slug>.html` to confirm the title, the Contents box, and the
    `See also` cross-links rendered.
