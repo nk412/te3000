@@ -38,7 +38,10 @@ autonomously** — do not stop to ask for confirmation between steps.
 
    ---
 
-   <THE TALE — foregrounded narrative prose, in the vantage you chose; this is the body and the bulk.>
+   <LEAD: open on a bold definition sentence, then 2–4 paragraphs giving the whole arc in miniature.>
+
+   ## <topic-specific section>   (sections march through origin → use → fate; deadpan wiki register — no scenes, no narrated interiority)
+   ## <topic-specific section>
 
    ---
 
@@ -53,9 +56,12 @@ autonomously** — do not stop to ask for confirmation between steps.
 4. **Run the QUALITY GATE** at the end of `prompt.md` against your draft and fix every miss.
    In particular: check each pT/CE pair (CE = pT + 1945), and confirm no real public figure,
    corporation, product, or brand is named — describe by function.
-5. **Update the ledger.** If you introduced any new scholar, work, or coinage, append it to the
+5. **Update the ledgers.** If you introduced any new scholar, work, or coinage, append it to the
    "Established citations" and/or "Reusable facts and coinages" blocks in `prompt.md`, so later
-   articles inherit it. This is the one step the prompt cannot self-enforce — do it every time.
+   articles inherit it. **And keep the variety ledger current:** consult `variety_ledger.md`
+   *before* drafting (to choose a register, scale, lead, section architecture, mood, and device the
+   corpus has not over-used) and append the finished entry's row to it *after*. These are the steps
+   the prompt cannot self-enforce — do them every time.
 6. **Rebuild:** `uv run build.py`. Confirm it lists your new tale in the discovered set and
    exits cleanly.
 7. **Verify** the output: grep `<slug>.html` to confirm the title, the Contents box, and the
