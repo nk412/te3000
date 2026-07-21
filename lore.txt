@@ -9,17 +9,30 @@ The vantage is the year 3000 CE. The civilisation of that year calls itself
 Terran and calls its own scholars the Historical Faculty. It is not a ruined
 world and not a restored one. It is a later, smaller-at-the-waist, redistributed
 humanity that lives mostly poleward, inland, and upland of where its ancestors
-lived, speaks a descended language, and studies the industrial era the way we
+lived, speaks a descended language, and studies its own deep past the way we
 study the Bronze Age: across a gulf, from wreckage, with more confidence about
 chemistry than about people.
 
-The era it studies is the Combustion Age — our own. From three thousand years
-out, everything from roughly 1750 to 2140 CE reads as a single interval: the
-span in which one species learned to unlock stored chemical energy by burning
-it, briefly integrated the whole planet into a handful of shared systems, and
-then let those systems go. The 3000 CE scholars do not think of it as "the
-modern world" or "the twenty-first century." They think of it as one geological
-and historical unit, bounded, over, and hard to read.
+The anchor of everything the encyclopaedia covers is the Combustion Age — our
+own. From three thousand years out, everything from roughly 1750 to 2140 CE
+reads as a single interval: the span in which one species learned to unlock
+stored chemical energy by burning it, briefly integrated the whole planet into a
+handful of shared systems, and then let those systems go. The 3000 CE scholars
+do not think of it as "the modern world" or "the twenty-first century." They
+think of it as one geological and historical unit, bounded, over, and hard to
+read.
+
+But the encyclopaedia is NOT confined to that interval. It looks into the
+Combustion Age AND beyond — forward through the Contraction that ended it, the
+long redistribution and the Consolidation that followed, and the millennium of
+reconstruction between then and the present. The Combustion Age is where the
+story starts and the force that shaped everything after it; the subject is the
+whole arc from it to the threshold of now. A single entry may reconstruct a
+machine of the burning centuries, a deposit that outlasted them, a settlement or
+a language of the migration, or a scholarly controversy of the recovery era —
+all of it is in scope. Only the year 3000 itself, the vantage the scholarship
+looks back from, stays out of frame; everything on the road to it is fair
+subject.
 
 This document is the truth of that world — what actually happened between the
 Combustion Age and the year 3000. Much of this truth is unavailable to the
@@ -385,7 +398,8 @@ disaster in this world is a foreseen, documented, un-acted-upon one.
 ===============================================================================
 
 The 3000 CE world has a mature academic discipline devoted to the Combustion
-Age. It has its own bodies, journals, and recurring scholars.
+Age and the millennium of aftermath it set in motion. It has its own bodies,
+journals, and recurring scholars.
 
 BODIES:
   - the Institute for Deep Record Studies;
