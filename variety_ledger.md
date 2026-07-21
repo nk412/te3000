@@ -54,6 +54,7 @@ Register runs clinical → warm. Scale: short ≈ <1,100 words · standard ≈ 1
 | Svalbard Seed Vault | warm-clinical | standard | definition + black-box + one full cycle | plain ×4 | tense → triumphant | rescue that held + black-box principle |
 | Broiler Gallus | clinical / engineering-spec | standard | aggregate (≈25×10⁹) + type-fossil | plain ×4 | wry-unnerving | aggregate + misreading-corrected + single-filament |
 | Bornholm Deposit | marine-chemistry, mid | standard | definition + sea-encases mechanism | plain ×4 | slow-horror | mechanism + two-readings (capacity vs cost-deferral) |
+| Low Earth Orbit Satellite Constellation | clinical / dry-ironic | short | dated aggregate stat | evocative ×6 | claim-then-recant | swapped poison + designed-to-vanish taphonomy inversion |
 
 ### Reference overviews (grandfathered — do NOT imitate their skeleton)
 
