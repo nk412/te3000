@@ -1,0 +1,45 @@
+# The Morbidity Return
+
+*Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from a single microphotographed page of the nickel language disk and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+
+> **The Morbidity Return is the Historical Faculty's gloss for a Middle Combustion district notification office — a small public-health facility to which physicians were required to send weekly counts of reportable contagious disease — known only from one filled specimen form, preserved in an otherwise near-unattested delta vernacular on the nickel language disk.** What is record is the form and its arithmetic; the office, its district, and the community it counted are reconstruction — and the count the office kept has been read, for most of the discipline's history, as something it is not.
+
+---
+
+In the reporting week of early May +12 pT (1957 CE), a district notification office in a monsoon delta entered a zero in the column its standing form reserved for the commonest eruptive childhood fever, and went on entering zeros for one hundred and three weeks. For the eight years before that the same column had carried the fever in an unbroken two-year rhythm. The office existed to tally reportable contagions and forward the totals; the sudden two-year silence is, on its face, a textbook event — the local stochastic extinction of a pathogen in a population that has briefly run out of susceptibles and received no fresh import. From that silence a later discipline read, first, a population, and then, more soberly, a floor. The correction is the entry. The office is unnamed; it is recovered only by its function, and only because one of its forms became, by accident, a specimen of a dying tongue.
+
+## The standing form
+
+The class of facility is well attested elsewhere: through the Middle Combustion Age most administrations obliged attending physicians to notify a short schedule of communicable diseases to a district office, weekly, by post or wire. The office aggregated the returns, struck a total, and passed it up a tier. The instrument was the *return* — a ruled form, one row per reporting week, one column per notifiable disease, the cells holding case counts and nothing finer. It recorded incidence, not prevalence, and counted notifications, not people: a case seen twice was two cells, a case unseen was none. The specimen page carries the office's own tallying arithmetic in the margin and, at its head, a printed instruction to the notifying physician in the delta vernacular — which is why it was photographed at all.
+
+## The zero that held
+
+The fever in the leading column is the disease the period called measles, and its dynamics are what make the office legible at three thousand years' remove. Measles is among the most transmissible pathogens known: in a wholly susceptible population one case generates on the order of twelve to eighteen further cases, so that the fraction of the population which must be immune to halt sustained spread — one minus the reciprocal of that figure — sits between about ninety-two and ninety-five per cent. With a serial interval near eleven to twelve days it moves through a susceptible pool very fast and then stalls, having burned that pool below the threshold that sustains it. In a large, connected population the pool refills from the birth rate and the fever returns on a roughly two-year cycle, its timing forced sharply by the assembly and dispersal of children at school terms.
+
+Below a certain population the refilling is too slow and the trough between epidemics touches zero: the last chain of transmission breaks and the pathogen is locally extinct until reintroduced from outside. A mid-century biometrician fixed the threshold — the *critical community size* — for this fever at roughly a quarter of a million to half a million individuals in transmission contact, with fade-out becoming as likely as not, on a mean interval near two years, in communities below about two hundred and fifty to three hundred thousand. Endemic persistence and fade-out are therefore not medical facts about the fever so much as demographic facts about its host: a community in which the fever keeps returning is, by that very return, certified to exceed the critical community size; a community in which it falls silent has dropped below it, or been cut off from every community that had not.
+
+## Read as a census
+
+This is the property that made the office a false idol. The scholarship of 3000 CE has no civil registration for the century of the Contraction — the registers were among the first institutions lost — and a standing programme, associated with Okonkwo, reads accidental records as unintended censuses: a commit log, a routing table, a morbidity return pressed into service to count a population that kept no count of itself. On that programme a persisting childhood fever is a self-writing census, a living proof of population that needs no registrar, and its fade-out is a measured fall. Early reconstructions took the step the programme did not license and read the return's cells as a population series outright — the zero as a depopulation, the counts as a count of the living. Regional demographies for thin-attestation deltas were built on fade-out dates carried over, by analogy, from Middle Combustion returns like this one into the Contraction proper.
+
+Marchetti, whose historiography had already unpicked the reading of a trivial period routine as a canonical text, put the idol down. A fade-out zero, Marchetti showed, is overdetermined: it stands equally for a community that fell below the critical community size, for one no longer reached from outside because the roads or the coast had gone, and for a district whose notifying physician had been reassigned and whose office had simply stopped filing. The three write an identical cell. The instrument devised precisely to count populations that keep no register fails on the only population that most needs counting, the one drawing down, because the very conditions that push a community below the critical community size — dispersal, severed contact, the office closing its doors — are the same conditions that stop the fade-out being recorded, so the disease ceases to write its census at the exact moment the census is wanted. In this delta the silence could as readily mark a community that had gone as one that had died, and which of those it was the form cannot say, here or anywhere.
+
+## The floor under the delta
+
+Read the other way, the return still bears one fact that nothing has taken back. For eight years before the zero the office logged the fever in the clean two-year rhythm of true endemic persistence, and endemic persistence is a floor, not a count: it certifies that at those dates the district, together with whatever it was connected to, held not fewer than a quarter of a million susceptibles in transmission contact. That is a hard lower bound set under a region the census never reached, wrung from a single ruled page — a number that survives the collapse of everything the page was mistaken for. The disciplinary index accordingly carries the series as presence-class, not count-class: admissible as a floor, inadmissible as a population, and not cited for mortality. The specimen is the whole of it. After the hundred and three zeros the photographed form runs out of paper, and no later return from the office is known.
+
+---
+
+## Provenance and ground
+
+The sole witness is one page of the nickel language disk — a metal microform some seventy-six millimetres across bearing on the order of thirteen thousand pages across roughly fifteen hundred languages, and the only surviving attestation of several hundred of them. The morbidity form was captured not as public-health data but as a text specimen of the delta vernacular in its printed physician's instruction and its handwritten annotations; the office's census survives only as an example of a tongue, and the tongue survives only on nickel. The vernacular is itself near-extinct, attested here and on two adjacent disk pages and nowhere else, its speakers among the delta populations for whom the record thins exactly where it would matter most. The page cannot be radiocarbon dated; the reporting weeks printed on the form supply the only internal chronology, and the conversion to the disk's own manufacture is unrecovered.
+
+## See also
+
+- The Enamel Assay
+- The Silent Quarter
+- The Class-E1 Assemblage
+
+## Notes
+
+The identification of the leading column with measles rests on the fever's diagnostic two-year period and term-time forcing, both legible in the eight-year run; no clinical description survives on the page. "District" is inferred from the tier of aggregation implied by the marginal arithmetic and is not stated. The office's association with the Okonkwo programme is one of later use, not of origin; the facility itself neither claimed nor could have known the demographic reading later placed on its returns.
