@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Reduced Estate — Terran Encyclopaedia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap">
+<nav class="topnav"><a href="index.html">Terran Encyclopaedia</a></nav>
+<article>
+<h1>The Reduced Estate</h1>
+<p class="byline">Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from a single content-addressed archival reel in a spent salt working and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.</p>
+<div class="hatnote"><p><strong>The Reduced Estate is the Historical Faculty&rsquo;s name for one Late Combustion individual, recovered only as the holder of a single cold-storage account, whose entire personal archive survives bit-exact in salt while the name it belonged to does not.</strong> The reel, its manifest, and the reduction report struck into its leader are physical record; that the account was one person&rsquo;s life, consigned before a departure, is reconstruction.</p></div>
+<div class="prose"><p><strong>The reduction report on the reel&rsquo;s leader gives a ratio of 1.03 to one: a service paid to make an archive smaller returned it at ninety-seven parts in a hundred of the size it came in.</strong> The account was consigned in +118 pT (2063 CE) to a commercial data-reduction and cold-storage service, which shrank a customer&rsquo;s archive toward its information-content floor, named every object by a fingerprint of its contents, and wrote them to durable film in a dry salt working inland of the coasts. The reduction returned almost nothing, because the mass of the archive was photographs and video the holder&rsquo;s own devices had already reduced at capture, and no lossless method can shrink data that already carries near its full measure of information. The film came through; the index that mapped the account to a person did not, and the interior around the working emptied in the decades after. What is recovered is a complete, verifiable, anonymous life.</p>
+<h2>The floor</h2>
+<p>Lossless reduction removes redundancy and nothing else: it replaces a predictable stream with a shorter description from which the original rebuilds exactly, so its saving is only the data&rsquo;s length less what could not have been predicted. That floor has a name — the <em>entropy</em> of the source, below which the period&rsquo;s source coding theorem forbids any decodable scheme to go on average. A blunter law governs the other side: there are two-to-the-n strings of length n and fewer than that of every shorter length together, so no reversible scheme can shorten them all, and fewer than one string in a thousand can be shortened by even ten bits, the fraction halving for each further bit demanded. Material already reduced is, to the measurement, random, and cannot be reduced again. The archive&rsquo;s photographs and video had been through a lossy reducer at capture — the detail the eye forgives quantised away, the remainder entropy-coded to a stream with no slack in it — so the pass found nothing to remove and added only its own header to each file it could not shrink. The one estate the reducer was hired to reduce was built almost entirely of the output of reducers, and against that it ran backward.</p>
+<p>The manifest is the terse hand of the tool that made it, each object a length and the digest that is its name, the summary line recording the pass:</p>
+<pre><code>in=1.49e12  out=1.45e12  ratio=1.03  dedup=0.004  objects=41902  verify=ok
+</code></pre>
+<p>A two-hundred-and-fifty-six-bit fingerprint for a name made the archive self-verifying and indifferent to whose it was: content addressing records what a file is, not who deposited it. Ownership lived only in the account index, on perishable registers that decayed on the ordinary schedule. The holder&rsquo;s name is unrecoverable — not sealed, not corrupted, simply never written to anything that lasted. The reel knows every byte of the estate and not one syllable of the person.</p>
+<h2>What the salt kept</h2>
+<p>Salt keeps a dry archive better than intent does. A bedded evaporite is nearly impermeable and flows slowly closed around what is set in it, so the working stayed dark while the paper registers that indexed it did not; Halvorsen&rsquo;s taphonomy accounts for the film&rsquo;s survival there. Okonkwo dates the consignment to the departure it prepared for: an account filled and paid forward by someone arranging to leave a place. Vellai-Osei, R. (2938) reads the 1.03 as its own quiet fact: billed by reduced size, the holder paid for very nearly the whole of what they brought, having hired a reducer to keep a life that would not reduce. Of the estate it was hired to keep, the film returns forty-one thousand nine hundred and two objects, one and a half terabytes verified to the bit, and a reduction of three parts in a hundred.</p>
+<hr />
+<h2>Provenance and ground</h2>
+<p>The entry rests on a single archival reel recovered from a spent bedded-salt working in a dry interior, its leader carrying a human-legible reduction report and its body a content-addressed object store, all objects present and verified against their own digests. Halvorsen, E. supplies the taphonomy of film in salt where the associated paper index and magnetic registers did not survive; Okonkwo, D. reads the manifest as an unintended record of one consignment. The information-theoretic facts — the entropy floor and the source coding theorem, the counting bound on lossless reduction, the near-incompressibility of already lossy-coded image and video data, and the two-hundred-and-fifty-six-bit content address — are the period&rsquo;s own established results, restated. The holder&rsquo;s name, the place of departure, and the destination are not in the record and are not reconstructed here.</p>
+<h2>See also</h2>
+<ul>
+<li><strong><a href="the_narrow_hand.html">The Narrow Hand</a></strong> — a workforce that drove a hand-written code toward the same entropy floor, and a codebook that ran backward on the traffic it was carried to serve.</li>
+<li><strong><a href="the_nine_of_fifteen.html">The Nine of Fifteen</a></strong> — another content-addressed, self-verifying deposit whose contents survive intact while what would name or open them is gone.</li>
+<li><strong><a href="the_enamel_assay.html">The Enamel Assay</a></strong> — another record consigned to a durable mineral by people on the move, read now for a coordinate its makers did not set down.</li>
+</ul>
+<h2>Notes</h2>
+<ul>
+<li>Dating is post-Trinity: CE = pT + 1945. The consignment falls at +118 pT (2063 CE), within the Late Combustion decades.</li>
+<li>The service&rsquo;s rate card, recovered separately, priced storage by reduced size and offered a lower rate for archives that reduced further; the card is the sole attestation that the holder paid on the returned figure, and it names a schedule, not a customer.</li>
+</ul></div>
+</article>
+</div>
+<footer class="site-footer"><div class="site-footer-inner">
+<p>Terran Encyclopaedia · 3000 CE edition. A work of speculative fiction: every
+article, source, scholar, and citation is invented. Rendered into Reconstructed
+Late Combustion English by convention of the Historical Faculty.</p>
+</div></footer>
+</body>
+</html>
