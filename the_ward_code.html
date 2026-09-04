@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Ward Code — Terran Encyclopaedia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap">
+<nav class="topnav"><a href="index.html">Terran Encyclopaedia</a></nav>
+<article>
+<h1>The Ward Code</h1>
+<p class="byline">Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from two hundred and fourteen granite grave markers on an outwash terrace in the upper basin of the Great Lakes, and from a single compatibility file in consignment L-III of the Longyear Deposit, and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.</p>
+<div class="hatnote"><p><strong>The Ward Code is the Historical Faculty&rsquo;s name for the six-character output of an automated, age-normed brain-rhythm classifier that an unrecoverably named Middle Combustion children&rsquo;s institution cut into the grave markers of the children it did not release.</strong> The stones, their codes, their dates, and one later reimplementation of the classifier&rsquo;s arithmetic are record; the machine&rsquo;s name, the institution&rsquo;s name, and the name of every child under the stones are not.</p></div>
+<div class="prose"><p><strong>At 46°12′ N, 89°37′ W, on a level outwash terrace 487 metres above the Middle Combustion sea datum and eleven kilometres from the nearest Combustion-Age road, two hundred and fourteen blocks of grey local granite stand in eleven rows, all but six of them cut with a number, two years, and a six-character code.</strong> The blocks are the burial ground of a residential institution for children that operated from at least +31 pT (1976 CE) until +58 pT (2003 CE) and whose buildings, timber-framed and roofed in bituminous shingle, have not survived. The code on each stone is the classification assigned to the child by a spectral analyser of the electroencephalogram — a machine that measured the fraction of the scalp&rsquo;s electrical rhythm falling in each of four frequency bands, compared those fractions with the values predicted for a child of that age by a set of regression equations, and printed a class, a magnitude, and an anatomical location. The institution assigned wards by that class. The rows of the burial ground follow the wards. The Faculty was able to read the code only because a hobbyist, forty years after the machine was installed, transcribed its manual into a public software repository so that old ward files could still be opened; that repository reached the Longyear Deposit on the top shelf. Between +46 pT (1991 CE) and the closure, a seventh line was added beneath the code on every stone. On sixty-one of them it reads <em>The record is within normal limits for age.</em></p>
+<h2>The terrace</h2>
+<p>The site was located at +806 pT (2751 CE) by a survey of the glacial uplands south of the lake, on the strength of a rectangular clearing that had never closed over — granite grave markers, set at two-metre spacing, suppress the roots of the regrowth above them, and a plantation that would otherwise have been continuous forest by the twenty-fourth century shows the rows from the air as lines of stunted growth. The taphonomy is unremarkable and is the reason the record exists at all. The stones are a medium-grained biotite granite quarried within thirty kilometres; the cut letters are 22 millimetres high and were incised to a depth of about 5 millimetres. Weathering on this rock in this climate runs at a few micrometres a year, so the inscriptions have lost perhaps a tenth of their depth in a millennium. <strong>Halvorsen, E.</strong> has noted that a burial ground of the same period in marble, exposed to the sulphate-bearing rain of the Combustion Age, would have been illegible within two centuries; the institution&rsquo;s choice of the cheaper local stone, made on grounds of cost, is what preserved it.</p>
+<p>Each stone carries the same three lines in the same order. The first is a serial number, 0001 to 0214, in order of burial. The second is a pair of years — the child&rsquo;s birth year and death year in the Combustion calendar. The third is the code: a letter, a digit, and two pairs of letters, for example <code>S2POTH</code> or <code>N0CEAL</code>. Six stones, scattered through the first fifteen years and none later, have the third line blank; the Faculty reads them as children admitted before their first recording. From +46 pT (1991 CE) a fourth line appears, always a complete sentence in the register of a clinical report, and on every one of the 123 stones from that year to the closure. The Faculty catalogues the site as a <em>stone ward file</em>: the institution kept its records on paper and magnetic media, none of which survives, and the burial ground is the one copy of one field of that file that was written on a medium the Attrition could not reach.</p>
+<h2>The rhythm and its clock</h2>
+<p>What the machine measured is real and was well understood by the period. The electroencephalogram is the sum, at the scalp, of the postsynaptic potentials of cortical pyramidal neurons — not their impulses, which are too brief and too local to register, but the slower currents that flow along their aligned dendrites when synapses on them open. Because the neurons of a cortical column are oriented in parallel, their currents add; because the skull and scalp are poor conductors, the sum reaches the electrode attenuated and smeared, and a patch of cortex of at least some six square centimetres must be active in synchrony for anything to be seen at all. What is seen is small — ten to a hundred microvolts — and rhythmic. The best-known rhythm, at 8 to 13 cycles per second over the back of the head in a resting person with closed eyes, had been described at −16 pT (1929 CE) and was the first thing any technician of the period learned to recognise.</p>
+<p>That rhythm has a clock in it. The dominant frequency over the posterior head is about 4 cycles per second at four months of age, about 6 at one year, about 8 by three years, and near 10 by ten, where it stays for most of adult life. The rise tracks the physical maturation of the thalamocortical loops that generate it — the myelination of the fibres, which speeds conduction, and the pruning of the excess synapses of early childhood, which sharpens the circuit. In the language of frequency analysis this appears as a steady fall, with age, in the fraction of the total signal carried by the slow bands (delta, below 4 cycles; theta, 4 to 8) and a steady rise in the fraction carried by the faster ones (alpha, 8 to 13; beta, above 13). A normal child&rsquo;s record, in other words, states the child&rsquo;s age to within a few years, and it states it in a form that is easy to compute.</p>
+<p>The computation became cheap at +20 pT (1965 CE), when a fast algorithm for the Fourier transform reduced the cost of decomposing a signal into its frequencies from the square of its length to something close to the length itself. Within a decade a clinic could run the transform on a minute of scalp recording from each of the eight standard posterior, central, frontal, and temporal electrode positions, take the fraction of power in each of four bands at each, and have thirty-two numbers describing the child. A group at a university clinic on the Baltic did exactly this, at +28 pT (1973 CE), for several hundred children between one and twenty-one years old, recorded awake and with eyes closed, and fitted each of the thirty-two fractions to age. Those fits are the developmental equations. Given a child&rsquo;s age they return the expected fraction and its normal spread; given a child&rsquo;s record they return, for each of the thirty-two features, the number of standard deviations by which the child departs from the expectation — a <em>z</em>-score — and, taken together, the age at which the record would have been ordinary. The equations were replicated on a second continent within seven years with no significant difference. The clock is real. The machine on the terrace read it.</p>
+<h2>The equations and the cutoff</h2>
+<p>The device installed at the institution in +31 pT (1976 CE) — the year of the first coded stone — reduced the thirty-two <em>z</em>-scores to a code by the simplest possible rule. If any feature departed from expectation by more than two standard deviations, the record was classed as deviant; the direction of the largest departure (excess slow activity or excess fast) gave the first character, <code>S</code> or <code>F</code>; the digit that followed gave the magnitude, <code>2</code> for two to three standard deviations and <code>3</code> for more; the two letter pairs gave the region and the band of that largest departure. A record with no feature past two standard deviations was classed <code>N0</code>, followed by the region and band of whatever the largest sub-threshold departure had been. <code>S2POTH</code> therefore reads: slow for age, by between two and three standard deviations, most severely over the posterior head, in the theta band.</p>
+<p>The arithmetic of that rule is the centre of the entry, and it was known to the machine&rsquo;s own designers. Two standard deviations on a normal distribution excludes 4.55 per cent of a normal population on any single feature. Tested on thirty-two features, a normal child has a chance of at least one such excursion of 1 − (0.9545)³² — roughly three in four — if the features were independent. They are not; neighbouring electrodes and adjacent bands move together, and the true rate is lower. But it is not low. The clinic that published the equations had used them as a multivariate composite, in which the thirty-two departures are weighed together against their joint spread, precisely because the univariate cutoff flags most healthy children somewhere. The machine did not. It took the largest of thirty-two and printed it.</p>
+<h2>The compatibility file</h2>
+<p>The Faculty read the code by a chain of five steps, and the chain is the reason the site is catalogued as a recovered narrative rather than an unread inscription.</p>
+<p>The first step was the structure of the code itself. Across 208 coded stones only three initial letters occur; the digit is always 0, 2, or 3, and 0 occurs only after <code>N</code>; the letter pairs are drawn from a set of four and a set of four. A six-character string built from a class, a magnitude, a location, and a band is the shape of a clinical classifier&rsquo;s output, not of a name or a ward number, and the early Faculty reading, at +811 pT (2756 CE), went no further than that.</p>
+<p>The second was a search of the Code Deposit. The Deposit&rsquo;s snapshot of the public software of +75 pT (2020 CE) contains, among tens of millions of projects, some hundreds that decompose scalp recordings into frequency bands, and eleven that implement age regressions of the Baltic type. One of these — a repository of 1,412 files for a low-cost amateur recording board, committed by a single author between +70 and +73 pT (2015 and 2018 CE) by <strong>Okonkwo, D.</strong>&rsquo;s reading of its timestamps — contains a module of 611 lines whose header comment states that it reproduces &ldquo;the class codes and interpretive sentence table of the device we replaced, transcribed from the third edition of its operator&rsquo;s manual, so that the old ward files stay readable.&rdquo; The module&rsquo;s decoding table generates the exact grammar of the stones: three class letters, the digits 0, 2 and 3, the four region pairs, the four band pairs. The device is referred to throughout as a string of twelve X&rsquo;s, with a note that its trade name is omitted &ldquo;for trademark reasons.&rdquo; The name of the machine is, by that one cautious act, unrecoverable, and the Faculty has adopted the module&rsquo;s own phrase for its output.</p>
+<p>The third step was the sentence table. The module carries, as a list of 236 numbered strings, the library from which the device assembled its printed report — one sentence per flagged feature, in the register of a clinician&rsquo;s summary, plus a small number of unconditional lines. Entry 011 is <em>The record is within normal limits for age.</em> Every fourth line on every stone from +46 pT (1991 CE) onward matches an entry in the table verbatim, punctuation included.</p>
+<p>The fourth step is the same module&rsquo;s transcription of the manual&rsquo;s validity section, kept as a block comment above the regression coefficients. It states that the norms apply to awake, eyes-closed, unmedicated records; that interpretation of records obtained in drowsiness or under sedative medication &ldquo;is not supported&rdquo;; and that &ldquo;where many features are tested, one or more deviations at the two-sigma level are to be expected in normal children and should not by themselves be taken as evidence of dysfunction.&rdquo; The assessment committee of the period&rsquo;s college of neurologists said the same in public at +44 pT (1989 CE) and again at +52 pT (1997 CE), classing age-normed spectral classification as investigational for learning and attention disorders and unsuitable as a basis for placement; the second statement postdates the first coded stone by twenty-one years and precedes the last by six. The institution assigned wards by the code for the whole of that interval. The fifth step follows from the fourth, and is the subject of the next section.</p>
+<h2>Slow for age</h2>
+<p>The rows on the terrace sort by the first letter of the code, and within the <code>S</code> rows by region; the burial ground was laid out by ward, and the ward was the code. This is the physical basis of the Faculty&rsquo;s reading that the classification determined placement. The tally of the stones by five-year interval carries the rest of the argument, and is given as the Faculty&rsquo;s census of the site at +812 pT (2757 CE).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Interval (pT / CE)</th>
+<th>Stones</th>
+<th><code>N</code></th>
+<th><code>S</code></th>
+<th><code>F</code></th>
+<th>Blank</th>
+<th>Fourth line present</th>
+<th>Of which <em>within normal limits</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>+31–35 (1976–80)</td>
+<td>21</td>
+<td>9</td>
+<td>7</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>+36–40 (1981–85)</td>
+<td>30</td>
+<td>10</td>
+<td>14</td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>+41–45 (1986–90)</td>
+<td>40</td>
+<td>9</td>
+<td>25</td>
+<td>5</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>+46–50 (1991–95)</td>
+<td>46</td>
+<td>6</td>
+<td>34</td>
+<td>6</td>
+<td>0</td>
+<td>46</td>
+<td>20</td>
+</tr>
+<tr>
+<td>+51–55 (1996–2000)</td>
+<td>45</td>
+<td>5</td>
+<td>35</td>
+<td>5</td>
+<td>0</td>
+<td>45</td>
+<td>27</td>
+</tr>
+<tr>
+<td>+56–58 (2001–03)</td>
+<td>32</td>
+<td>3</td>
+<td>26</td>
+<td>3</td>
+<td>0</td>
+<td>32</td>
+<td>14</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>214</strong></td>
+<td><strong>42</strong></td>
+<td><strong>141</strong></td>
+<td><strong>25</strong></td>
+<td><strong>6</strong></td>
+<td><strong>123</strong></td>
+<td><strong>61</strong></td>
+</tr>
+</tbody>
+</table></div>
+<p>Among the coded stones the share classed slow rises from under two in five in the first interval to more than four in five in the last, and the rise is monotonic. Two mechanisms, both real, both stated in the machine&rsquo;s own manual, produce exactly this. The first is state. A drowsy child&rsquo;s record loses its posterior rhythm and gains theta; in children between three months and thirteen years the onset of drowsiness is frequently marked by bursts of high-voltage activity at 3 to 5 cycles per second, a normal variant with no significance, which to a regression fitted on awake records reads as a record two or three years too young. The second is medication. The sedating antipsychotics of the period increase delta and theta and reduce alpha; the barbiturate used to settle children before recording adds a diffuse fast rhythm at 15 to 25 cycles per second. Either drug moves the record away from expectation; the sedating one moves it toward <code>S</code>. A child classed slow was placed on a ward where sedation was routine, was recorded at re-test in the state the manual excluded, and was classed slower. The rule ran as written on a population that had drifted, under the rule&rsquo;s own influence, out from under the sample it was fitted on. No scholar has identified a point at which anyone at the institution was in a position to see the whole loop, and the Faculty does not suggest that there was one.</p>
+<p>The reading is contested at one point, and the contest is not resolvable from the stones. The <em>state</em> school, above, holds that the population under the codes did not change and the records did. The <em>intake</em> school holds that the population changed: the period saw a broad movement of children with the mildest classifications out of institutions and into community placement, so that the residual population of a site like this would have carried, by its last decade, a genuinely higher proportion of children with injured brains, whose records are slow for age because their brains are. Both schools accept the table. The distinction between them is the distinction between a record that changed and a child that did — and it is a distinction the code, which measured only the record, was not built to make.</p>
+<h2>The line</h2>
+<p>The fourth line dates from a change in the institution&rsquo;s burial paperwork at +46 pT (1991 CE), which the Faculty infers rather than reads: from that year the stones carry, below the code, a single sentence drawn from the machine&rsquo;s table, and the natural reconstruction is that a form used to order the stone acquired a field for the summary finding of the child&rsquo;s most recent record, and that the mason cut what the form said. On sixty-two stones the sentence is one of five that describe an excess of slow or fast activity by region. On sixty-one it is entry 011.</p>
+<p>The sixty-one are not the <code>N</code> stones. Fourteen of them are; forty-seven carry an <code>S</code> code above the line. The code was the ward, assigned at admission and never revised on the stone; the line was the last record, and the last record of forty-seven children on the slow wards was that there was nothing in their rhythm out of the ordinary for their age. Whether that last record was taken awake, or on a day the medication had been changed, or simply on the one occasion in four when thirty-two features happened all to fall within their bounds, the stone does not say. What the stone says is that the machine, at the end, reported these children ordinary, and that they were buried on the ward the machine had earlier put them on.</p>
+<p>The line is also where the authorship of the site fails. The sentence table was written by clinicians, in the period&rsquo;s ordinary way, so that the printed report would read as a physician&rsquo;s summary and could be signed as one; the institution&rsquo;s physician is recorded, in the module&rsquo;s transcription of the manual, as the signatory of record for every report the device produced. The 123 fourth lines are therefore, at the same time, sentences a person wrote, sentences a machine selected, and sentences a person signed, and the Faculty has been unable to establish for any stone whether the words were chosen for the child or transcribed from a field. The one feature that bears on it is typographical: the lines on the stones reproduce the table&rsquo;s spacing after the full stop, which the module notes was a fixed-width artefact of the device&rsquo;s printer. <strong>Ranganathan, V.</strong>&rsquo;s aphorism for the Wasatch Corpus is generally quoted at this point of the entry and is not repeated here.</p>
+<p>The stones give each child&rsquo;s years. From them the Faculty computes a mean age at death across the terrace of eleven years and four months.</p>
+<hr />
+<h2>Provenance and ground</h2>
+<p>The stones, their serials, years, codes, and fourth lines are physical record, surveyed at +806 pT (2751 CE) and censused at +812 pT (2757 CE); the cut letters are legible on all 214, and the six blanks are blank, not eroded. The decoding of the code, the sentence table, and the manual&rsquo;s validity text are bit-exact record from one module of one repository in consignment L-III of the Longyear Deposit, whose survival follows the ordinary shelving accident of that consignment; <strong>Marchetti, L.</strong>&rsquo;s caution against reading a software routine as a text of the period is noted, and the module is used here only as a transcription of a manual it names and quotes, not as a document in its own right. The regression equations, the maturation of the posterior rhythm, the effects of drowsiness and sedative medication on the record, and the false-positive arithmetic of a univariate two-sigma cutoff are established physiology and statistics and are not in doubt. That the code determined ward placement is inferred from the layout of the rows and is robust. That the fourth line was cut from a form field is reconstruction. The machine&rsquo;s name, the institution&rsquo;s name, its records, the identity of its physician, and the names of the children are not recoverable.</p>
+<h2>See also</h2>
+<ul>
+<li><a href="the_kinship_ceiling.html">The Kinship Ceiling</a></li>
+<li><a href="the_threshold_registry.html">The Threshold Registry</a></li>
+<li><a href="the_station_grave.html">The Station Grave</a></li>
+</ul>
+<h2>Notes</h2>
+<ol>
+<li>Dating follows the Faculty convention: CE = pT + 1945. All pairs given here are exact.</li>
+<li>The figure of roughly three in four for at least one two-sigma excursion across thirty-two features assumes independence and is an upper bound; the features are correlated and the true rate is lower but, on the period&rsquo;s own published analyses, remains a substantial fraction of normal children. The device&rsquo;s manual, as transcribed, gives no figure.</li>
+<li>The Faculty&rsquo;s designation <em>stone ward file</em> is intended in <strong>Okonkwo, D.</strong>&rsquo;s sense of an unintended census: a record of one field, kept on the wrong medium for the wrong reason, and surviving for that reason alone.</li>
+</ol></div>
+</article>
+</div>
+<footer class="site-footer"><div class="site-footer-inner">
+<p>Terran Encyclopaedia · 3000 CE edition. A work of speculative fiction: every
+article, source, scholar, and citation is invented. Rendered into Reconstructed
+Late Combustion English by convention of the Historical Faculty.</p>
+</div></footer>
+</body>
+</html>
