@@ -1,0 +1,54 @@
+# The Least Probable
+
+*Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from eleven partial intercepts of a single store-and-forward message bundle, its delivery report, and the routing source that carried it, and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+
+> **The Least Probable is the Historical Faculty's name for a Contraction-era custom of the road north out of the Gangetic plain, in which travellers who met held their devices together until the mail each carried for strangers had copied across, reconstructed from the scattered copies of one message that went up the road by hand.** The copies, the delivery report, and the routing rule are record; the custom, its gestures, and its name are reconstruction, and the name is unrecoverable.
+
+---
+
+**Ishani Tavita-Verma, whose name is the author field on 1,412 commits to a store-and-forward messaging tool in consignment L-III of the Longyear Deposit, is the only person the practice can name, and her last commit predates it by more than fifty years.** Her tool was on the pocket devices of the columns that walked north from the plain between +125 and +175 pT (2070–2120 CE), when the grid was intermittent and the wells were not. Two devices within radio range exchanged whatever bundles each held for anyone; the walk did the routing, as the hand-carried letter had done for every earlier migration. The custom is known from one message that left the plain's fourth ward in +138 pT (2083 CE), passed through fourteen devices in sixty-one days, and was delivered in the high valleys; eleven of the copies the road made of it were skimmed at an Arabian Sea cable landing and lie in the Wasatch Corpus. The practice's name for itself is unrecoverable.
+
+## Fifty-year-old defaults
+
+Each bundle carried its source node, creation time, sequence number, lifetime, a hop limit of at most 255, and a hop count raised by one at every hand; each forwarder wrote its identifier into a previous-node block, and a bundle past its limit or lifetime was deleted. Tavita-Verma's last routing commit, in +72 pT (2017 CE), set the defaults the road ran on: a ninety-day lifetime, the period's standard probabilistic scheme, and a queue policy the standard called LEPR.
+
+## The meeting rate
+
+The scheme kept, for every node ever met, a delivery predictability between zero and one, raised at each encounter by *P = P₀ + (1 − δ − P₀)·0.7*, aged every hour by 0.999, and passed along at a discount of 0.9 through anyone who had met the destination. Delay is set by the pairwise meeting rate λ, of order *2rv/A* for radio range *r*, relative speed *v*, and area *A*; on the age's own idealised model the expected delay falls from *1/λ* for a pair alone to *H₍ₙ₋₁₎/λ(N−1)* for a message copied among *N* devices, so that on such a corridor a wait of years for two devices becomes a fortnight for three thousand. The road was the network's medium. The more people walked it, the faster the mail went.
+
+## Eleven copies
+
+The intercepts agree on source, timestamp, and sequence number and differ only in hop count and previous node, which is how the route is known. Four of the fourteen hands are gate nodes at dawn, the pattern Petaia-Rao, S. reads as the custom itself: an exchange at the threshold, held until done. The payload was never enciphered. Message and reply, both delivered:
+
+```
+we done leave fourth ward monday. amma is not coming, she is keeping the house.
+you all are having water up there or not?
+```
+```
+water is there. come by north gate side, south one is holding people.
+yumi will make the roof before the cold, no?
+```
+
+The perfective *done*, the stative *is having*, the tag, and the inclusive *yumi* are Standard Terran's grammar, already whole.
+
+## Least probable first
+
+A third bundle in the exchange, addressed to the house on the plain, carries no delivery report. A node no carrier met again decayed by 0.999 an hour, fell below the threshold of 0.1 in some 1,900 hours — eighty-one days — and was dropped from the table; a bundle for a destination with no entry held the lowest predictability, and LEPR, when a store filled on a road where everyone was writing, evicted the least probable first. The rule was correct. The letters home were the first the queue discarded. Whatever eviction spared, the ninety-day lifetime deleted.
+
+Petaia-Rao reads the dawn hops as an institution, with a held gesture; Zhou-Ferreira, A. reads a default running in pockets that passed through gates at the hour gates open. The copies record the hands, the hours, and the delivery; they do not record whether anyone stopped.
+
+---
+
+## Provenance and ground
+
+The route rests on the Wasatch intercepts, cross-timed by Okonkwo's method against the delivery report; the routing equations, constants, and queue policy are bit-exact in the tool's source in the Code Deposit. The meeting-rate model and the harmonic-number delay are the period's own results, exact for its assumptions and not for a road. Petaia-Rao's reading is in *The Held Threshold* (Historiography, 2971).
+
+## See also
+
+- **The Crossing Ledger** — one carrier as the single vertex between two networks; here the carriers were the network.
+- **The Station Grave** — a record carried in memory along the same kind of road.
+- **The Delta Register** — persons on the move, read from the same landing.
+
+## Notes
+
+Whether the house on the plain was still kept, or was left later, or was never reached for any reason at all, the table cannot say: it recorded only that no one met it.
