@@ -1,0 +1,61 @@
+# The Deep Mark
+
+*Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from a stamped bronze benchmark cap, the steel extensometer pipe beneath it, and a line punched into that pipe, and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+
+> **The Deep Mark is the Historical Faculty's name for a Late Combustion compaction-monitoring station on a subsiding delta coast, known from a bronze survey cap that stayed at the height it was set while the ground around it went down 6.83 metres.** The cap, the pipe, the concrete collar at its foot, and a line punched into the pipe are record; the station's fifty-six years of readings survive by interception; the district, its wells, and the hand that punched the line are reconstruction.
+
+---
+
+**+72 pT (2017 CE): a survey office sinks a steel pipe 300 metres into the sediments under a delta port district, anchors its foot in a stiff bed below the pumped aquifers, and sets a stamped bronze cap on its head, 0.30 metres above a concrete collar founded on the ground.** The cap was set as a benchmark — a fixed height for the district's levelling — and the pipe under it was an extensometer, an instrument for reading by how much the ground between the cap and the anchor had shortened. It read that for fifty-six years. Its telemetry, intercepted and read out from the Wasatch Corpus, records the column compacting at between 5 and 14 centimetres a year as the district's own wells replaced a piped supply that reached fewer connections each year; the last reading, in +128 pT (2073 CE), puts the collar 5.30 metres below the cap. When the Faculty dug the station out of the anoxic mud that later covered it, the collar was 6.83 metres below the cap. The difference is the ground going on sinking after the readings stopped, for a span the pipe cannot date, under people the telemetry does not count. Three notes follow: on the cap, on the column, and on the line.
+
+## The cap
+
+Bronze, 90 millimetres across, domed, stamped once at installation and never restamped:
+
+> DEEP BENCH MARK · PORT DATUM · ELEV. +1.912 m · SET 2017 · DO NOT DISTURB · REPORT DAMAGE TO THE SURVEY OFFICE
+
+The disc is legible in full. The height on it was correct on the day it was struck and on no day after: the satellite-positioning antenna mounted on the pipe head recorded the anchor itself settling at close to 4 millimetres a year — compaction below the anchor and the slow natural settling of any delta under its own sediment, which no pipe anchored inside the delta can see. Over the span of the telemetry that is about 0.22 metres; for the centuries after, the Faculty holds no figure at all. The cap names the datum and the office and not the station, the district, or the port, and none of the three is recovered. The stamped height is the one number on the station that nothing ever corrected, and the mark was not disturbed.
+
+## The column
+
+An aquifer system is a stack of sands that yield water quickly and clays that yield it slowly, and the weight of everything above a given depth is carried jointly by the grains and by the water in their pores. Pumping lowers the water's pressure, and what the water no longer carries the grains must: a head lowered by one metre moves 9.8 kilopascals from pore water to skeleton. Sand takes the load with a small elastic shortening that comes back when the head does. Clay takes it differently. Up to the largest stress a bed has carried in its history — its preconsolidation stress — it too shortens elastically; past that stress the platelets rearrange, the bed compacts by an amount typically twenty to a hundred times the elastic figure for each metre of head, and it does not come back when the pumps stop. The district's aquifers had never been drawn below their historical heads before about +60 pT (2005 CE). Every metre of drawdown after that was new stress.
+
+The second property of clay is that it is slow. A bed pumped at both faces drains from its faces inward, and the pressure in its core follows the aquifer with a lag set by a time constant τ = (b′/2)² S′s ⁄ K′, where b′ is the bed's thickness, S′s its skeletal specific storage, and K′ its vertical hydraulic conductivity; at t = τ the bed has done about 93 per cent of the compacting that the drawdown will ultimately extract from it. For a marine clay 20 metres thick with K′ of 1 × 10⁻¹⁰ metres a second and inelastic S′s of 3 × 10⁻³ per metre — the values the station's commissioning log assigns to the thickest bed in its column — τ is 3 × 10⁹ seconds, about 95 years. Pumping in any year therefore bought that year's water with a lowering of the ground that would mostly arrive after the pumping had stopped, and be paid by whoever was standing on it then. The telemetry shows the arithmetic running: the column's rate rose from 5 to 14 centimetres a year across the +80s to +100s pT (2020s–2050s CE) as the piped supply failed and the wells took over, and was still 9 centimetres a year in +128 pT (2073 CE), with the well-field's metered draw at a fifth of its peak.
+
+| Reading (pT / CE) | Cap above collar | Mean rate since previous |
+|---|---|---|
+| +72 pT / 2017 CE (set) | 0.30 m | — |
+| +85 pT / 2030 CE | 1.19 m | 6.8 cm/yr |
+| +100 pT / 2045 CE | 2.63 m | 9.6 cm/yr |
+| +115 pT / 2060 CE | 4.18 m | 10.3 cm/yr |
+| +128 pT / 2073 CE (last) | 5.30 m | 8.6 cm/yr |
+| as recovered | 6.83 m | not datable |
+
+The instrument that read this was built to be nearly nothing. The pipe hangs inside a cased borehole, fixed at its foot and touching the sediments nowhere else, its weight taken at the surface by a counterweighted lever so that the head floats free of the sensor; a displacement transducer between the pipe head and a table founded on the collar reads the change in the pipe's exposure to between 0.01 and 0.1 millimetres over 300 metres of column. The only motion the pipe has of its own is thermal: steel lengthens by about 12 parts in a million per kelvin, and in an equatorial climate only the top dozen metres lie within the annual temperature wave, so the pipe's own yearly breathing is a few tenths of a millimetre, visible in the telemetry as a small annual wave under a signal three hundred times its size. The tide gauge on the district's wharf reported over the same decades a sea rising at between 5 and 15 centimetres a year, against a global figure the period's satellite altimetry put near 4 millimetres and climbing. The gauge was not wrong. It measured the sea against the wharf, and the wharf was going down.
+
+## The line
+
+Punched into the pipe with a centre punch, in dot-formed capitals, 2.61 metres below the cap and beside a scored horizontal line:
+
+> HIGH WATER 2076 · ROD IS NOT GOING UP, GROUND IS GOING DOWN ONLY · WE DONE LEAVE · GRANDMOTHER IS NOT COMING
+
+The year is +131 pT, three years after the last reading, and the scored line stands about 3 metres above where the collar then lay — the depth of water over the station's floor on the day the line was cut, if the line records what its label says. The district lay behind a sea wall and by then nearly four metres below the datum; the Faculty has no other record of the wall. The hand is a workshop hand. Its grammar is not the grammar of the cap. The first clause puts a stative verb in the progressive, the second carries the focus particle *only*, the third marks completion with the preverbal *done* — features of the vernacular of the plain across the sea to the north-west, by then the most-spoken variety of the tongue, which the period's prescriptivists corrected and which are, unaltered, the ordinary grammar of Standard Terran. To a reader of the present language the cap reads as antique and the line as plain speech. The Faculty reads the *we* as exclusive, the writer and those going, and it does not know who Grandmother was, or whether she was still on the ground when the mud came. The Faculty's plan of the drowned district is levelled from the cap.
+
+---
+
+## Provenance and ground
+
+The pipe, cap, and collar were recovered from anoxic delta mud on a coast that has since gone under; Halvorsen, E. reads the pipe's magnetite-and-siderite skin as forming only after burial, with the punched dots preserved beneath it and the bronze unaltered. The readings are fifty-six years of daily displacement telemetry sent from the station to a survey office's server and skimmed at a cable landing into the Wasatch Corpus; Okonkwo, D. notes that the gaps in the daily run line up with the district's recorded grid outages and with nothing else. The principle of effective stress is the period's own, published in −20 pT (1925 CE), and the analysis of delayed aquitard drainage in +24 pT (1969 CE); the station's parameters are its commissioning log's, and the time constant follows from them. Everything said here about the district is inferred from the column.
+
+## See also
+
+- **The Weighed Plain** — groundwater withdrawal on a different plain, read from the gravity field rather than from a pipe.
+- **The Night Gangs** — a subsiding coast on the other side of the world, and the wall built on it.
+- **The Levelling Ledger** — the recovery era's means of fixing a height once every mark of this kind had gone under.
+- **The Enamel Assay** — where the people who left coasts like this one were later found to have gone.
+
+## Notes
+
+- Dating is post-Trinity: CE = pT + 1945.
+- The extensometer reads only the shortening of the column between the collar and its anchor at 300 metres; compaction below the anchor, and the delta's natural settling, appear in the antenna's record and nowhere in the pipe's.
+- The time constant is computed for a bed draining at both faces, so the drainage length is half the thickness; a bed draining at one face only would take four times as long.
