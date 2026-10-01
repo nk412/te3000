@@ -1,0 +1,75 @@
+# The Forty-Station Cadence
+
+*Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from a cast-bronze plaque and the granite marker that carries it, recovered from a plateau burial ground beside a dead anode bed, and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.*
+
+> **The Forty-Station Cadence is the Historical Faculty's name for the interrupted current that a forty-rectifier corrosion-protection system keyed into the ground along a buried steel trunk line for some fifty-one years, each station on its own period and each pulse counted in milligrams of iron, to be heard by no one but a surveyor with a voltmeter and two half-cells.** The plaque's table of periods and the bed's residual mass are record; the line's name, the end of the signal, and the origin of a forty-first period that no station keyed are reconstruction.
+
+---
+
+**The Forty-Station Cadence was the keyed output of the impressed-current system that protected a coated steel trunk line, some 1,140 km long, across a high plateau, from its commissioning in +12 pT (1957 CE) until the exhaustion of its anode beds at about +63 to +64 pT (2008–2009 CE).** Each of forty rectifier stations drove its current into the soil in a four-fifths-on, one-fifth-off cycle of its own length, so that a survey crew walking the right-of-way could tell, from the surface voltage alone, which station it was standing beside. In the line's whole service life no wall of it is recorded as having failed by corrosion. That is the triumph, and the record states it without qualification. The signal was never addressed to anyone. It was nevertheless a ledger: every pulse spent a measurable mass of iron-silicon anode to withhold a measurable mass of steel from the soil, and the residue of that ledger, weighed nine centuries later, is the only evidence of when the signal stopped. The line's name is unrecoverable; the top course of the plaque, which carried it, has delaminated. The plaque lists forty-one periods. The line had forty stations.
+
+## What was keyed
+
+Buried steel corrodes because a piece of it is anodic to the rest of it, or to the soil, and iron leaves the metal at the anodic patch as Fe²⁺ while the electrons travel away through the steel. The remedy, by the 1950s, was to reverse the current: hold the whole structure at a negative potential so that every part of it is a cathode and the iron has nowhere to leave from. The working criterion of the period was a structure-to-soil potential no less negative than −850 mV against a saturated copper–copper-sulphate half-cell, and, because too much current evolves hydrogen at the steel and lifts the coating off it, no more negative than about −1,200 mV. The line was coated in coal-tar enamel over felt wrap, which carries almost all of the burden; the current only has to cover the pinholes and scratches — holidays — where the coating is absent.
+
+The current came from rectifiers, one every 28 to 30 km, each pushing a direct current through a bed of high-silicon cast iron anodes, 14.5 % silicon by mass, buried in a trench of calcined coke breeze. The silicon forms a thin silica-rich film that makes the iron corrode slowly; the coke breeze, being conductive, makes the whole trench behave as one large anode and lowers its resistance to earth. The anodes are consumed at a rate quoted in kilograms per ampere-year, and published values for this alloy run from about 0.25 to 0.5. This entry uses the upper figure, 0.45, because the plaque's own design ledger does (below).
+
+A rectifier of this kind has to be interrupted. A surveyor cannot read the true polarised potential of a pipe while current is flowing, because the reading includes the voltage drop in the soil between the pipe and the half-cell; the drop vanishes in the first instant after the current is switched off, leaving the pipe's own potential, which decays only slowly. The line's commissioning engineers therefore fitted every rectifier with a motor-driven cam timer, and, rather than synchronise forty timers over 1,140 km with the means of 1957 CE, gave each its own period. A crew with a recording voltmeter could identify the nearest rectifier by timing its on–off cycle with a watch.
+
+## The table
+
+The plaque is a leaded-tin bronze casting, 410 × 290 mm, set into the face of a granite marker at the Station 23 rectifier house (km 886). Its relief is 1.5 mm high. The surviving text, in Reconstructed Late Combustion English, reads in part:
+
+> **[name lost] · STATION 23 · KM 886 · ENERGISED +12 PT**
+> THE LINE IS HELD AT MINUS EIGHT HUNDRED FIFTY.
+> THE GROUND IS LISTENED TO.
+> EACH STATION KEYS ITS OWN PERIOD: FIVE SECONDS AND FIVE HUNDREDTHS FOR EACH NUMBER, FOUR PARTS ON, ONE PART OFF.
+> LISTEN FOR YOURS.
+
+Beneath it runs a table of forty-one numbered lines, each with a kilometre post and a period. The period of station *n* is 5.00 + 0.05 *n* seconds, so that Station 1 keyed a cycle of 5.05 s and Station 23, 6.15 s; it was on for 4.92 s of every 6.15. The plaque is the only complete table of the system recovered, and its arithmetic is the only reason the pulses can be counted at all.
+
+Line 41 has a period, 7.05 s, and a kilometre post. The post stands at the line's far terminal, where no rectifier house is recorded and none has been found.
+
+## The ration
+
+The commissioning ledger, from which the plaque's design figures were cast, gives every station the same duty: a peak output of 15 A and an anode bed of 330 kg. Four-fifths on gives a mean current of 12 A. With 85 % of the bed usable, 280.5 kg of anode iron is available, and at 0.45 kg per ampere-year that is 623 ampere-years, or 51.9 years at 12 A. Commissioned in +12 pT, the bed was designed to fail in +63.9 pT (2008.9 CE), within a year of the plaque's own printed expectation. Had the rectifier run continuously at 15 A, the same bed would have lasted 41.6 years. The survey interruption, chosen for the convenience of the crews, bought ten years of life; the ledger does not record that anyone computed it.
+
+Each pulse can be priced. At Station 23 one on-interval of 4.92 s at 15 A delivers 73.8 coulombs. Iron's electrochemical equivalent is 0.2894 mg per coulomb for the two-electron oxidation of iron to Fe²⁺ (9.13 kg per ampere-year), and the anode alloy's rate of 0.45 kg per ampere-year is 14.3 µg per coulomb. One pulse therefore consumed 1.05 mg of anode, and the same 73.8 coulombs, had they flowed out of an unprotected holiday instead of into a protected one, would have dissolved 21.4 mg of the pipe. The two irons are bound by one ratio, 20.3 to 1, which is the ratio of two published constants and was printed on no plate, test post, or standing instruction, and every pulse on the plaque's table was a transaction at that rate. At Station 23 the bed's 51.9 years held some 2.66 × 10⁸ of them.
+
+## The weighing
+
+Nothing of the pipe survives as metal. A 12 mm steel wall in plateau soil of the resistivity measured along the corridor is gone in a century or two once protection stops; what remains is a tube of iron oxyhydroxide, goethite and lepidocrocite with traces of magnetite and siderite, its lumen packed with soil, its coal-tar sheath perished to a brown film. Its bore is intact and its wall thickness is not measurable. Halvorsen, E. has shown that what a tube of this kind preserves is the position of the line and the position of its holidays, not the metal loss at them.
+
+The anode beds survive better, for the reasons they were chosen. The coke breeze is carbon and is unchanged. The silicon-iron pigs lose mass only by consumption, and the passive film makes that slow without current. At Station 23, Halvorsen recovered 54 kg of anode residue from a bed charged with 330 kg: 276 kg consumed, 98 % of the figure the ledger predicted would be spent by the bed's design end. Read directly, 276 kg at 0.45 kg per ampere-year is 613 ampere-years, 51.1 years at 12 A, and an end for the signal at +63 pT, within a year of the design date. Six further beds located along the corridor, each lighter by between 262 and 281 kg, give the same answer to within two years.
+
+This is the ledger reading, and it is circular in a way its proponents state: the rate of 0.45 that converts mass to years is the rate the ledger used to design the bed. At 0.25 kg per ampere-year the same 276 kg is 92 years, and the signal would have to have run into +104 pT. Against that, the line has a record of its own end only through the bed, and the coke breeze introduces a second uncertainty: iron buried in carbon is a galvanic couple, and consumes itself slowly with no current from any rectifier. A bed whose signal ended early, in +50 pT, could by this tail have continued to lose mass for nine centuries toward the same residue. Neither alternative can be excluded by the mass alone, and the bed has no other clock.
+
+## The forty-first
+
+Below the table, cut into the bronze with a different tool, is a short addendum. Its letters are engraved rather than cast, 0.4 mm deep, in a regular face with no hand-cut variation in stroke:
+
+> STATION 41 HELD IN RESERVE.
+> THE GROUND IS STILL LISTENED TO.
+
+The addendum is undated. Corrosion crust on the floors of its cuts is thinner than on the cast face, which places it after the casting, but Halvorsen declines to date it, since the burial chemistry has no calibrated rate for bronze under a pulsed cathodic field: the plaque was bolted to a test post wired to the pipe, so that for the signal's life the bronze, like the steel, spent four-fifths of every cycle polarised and uncorroded.
+
+The text is well formed and fully formulaic. It is the kind of line a plant clerk wrote into a work order, and it is also the kind of line that the maintenance-planning software of the later period produced from a template, to be engraved on a pantograph machine by an operator who never read it. No feature of the sentence, the face, or the cut separates the two, and the Faculty's cataloguers have recorded the addendum as authorship indeterminate. The phrase *still listened to* has a clerical reading (a standing instruction to survey crews that the system remained in service) and an editorial one, and the record carries nothing for either.
+
+Three accounts of Line 41 are held. The **unbuilt-station** reading takes the table as a design that outran its budget: a terminal rectifier planned in +12 pT, never funded, kept on the plaque by a foundry that cast what it was sent. The **retrofit** reading takes the addendum at its word: a forty-first rectifier energised late, in or after the engraving, whose house and bed lie in the unsurveyed terminal reach. The **spare-period** reading holds that a period had been reserved so that a replacement or temporary rectifier would not collide with a live one. The terminal reach is a thin-attestation region, and no excavation of it has been made.
+
+At the design end the forty beds had spent 40 × 280.5 kg = 11,220 kg of anode iron, and by the same coulombs had withheld 227,700 kg of steel from the soil.
+
+## Provenance and ground
+
+The entry rests on one object: the Station 23 plaque and its granite marker, with the bed residue beneath it, by a Historical Faculty survey of the plateau burial ground. The design ledger is attested only through the plaque's own figures. The survey crews' readings, which would have recorded the periods in use, were held on magnetic tape and are lost; Ranganathan's rule that the record says what was said about a thing to machines, not what was done to it, holds here in reverse, since the only voice the line has left is its own plaque.
+
+## See also
+
+- **The Electrolyte Line** — a corrosion-protection system that kept transmitting a reading after the structure it protected had gone.
+- **The Salton Trough Main** — a length of coated pipe exhumed from the ground, intact where it ought not to be, and the station that kept it so.
+
+## Notes
+
+- Dating is post-Trinity: CE = pT + 1945. Commissioning, +12 pT, is 1957 CE; design exhaustion, +63.9 pT, is 2008.9 CE.
+- The −850 mV copper–copper-sulphate criterion, the hydrogen-evolution limit near −1,200 mV, the 14.5 % silicon cast iron anode and its coke-breeze backfill, the published consumption range of 0.25–0.5 kg per ampere-year, the interrupted-reading method for removing soil voltage drop, the galvanic coupling of iron to carbon, and iron's electrochemical equivalent of 0.2894 mg per coulomb (9.13 kg per ampere-year) are the period's own established values. The line, its stations, the table, and the readings are the fragment's alone.
+- The aggregate assumes the ledger's uniform 330 kg bed at all forty stations; 11,220 × 20.3 ≈ 227,700 kg.
