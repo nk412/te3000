@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Squaring Room — Terran Encyclopaedia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="wrap">
+<nav class="topnav"><a href="index.html">Terran Encyclopaedia</a></nav>
+<article>
+<h1>The Squaring Room</h1>
+<p class="byline">Terran Encyclopaedia, 3000 CE edition — Recovered Narratives. Reconstructed from a single reel of eight-level punched paper tape holding the nightly settlement record of one provisioning depot, and rendered into Reconstructed Late Combustion English by convention of the Historical Faculty.</p>
+<div class="hatnote"><p><strong>The Squaring was a nightly inter-depot settlement run by an automated clearing machine, and its reel of paper tape records, in a repeat-count code, how steadily the volume of distinct transactions fell until the machine was balancing one depot against itself.</strong> The tape and its parity are record; the machine, its staffing, and the name of the practice are reconstruction.</p></div>
+<div class="prose"><p>The Squaring was not an audit, and it was not a count of stock. It was a nightly close in which a clearing machine matched every depot&rsquo;s issues against every depot&rsquo;s receipts and punched the differences to tape. It began in +92 pT (2037 CE), ran for forty-three years, and by its last three produced a record shorter than a hand. The name appears on one object only, a cast-bronze plate above the door of the machine room, reading SQUARING ROOM; no tape, form, or manifest uses the word.</p>
+<h2>The code</h2>
+<p>Each line was 64 characters: depot pair, item, quantity, and a field for the count of immediate repeats. Run-length coding of this kind costs 8 characters per run and saves 64 for every line the run absorbs, so it pays only when lines repeat. On a stream with no repeats it expands, as it must: no lossless code shortens every input. Every frame carried seven data bits and an eighth even-parity hole, which detects any single-bit punching error in a frame and corrects none. Of the frames read, none fails parity.</p>
+<h2>The shrinking</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Lines/night</th>
+<th>Mean run</th>
+<th>Raw (characters)</th>
+<th>Coded (characters)</th>
+<th>Ratio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>+92 (2037 CE)</td>
+<td>1,000</td>
+<td>1</td>
+<td>64,000</td>
+<td>72,000</td>
+<td>0.89</td>
+</tr>
+<tr>
+<td>+104 (2049 CE)</td>
+<td>1,000</td>
+<td>3</td>
+<td>64,000</td>
+<td>24,000</td>
+<td>2.7</td>
+</tr>
+<tr>
+<td>+116 (2061 CE)</td>
+<td>800</td>
+<td>14</td>
+<td>51,200</td>
+<td>4,100</td>
+<td>12.4</td>
+</tr>
+<tr>
+<td>+127 (2072 CE)</td>
+<td>120</td>
+<td>40</td>
+<td>7,680</td>
+<td>216</td>
+<td>35.6</td>
+</tr>
+<tr>
+<td>+132–135 (2077–2080 CE)</td>
+<td>1</td>
+<td>1,100</td>
+<td>70,400</td>
+<td>72</td>
+<td>978</td>
+</tr>
+</tbody>
+</table></div>
+<p>The coded length of a stream approximates its information, and the information fell because the world it described stopped varying. The first row is a machine facing near-incompressible demand; the last is one line, one item, one run. For 1,100 nights the Squaring balanced a depot against itself on flat washers, 6 mm, and balanced. The run occupies 72 frames, about 18 centimetres of tape. Okonkwo, D., reads the column as an unintended census, and Ibarra, N., reads the same depot as single-filament infrastructure at the scale of a stockroom; the tape supports both and the ratio decides neither.</p>
+<h2>Survival</h2>
+<p>The machine&rsquo;s printer was meant to carry the record, but the last ribbon consignment was of the wrong width, and the machine fell back to its tape punch, a fallback not exercised since commissioning. Paper tape holds information as geometry, so yellowing and acidity leave it readable. The reel was filed by the clerk under its item field, and survives because it was shelved in the bin of flat washers, 6 mm, in a stockroom nobody ever counted.</p>
+<hr />
+<h2>Provenance and ground</h2>
+<p>One reel, recovered from a collapsed stockroom; read optically by Halvorsen, E.&rsquo;s laboratory. The machine&rsquo;s printed record, kept on thermal paper, is blank.</p>
+<h2>See also</h2>
+<ul>
+<li><strong><a href="the_night_charge_ledger.html">The Night-Charge Ledger</a></strong></li>
+<li><strong>The Reckoner&rsquo;s Ledger</strong></li>
+</ul>
+<h2>Notes</h2>
+<ol>
+<li>Coded size is 72 characters per run (64 plus an 8-character count field); the ratio is raw divided by coded.</li>
+<li>The earlier designation &ldquo;the Washer Run&rdquo; is deprecated. The tape ends with a closed count field of 1,100 and no following run; whether a 1,101st night was balanced is not recorded.</li>
+</ol></div>
+</article>
+</div>
+<footer class="site-footer"><div class="site-footer-inner">
+<p>Terran Encyclopaedia · 3000 CE edition. A work of speculative fiction: every
+article, source, scholar, and citation is invented. Rendered into Reconstructed
+Late Combustion English by convention of the Historical Faculty.</p>
+</div></footer>
+</body>
+</html>
